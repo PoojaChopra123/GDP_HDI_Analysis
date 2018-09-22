@@ -1,0 +1,265 @@
+Country,Country Code,GDP Volatility,Median Inflation
+Aruba,ABW,4.29,3.30%
+Afghanistan,AFG,5.6,7.20%
+Angola,AGO,8.1,63.60%
+Albania,ALB,7.5,2.90%
+Andorra,AND,3.74,0
+Arab World,ARB,4.41,5.10%
+United Arab Emirates,ARE,7.55,1.60%
+Argentina,ARG,5.63,24.40%
+Armenia,ARM,11.28,4.40%
+American Samoa,ASM,2.2,0
+Antigua and Barbuda,ATG,4.85,1.60%
+Australia,AUS,1.73,3.30%
+Austria,AUT,1.97,3.00%
+Azerbaijan,AZE,13.05,4.20%
+Burundi,BDI,5.62,7.90%
+Belgium,BEL,2,2.80%
+Benin,BEN,3.04,2.60%
+Burkina Faso,BFA,3.11,2.30%
+Bangladesh,BGD,3.75,6.20%
+Bulgaria,BGR,4.5,6.30%
+Bahrain,BHR,4.02,2.40%
+"Bahamas, The",BHS,6.77,4.00%
+Bosnia and Herzegovina,BIH,18.53,1.50%
+Belarus,BLR,6.61,35.50%
+Belize,BLZ,3.94,2.30%
+Bermuda,BMU,4.15,0
+Bolivia,BOL,3.37,7.90%
+Brazil,BRA,4.12,8.90%
+Barbados,BRB,3.05,5.00%
+Brunei Darussalam,BRN,6.14,1.20%
+Bhutan,BTN,4.89,7.00%
+Botswana,BWA,5.97,9.10%
+Central African Republic,CAF,6.27,2.30%
+Canada,CAN,2.15,2.70%
+Central Europe and the Baltics,CEB,3.28,4.00%
+Switzerland,CHE,1.57,1.80%
+Channel Islands,CHI,3.28,0
+Chile,CHL,4.55,14.70%
+China,CHN,6.87,2.90%
+Cote d'Ivoire,CIV,5.36,4.00%
+Cameroon,CMR,5.49,4.00%
+"Congo, Dem. Rep.",COD,5.98,36.10%
+"Congo, Rep.",COG,5.61,3.00%
+Colombia,COL,2.13,16.20%
+Comoros,COM,2.97,3.40%
+Cabo Verde,CPV,4.86,4.10%
+Costa Rica,CRI,2.98,9.80%
+Caribbean small states,CSS,2.53,4.00%
+Cuba,CUB,5.93,0
+Curacao,CUW,0,0
+Cayman Islands,CYM,0,0
+Cyprus,CYP,4.55,3.00%
+Czech Republic,CZE,3.77,2.50%
+Germany,DEU,1.94,1.50%
+Djibouti,DJI,2.2,2.90%
+Dominica,DMA,5.24,2.80%
+Denmark,DNK,2.29,3.40%
+Dominican Republic,DOM,4.99,7.60%
+Algeria,DZA,7.36,6.20%
+East Asia & Pacific (excluding high income),EAP,3.59,5.30%
+Early-demographic dividend,EAR,2.12,6.90%
+East Asia & Pacific,EAS,2.17,3.70%
+Europe & Central Asia (excluding high income),ECA,5.27,7.70%
+Europe & Central Asia,ECS,1.72,2.90%
+Ecuador,ECU,3.12,10.70%
+"Egypt, Arab Rep.",EGY,2.76,9.90%
+Euro area,EMU,2.14,3.30%
+Eritrea,ERI,6.59,0
+Spain,ESP,3.02,5.00%
+Estonia,EST,5.67,4.10%
+Ethiopia,ETH,6.6,7.60%
+European Union,EUU,1.89,3.90%
+Fragile and conflict affected situations,FCS,6.28,6.00%
+Finland,FIN,3.07,3.40%
+Fiji,FJI,4.39,4.90%
+France,FRA,2.03,2.70%
+Faroe Islands,FRO,0,0
+"Micronesia, Fed. Sts.",FSM,3.33,0
+Gabon,GAB,9.38,3.60%
+United Kingdom,GBR,2.04,2.20%
+Georgia,GEO,10.15,5.60%
+Ghana,GHA,4.35,18.10%
+Gibraltar,GIB,0,0
+Guinea,GIN,2.08,15.30%
+"Gambia, The",GMB,3.37,5.90%
+Guinea-Bissau,GNB,6.82,4.60%
+Equatorial Guinea,GNQ,28.13,4.40%
+Greece,GRC,4.48,4.30%
+Grenada,GRD,4.01,2.80%
+Greenland,GRL,4.53,0
+Guatemala,GTM,2.34,6.60%
+Guam,GUM,2.13,0
+Guyana,GUY,4.91,4.80%
+High income,HIC,1.85,2.80%
+"Hong Kong SAR, China",HKG,4.61,4.30%
+Honduras,HND,2.87,6.10%
+Heavily indebted poor countries (HIPC),HPC,2.01,8.90%
+Croatia,HRV,3.28,4.00%
+Haiti,HTI,2.42,9.00%
+Hungary,HUN,2.67,6.60%
+IBRD only,IBD,1.91,9.80%
+IDA & IBRD total,IBT,1.91,9.30%
+IDA total,IDA,2.84,7.10%
+IDA blend,IDB,4.65,5.40%
+Indonesia,IDN,3.36,9.70%
+IDA only,IDX,2.1,7.50%
+Isle of Man,IMN,4.34,0
+India,IND,3.06,7.20%
+Not classified,INX,0,0
+Ireland,IRL,4.47,3.80%
+"Iran, Islamic Rep.",IRN,8.87,14.20%
+Iraq,IRQ,18.01,5.80%
+Iceland,ISL,4.25,7.30%
+Israel,ISR,3.43,7.90%
+Italy,ITA,2.66,4.00%
+Jamaica,JAM,4.27,9.60%
+Jordan,JOR,6.15,4.80%
+Japan,JPN,3.83,2.00%
+Kazakhstan,KAZ,6.94,8.30%
+Kenya,KEN,4.5,9.30%
+Kyrgyz Republic,KGZ,7.45,6.90%
+Cambodia,KHM,8.94,3.90%
+Kiribati,KIR,9.63,0
+St. Kitts and Nevis,KNA,3.73,2.30%
+"Korea, Rep.",KOR,4.04,4.60%
+Kuwait,KWT,9.5,3.20%
+Latin America & Caribbean (excluding high income),LAC,2.7,6.80%
+Lao PDR,LAO,2.69,7.70%
+Lebanon,LBN,11.89,2.60%
+Liberia,LBR,19.5,8.50%
+Libya,LBY,33.83,6.10%
+St. Lucia,LCA,4.08,3.50%
+Latin America & Caribbean,LCN,2.56,7.00%
+Least developed countries: UN classification,LDC,2.34,8.00%
+Low income,LIC,2.29,7.70%
+Liechtenstein,LIE,2.97,0
+Sri Lanka,LKA,1.99,7.60%
+Lower middle income,LMC,1.88,8.00%
+Low & middle income,LMY,1.97,8.80%
+Lesotho,LSO,5.77,11.20%
+Late-demographic dividend,LTE,2.65,4.60%
+Lithuania,LTU,5.08,2.90%
+Luxembourg,LUX,3.31,2.70%
+Latvia,LVA,5.68,4.40%
+"Macao SAR, China",MAC,8.63,5.00%
+St. Martin (French part),MAF,0,0
+Morocco,MAR,3.7,3.30%
+Monaco,MCO,2.74,0
+Moldova,MDA,4.82,10.70%
+Madagascar,MDG,3.95,9.30%
+Maldives,MDV,7.33,4.50%
+Middle East & North Africa,MEA,4.9,4.50%
+Mexico,MEX,3.58,6.40%
+Marshall Islands,MHL,6.04,0
+Middle income,MIC,1.99,8.80%
+"Macedonia, FYR",MKD,3.68,2.30%
+Mali,MLI,5.02,1.40%
+Malta,MLT,4.08,2.30%
+Myanmar,MMR,5.37,7.70%
+Middle East & North Africa (excluding high income),MNA,5.23,6.80%
+Montenegro,MNE,4.1,2.90%
+Mongolia,MNG,5.32,9.20%
+Northern Mariana Islands,MNP,10.56,0
+Mozambique,MOZ,6.88,12.70%
+Mauritania,MRT,5.93,5.60%
+Mauritius,MUS,3.06,6.50%
+Malawi,MWI,4.91,15.10%
+Malaysia,MYS,3.32,2.70%
+North America,NAC,2.01,3.00%
+Namibia,NAM,2.97,5.50%
+New Caledonia,NCL,9.28,0
+Niger,NER,5.77,2.60%
+Nigeria,NGA,8.16,11.50%
+Nicaragua,NIC,5.93,11.20%
+Netherlands,NLD,2.27,2.50%
+Norway,NOR,1.81,3.40%
+Nepal,NPL,2.7,8.40%
+Nauru,NRU,12.44,0
+New Zealand,NZL,2.45,3.40%
+OECD members,OED,1.84,3.90%
+Oman,OMN,14.93,1.60%
+Other small states,OSS,2.95,4.60%
+Pakistan,PAK,2.35,7.20%
+Panama,PAN,4.28,1.60%
+Peru,PER,4.73,8.80%
+Philippines,PHL,2.95,6.50%
+Palau,PLW,4.54,0
+Papua New Guinea,PNG,4.82,6.00%
+Poland,POL,2.63,7.00%
+Pre-demographic dividend,PRE,4.74,6.90%
+Puerto Rico,PRI,3.66,0
+"Korea, Dem. People’s Rep.",PRK,0,0
+Portugal,PRT,3.5,4.50%
+Paraguay,PRY,3.96,9.00%
+West Bank and Gaza,PSE,7.37,2.90%
+Pacific island small states,PSS,2.47,0
+Post-demographic dividend,PST,1.87,3.60%
+French Polynesia,PYF,5.18,0
+Qatar,QAT,7.42,3.00%
+Romania,ROU,5.26,13.60%
+Russian Federation,RUS,6.44,13.90%
+Rwanda,RWA,10.17,6.20%
+South Asia,SAS,2.53,7.50%
+Saudi Arabia,SAU,11.89,1.60%
+Sudan,SDN,5.22,17.10%
+Senegal,SEN,3.55,2.20%
+Singapore,SGP,4.22,1.70%
+Solomon Islands,SLB,5.8,8.70%
+Sierra Leone,SLE,7.12,11.50%
+El Salvador,SLV,3.62,4.50%
+San Marino,SMR,5.57,2.00%
+Somalia,SOM,8.71,0
+Serbia,SRB,4.49,11.40%
+Sub-Saharan Africa (excluding high income),SSA,2.75,9.20%
+South Sudan,SSD,26.74,25.00%
+Sub-Saharan Africa,SSF,2.75,8.40%
+Small states,SST,2.44,4.20%
+Sao Tome and Principe,STP,2,13.00%
+Suriname,SUR,5.06,9.70%
+Slovak Republic,SVK,3.07,4.50%
+Slovenia,SVN,3.12,4.60%
+Sweden,SWE,2.19,3.40%
+Swaziland,SWZ,4.76,8.10%
+Sint Maarten (Dutch part),SXM,0,0
+Seychelles,SYC,6.11,3.90%
+Syrian Arab Republic,SYR,8.08,6.10%
+Turks and Caicos Islands,TCA,0,0
+Chad,TCD,8.4,3.70%
+East Asia & Pacific (IDA & IBRD countries),TEA,3.59,5.30%
+Europe & Central Asia (IDA & IBRD countries),TEC,4.77,7.60%
+Togo,TGO,5.66,2.90%
+Thailand,THA,3.6,3.70%
+Tajikistan,TJK,10.27,7.10%
+Turkmenistan,TKM,10.1,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2.6,6.00%
+Timor-Leste,TLS,21.24,5.40%
+Middle East & North Africa (IDA & IBRD countries),TMN,5.24,6.20%
+Tonga,TON,2.41,6.30%
+South Asia (IDA & IBRD),TSA,2.53,7.50%
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2.75,8.40%
+Trinidad and Tobago,TTO,4.96,6.90%
+Tunisia,TUN,3.35,4.50%
+Turkey,TUR,3.91,17.40%
+Tuvalu,TUV,5.45,0
+Tanzania,TZA,2.14,12.70%
+Uganda,UGA,2.97,8.60%
+Ukraine,UKR,8.36,13.20%
+Upper middle income,UMC,2.27,8.70%
+Uruguay,URY,4.15,34.00%
+United States,USA,2.04,3.00%
+Uzbekistan,UZB,4.69,0
+St. Vincent and the Grenadines,VCT,5.81,2.90%
+"Venezuela, RB",VEN,5.22,16.00%
+British Virgin Islands,VGB,0,0
+Virgin Islands (U.S.),VIR,5.99,0
+Vietnam,VNM,1.54,6.60%
+Vanuatu,VUT,4.68,3.10%
+World,WLD,1.61,6.20%
+Samoa,WSM,3.26,4.90%
+Kosovo,XKX,5.75,0.50%
+"Yemen, Rep.",YEM,11.21,11.50%
+South Africa,ZAF,2.41,7.10%
+Zambia,ZMB,4.63,22.20%
+Zimbabwe,ZWE,7.37,11.70%
