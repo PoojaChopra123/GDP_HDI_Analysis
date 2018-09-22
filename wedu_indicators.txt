@@ -1,0 +1,2230 @@
+INDICATOR|CODE
+
+Adjusted net intake rate (%). Primary. Female|UIS_NIRA_1_F
+Adjusted net intake rate (%). Primary. Male|UIS_NIRA_1_M
+Adjusted net intake rate (%). Primary. Total|UIS_NIRA_1
+Adult illiterate population. % female|UIS_LPP_AG15T99
+Adult illiterate population. Female|UIS_LP_AG15T99_F
+Adult illiterate population. Male|UIS_LP_AG15T99_M
+Adult illiterate population. Total|UIS_LP_AG15T99
+average years of primary schooling, 15-19, female|BAR_PRM_SCHL_1519_FE
+average years of primary schooling, 15-19, total|BAR_PRM_SCHL_1519
+average years of primary schooling, 15+, female|BAR_PRM_SCHL_15UP_FE
+average years of primary schooling, 15+, total|BAR_PRM_SCHL_15UP
+average years of primary schooling, 20-24, female|BAR_PRM_SCHL_2024_FE
+average years of primary schooling, 20-24, total|BAR_PRM_SCHL_2024
+average years of primary schooling, 25-29, female|BAR_PRM_SCHL_2529_FE
+average years of primary schooling, 25-29, total|BAR_PRM_SCHL_2529
+average years of primary schooling, 25+, female|BAR_PRM_SCHL_25UP_FE
+average years of primary schooling, 25+, total|BAR_PRM_SCHL_25UP
+average years of primary schooling, 30-34, female|BAR_PRM_SCHL_3034_FE
+average years of primary schooling, 30-34, total|BAR_PRM_SCHL_3034
+average years of primary schooling, 35-39, female|BAR_PRM_SCHL_3539_FE
+average years of primary schooling, 35-39, total|BAR_PRM_SCHL_3539
+average years of primary schooling, 40-44, female|BAR_PRM_SCHL_4044_FE
+average years of primary schooling, 40-44, total|BAR_PRM_SCHL_4044
+average years of primary schooling, 45-49, female|BAR_PRM_SCHL_4549_FE
+average years of primary schooling, 45-49, total|BAR_PRM_SCHL_4549
+average years of primary schooling, 50-54, female|BAR_PRM_SCHL_5054_FE
+average years of primary schooling, 50-54, total|BAR_PRM_SCHL_5054
+average years of primary schooling, 55-59, female|BAR_PRM_SCHL_5559_FE
+average years of primary schooling, 55-59, total|BAR_PRM_SCHL_5559
+average years of primary schooling, 60-64, female|BAR_PRM_SCHL_6064_FE
+average years of primary schooling, 60-64, total|BAR_PRM_SCHL_6064
+average years of primary schooling, 65-69, female|BAR_PRM_SCHL_6569_FE
+average years of primary schooling, 65-69, total|BAR_PRM_SCHL_6569
+average years of primary schooling, 70-74, female|BAR_PRM_SCHL_7074_FE
+average years of primary schooling, 70-74, total|BAR_PRM_SCHL_7074
+average years of primary schooling, 75+, female|BAR_PRM_SCHL_75UP_FE
+average years of primary schooling, 75+, total|BAR_PRM_SCHL_75UP
+average years of secondary schooling, 15-19, female|BAR_SEC_SCHL_1519_FE
+average years of secondary schooling, 15-19, total|BAR_SEC_SCHL_1519
+average years of secondary schooling, 15+, female|BAR_SEC_SCHL_15UP_FE
+average years of secondary schooling, 15+, total|BAR_SEC_SCHL_15UP
+average years of secondary schooling, 20-24, female|BAR_SEC_SCHL_2024_FE
+average years of secondary schooling, 20-24, total|BAR_SEC_SCHL_2024
+average years of secondary schooling, 25-29, female|BAR_SEC_SCHL_2529_FE
+average years of secondary schooling, 25-29, total|BAR_SEC_SCHL_2529
+average years of secondary schooling, 25+, female|BAR_SEC_SCHL_25UP_FE
+average years of secondary schooling, 25+, total|BAR_SEC_SCHL_25UP
+average years of secondary schooling, 30-34, female|BAR_SEC_SCHL_3034_FE
+average years of secondary schooling, 30-34, total|BAR_SEC_SCHL_3034
+average years of secondary schooling, 35-39, female|BAR_SEC_SCHL_3539_FE
+average years of secondary schooling, 35-39, total|BAR_SEC_SCHL_3539
+average years of secondary schooling, 40-44, female|BAR_SEC_SCHL_4044_FE
+average years of secondary schooling, 40-44, total|BAR_SEC_SCHL_4044
+average years of secondary schooling, 45-49, female|BAR_SEC_SCHL_4549_FE
+average years of secondary schooling, 45-49, total|BAR_SEC_SCHL_4549
+average years of secondary schooling, 50-54, female|BAR_SEC_SCHL_5054_FE
+average years of secondary schooling, 50-54, total|BAR_SEC_SCHL_5054
+average years of secondary schooling, 55-59, female|BAR_SEC_SCHL_5559_FE
+average years of secondary schooling, 55-59, total|BAR_SEC_SCHL_5559
+average years of secondary schooling, 60-64, female|BAR_SEC_SCHL_6064_FE
+average years of secondary schooling, 60-64, total|BAR_SEC_SCHL_6064
+average years of secondary schooling, 65-69, female|BAR_SEC_SCHL_6569_FE
+average years of secondary schooling, 65-69, total|BAR_SEC_SCHL_6569
+average years of secondary schooling, 70-74, female|BAR_SEC_SCHL_7074_FE
+average years of secondary schooling, 70-74, total|BAR_SEC_SCHL_7074
+average years of secondary schooling, 75+, female|BAR_SEC_SCHL_75UP_FE
+average years of secondary schooling, 75+, total|BAR_SEC_SCHL_75UP
+average years of tertiary schooling, 15-19, female|BAR_TER_SCHL_1519_FE
+average years of tertiary schooling, 15-19, total|BAR_TER_SCHL_1519
+average years of tertiary schooling, 15+, female|BAR_TER_SCHL_15UP_FE
+average years of tertiary schooling, 15+, total|BAR_TER_SCHL_15UP
+average years of tertiary schooling, 20-24, female|BAR_TER_SCHL_2024_FE
+average years of tertiary schooling, 20-24, total|BAR_TER_SCHL_2024
+average years of tertiary schooling, 25-29, female|BAR_TER_SCHL_2529_FE
+average years of tertiary schooling, 25-29, total|BAR_TER_SCHL_2529
+average years of tertiary schooling, 25+, female|BAR_TER_SCHL_25UP_FE
+average years of tertiary schooling, 25+, total|BAR_TER_SCHL_25UP
+average years of tertiary schooling, 30-34, female|BAR_TER_SCHL_3034_FE
+average years of tertiary schooling, 30-34, total|BAR_TER_SCHL_3034
+average years of tertiary schooling, 35-39, female|BAR_TER_SCHL_3539_FE
+average years of tertiary schooling, 35-39, total|BAR_TER_SCHL_3539
+average years of tertiary schooling, 40-44, female|BAR_TER_SCHL_4044_FE
+average years of tertiary schooling, 40-44, total|BAR_TER_SCHL_4044
+average years of tertiary schooling, 45-49, female|BAR_TER_SCHL_4549_FE
+average years of tertiary schooling, 45-49, total|BAR_TER_SCHL_4549
+average years of tertiary schooling, 50-54, female|BAR_TER_SCHL_5054_FE
+average years of tertiary schooling, 50-54, total|BAR_TER_SCHL_5054
+average years of tertiary schooling, 55-59, female|BAR_TER_SCHL_5559_FE
+average years of tertiary schooling, 55-59, total|BAR_TER_SCHL_5559
+average years of tertiary schooling, 60-64, female|BAR_TER_SCHL_6064_FE
+average years of tertiary schooling, 60-64, total|BAR_TER_SCHL_6064
+average years of tertiary schooling, 65-69, female|BAR_TER_SCHL_6569_FE
+average years of tertiary schooling, 65-69, total|BAR_TER_SCHL_6569
+average years of tertiary schooling, 70-74, female|BAR_TER_SCHL_7074_FE
+average years of tertiary schooling, 70-74, total|BAR_TER_SCHL_7074
+average years of tertiary schooling, 75+, female|BAR_TER_SCHL_75UP_FE
+average years of tertiary schooling, 75+, total|BAR_TER_SCHL_75UP
+average years of total schooling, 15-19, female|BAR_SCHL_1519_FE
+average years of total schooling, 15-19, total|BAR_SCHL_1519
+average years of total schooling, 15+, female|BAR_SCHL_15UP_FE
+average years of total schooling, 15+, total|BAR_SCHL_15UP
+average years of total schooling, 20-24, female|BAR_SCHL_2024_FE
+average years of total schooling, 20-24, total|BAR_SCHL_2024
+average years of total schooling, 25-29, female|BAR_SCHL_2529_FE
+average years of total schooling, 25-29, total|BAR_SCHL_2529
+average years of total schooling, 25+, female|BAR_SCHL_25UP_FE
+average years of total schooling, 25+, total|BAR_SCHL_25UP
+average years of total schooling, 30-34, female|BAR_SCHL_3034_FE
+average years of total schooling, 30-34, total|BAR_SCHL_3034
+average years of total schooling, 35-39, female|BAR_SCHL_3539_FE
+average years of total schooling, 35-39, total|BAR_SCHL_3539
+average years of total schooling, 40-44, female|BAR_SCHL_4044_FE
+average years of total schooling, 40-44, total|BAR_SCHL_4044
+average years of total schooling, 45-49, female|BAR_SCHL_4549_FE
+average years of total schooling, 45-49, total|BAR_SCHL_4549
+average years of total schooling, 50-54, female|BAR_SCHL_5054_FE
+average years of total schooling, 50-54, total|BAR_SCHL_5054
+average years of total schooling, 55-59, female|BAR_SCHL_5559_FE
+average years of total schooling, 55-59, total|BAR_SCHL_5559
+average years of total schooling, 60-64, female|BAR_SCHL_6064_FE
+average years of total schooling, 60-64, total|BAR_SCHL_6064
+average years of total schooling, 65-69, female|BAR_SCHL_6569_FE
+average years of total schooling, 65-69, total|BAR_SCHL_6569
+average years of total schooling, 70-74, female|BAR_SCHL_7074_FE
+average years of total schooling, 70-74, total|BAR_SCHL_7074
+average years of total schooling, 75+, female|BAR_SCHL_75UP_FE
+average years of total schooling, 75+, total|BAR_SCHL_75UP
+Current expenditure on education as % of GNI|UIS_XGNP_FSGOV_FNCUR_FFD
+DHS: Average years of schooling by age group. Age 15-19|HH_DHS_YRS_1519
+DHS: Average years of schooling by age group. Age 15-19. Female|HH_DHS_YRS_1519_F
+DHS: Average years of schooling by age group. Age 15-19. Male|HH_DHS_YRS_1519_M
+DHS: Average years of schooling by age group. Age 15-19. Quintile 1|HH_DHS_YRS_1519_Q1
+DHS: Average years of schooling by age group. Age 15-19. Quintile 2|HH_DHS_YRS_1519_Q2
+DHS: Average years of schooling by age group. Age 15-19. Quintile 3|HH_DHS_YRS_1519_Q3
+DHS: Average years of schooling by age group. Age 15-19. Quintile 4|HH_DHS_YRS_1519_Q4
+DHS: Average years of schooling by age group. Age 15-19. Quintile 5|HH_DHS_YRS_1519_Q5
+DHS: Average years of schooling by age group. Age 15-19. Rural|HH_DHS_YRS_1519_R
+DHS: Average years of schooling by age group. Age 15-19. Urban|HH_DHS_YRS_1519_U
+DHS: Gini coefficient of average years of schooling. Age 15+|HH_DHS_YRS_15UP_GIN
+DHS: Gini coefficient of average years of schooling. Age 15+. Female|HH_DHS_YRS_15UP_GIN_F
+DHS: Gini coefficient of average years of schooling. Age 15+. Male|HH_DHS_YRS_15UP_GIN_M
+DHS: Gini coefficient of average years of schooling. Age 15+. Quintile 1|HH_DHS_YRS_15UP_GIN_Q1
+DHS: Gini coefficient of average years of schooling. Age 15+. Quintile 2|HH_DHS_YRS_15UP_GIN_Q2
+DHS: Gini coefficient of average years of schooling. Age 15+. Quintile 3|HH_DHS_YRS_15UP_GIN_Q3
+DHS: Gini coefficient of average years of schooling. Age 15+. Quintile 4|HH_DHS_YRS_15UP_GIN_Q4
+DHS: Gini coefficient of average years of schooling. Age 15+. Quintile 5|HH_DHS_YRS_15UP_GIN_Q5
+DHS: Gini coefficient of average years of schooling. Age 15+. Rural|HH_DHS_YRS_15UP_GIN_R
+DHS: Gini coefficient of average years of schooling. Age 15+. Urban|HH_DHS_YRS_15UP_GIN_U
+DHS: Gross attendance rate. Post Secondary|HH_DHS_GAR_456
+DHS: Gross attendance rate. Post Secondary. Female|HH_DHS_GAR_456_F
+DHS: Gross attendance rate. Post Secondary. Male|HH_DHS_GAR_456_M
+DHS: Gross attendance rate. Post Secondary. Quintile 1|HH_DHS_GAR_456_Q1
+DHS: Gross attendance rate. Post Secondary. Quintile 2|HH_DHS_GAR_456_Q2
+DHS: Gross attendance rate. Post Secondary. Quintile 3|HH_DHS_GAR_456_Q3
+DHS: Gross attendance rate. Post Secondary. Quintile 4|HH_DHS_GAR_456_Q4
+DHS: Gross attendance rate. Post Secondary. Quintile 5|HH_DHS_GAR_456_Q5
+DHS: Gross attendance rate. Post Secondary. Rural|HH_DHS_GAR_456_R
+DHS: Gross attendance rate. Post Secondary. Urban|HH_DHS_GAR_456_U
+DHS: Net attendance rate. Primary|HH_DHS_NAR_1
+DHS: Net attendance rate. Primary. Female|HH_DHS_NAR_1_F
+DHS: Net attendance rate. Primary. Male|HH_DHS_NAR_1_M
+DHS: Net attendance rate. Primary. Quintile 1|HH_DHS_NAR_1_Q1
+DHS: Net attendance rate. Primary. Quintile 2|HH_DHS_NAR_1_Q2
+DHS: Net attendance rate. Primary. Quintile 3|HH_DHS_NAR_1_Q3
+DHS: Net attendance rate. Primary. Quintile 4|HH_DHS_NAR_1_Q4
+DHS: Net attendance rate. Primary. Quintile 5|HH_DHS_NAR_1_Q5
+DHS: Net attendance rate. Primary. Rural|HH_DHS_NAR_1_R
+DHS: Net attendance rate. Primary. Urban|HH_DHS_NAR_1_U
+DHS: Net attendance rate. Secondary|HH_DHS_NAR_23
+DHS: Net attendance rate. Secondary. Female|HH_DHS_NAR_23_F
+DHS: Net attendance rate. Secondary. Male|HH_DHS_NAR_23_M
+DHS: Net attendance rate. Secondary. Quintile 1|HH_DHS_NAR_23_Q1
+DHS: Net attendance rate. Secondary. Quintile 2|HH_DHS_NAR_23_Q2
+DHS: Net attendance rate. Secondary. Quintile 3|HH_DHS_NAR_23_Q3
+DHS: Net attendance rate. Secondary. Quintile 4|HH_DHS_NAR_23_Q4
+DHS: Net attendance rate. Secondary. Quintile 5|HH_DHS_NAR_23_Q5
+DHS: Net attendance rate. Secondary. Rural|HH_DHS_NAR_23_R
+DHS: Net attendance rate. Secondary. Urban|HH_DHS_NAR_23_U
+DHS: Net intake rate for the first grade of primary education|HH_DHS_NIR_1
+DHS: Net intake rate for the first grade of primary education. Female|HH_DHS_NIR_1_F
+DHS: Net intake rate for the first grade of primary education. Male|HH_DHS_NIR_1_M
+DHS: Net intake rate for the first grade of primary education. Quintile 1|HH_DHS_NIR_1_Q1
+DHS: Net intake rate for the first grade of primary education. Quintile 2|HH_DHS_NIR_1_Q2
+DHS: Net intake rate for the first grade of primary education. Quintile 3|HH_DHS_NIR_1_Q3
+DHS: Net intake rate for the first grade of primary education. Quintile 4|HH_DHS_NIR_1_Q4
+DHS: Net intake rate for the first grade of primary education. Quintile 5|HH_DHS_NIR_1_Q5
+DHS: Net intake rate for the first grade of primary education. Rural|HH_DHS_NIR_1_R
+DHS: Net intake rate for the first grade of primary education. Urban|HH_DHS_NIR_1_U
+DHS: Primary completion rate|HH_DHS_PCR
+DHS: Primary completion rate. Female|HH_DHS_PCR_F
+DHS: Primary completion rate. Male|HH_DHS_PCR_M
+DHS: Primary completion rate. Quintile 1|HH_DHS_PCR_Q1
+DHS: Primary completion rate. Quintile 2|HH_DHS_PCR_Q2
+DHS: Primary completion rate. Quintile 3|HH_DHS_PCR_Q3
+DHS: Primary completion rate. Quintile 4|HH_DHS_PCR_Q4
+DHS: Primary completion rate. Quintile 5|HH_DHS_PCR_Q5
+DHS: Primary completion rate. Rural|HH_DHS_PCR_R
+DHS: Primary completion rate. Urban|HH_DHS_PCR_U
+DHS: Proportion of out-of-school. Primary|HH_DHS_OOS_1
+DHS: Proportion of out-of-school. Primary. Female|HH_DHS_OOS_1_F
+DHS: Proportion of out-of-school. Primary. Male|HH_DHS_OOS_1_M
+DHS: Proportion of out-of-school. Primary. Quintile 1|HH_DHS_OOS_1_Q1
+DHS: Proportion of out-of-school. Primary. Quintile 2|HH_DHS_OOS_1_Q2
+DHS: Proportion of out-of-school. Primary. Quintile 3|HH_DHS_OOS_1_Q3
+DHS: Proportion of out-of-school. Primary. Quintile 4|HH_DHS_OOS_1_Q4
+DHS: Proportion of out-of-school. Primary. Quintile 5|HH_DHS_OOS_1_Q5
+DHS: Proportion of out-of-school. Primary. Rural|HH_DHS_OOS_1_R
+DHS: Proportion of out-of-school. Primary. Urban|HH_DHS_OOS_1_U
+DHS: Secondary completion rate|HH_DHS_SCR
+DHS: Secondary completion rate. Female|HH_DHS_SCR_F
+DHS: Secondary completion rate. Male|HH_DHS_SCR_M
+DHS: Secondary completion rate. Quintile 1|HH_DHS_SCR_Q1
+DHS: Secondary completion rate. Quintile 2|HH_DHS_SCR_Q2
+DHS: Secondary completion rate. Quintile 3|HH_DHS_SCR_Q3
+DHS: Secondary completion rate. Quintile 4|HH_DHS_SCR_Q4
+DHS: Secondary completion rate. Quintile 5|HH_DHS_SCR_Q5
+DHS: Secondary completion rate. Rural|HH_DHS_SCR_R
+DHS: Secondary completion rate. Urban|HH_DHS_SCR_U
+DHS: Transition rate. Primary to Secondary|HH_DHS_TR_12
+DHS: Transition rate. Primary to Secondary. Female|HH_DHS_TR_12_F
+DHS: Transition rate. Primary to Secondary. Male|HH_DHS_TR_12_M
+DHS: Transition rate. Primary to Secondary. Quintile 1|HH_DHS_TR_12_Q1
+DHS: Transition rate. Primary to Secondary. Quintile 2|HH_DHS_TR_12_Q2
+DHS: Transition rate. Primary to Secondary. Quintile 3|HH_DHS_TR_12_Q3
+DHS: Transition rate. Primary to Secondary. Quintile 4|HH_DHS_TR_12_Q4
+DHS: Transition rate. Primary to Secondary. Quintile 5|HH_DHS_TR_12_Q5
+DHS: Transition rate. Primary to Secondary. Rural|HH_DHS_TR_12_R
+DHS: Transition rate. Primary to Secondary. Urban|HH_DHS_TR_12_U
+DHS: Typology of out-of-school children. Primary. Dropped out|HH_DHS_OOST_DO
+DHS: Typology of out-of-school children. Primary. Dropped out. Female|HH_DHS_OOST_DO_F
+DHS: Typology of out-of-school children. Primary. Dropped out. Male|HH_DHS_OOST_DO_M
+DHS: Typology of out-of-school children. Primary. Dropped out. Quintile 1|HH_DHS_OOST_DO_Q1
+DHS: Typology of out-of-school children. Primary. Dropped out. Quintile 2|HH_DHS_OOST_DO_Q2
+DHS: Typology of out-of-school children. Primary. Dropped out. Quintile 3|HH_DHS_OOST_DO_Q3
+DHS: Typology of out-of-school children. Primary. Dropped out. Quintile 4|HH_DHS_OOST_DO_Q4
+DHS: Typology of out-of-school children. Primary. Dropped out. Quintile 5|HH_DHS_OOST_DO_Q5
+DHS: Typology of out-of-school children. Primary. Dropped out. Rural|HH_DHS_OOST_DO_R
+DHS: Typology of out-of-school children. Primary. Dropped out. Urban|HH_DHS_OOST_DO_U
+DHS: Typology of out-of-school children. Primary. Late entry|HH_DHS_OOST_L
+DHS: Typology of out-of-school children. Primary. Late entry. Female|HH_DHS_OOST_L_F
+DHS: Typology of out-of-school children. Primary. Late entry. Male|HH_DHS_OOST_L_M
+DHS: Typology of out-of-school children. Primary. Late entry. Quintile 1|HH_DHS_OOST_L_Q1
+DHS: Typology of out-of-school children. Primary. Late entry. Quintile 2|HH_DHS_OOST_L_Q2
+DHS: Typology of out-of-school children. Primary. Late entry. Quintile 3|HH_DHS_OOST_L_Q3
+DHS: Typology of out-of-school children. Primary. Late entry. Quintile 4|HH_DHS_OOST_L_Q4
+DHS: Typology of out-of-school children. Primary. Late entry. Quintile 5|HH_DHS_OOST_L_Q5
+DHS: Typology of out-of-school children. Primary. Late entry. Rural|HH_DHS_OOST_L_R
+DHS: Typology of out-of-school children. Primary. Late entry. Urban|HH_DHS_OOST_L_U
+DHS: Typology of out-of-school children. Primary. Never in school|HH_DHS_OOST_X
+DHS: Typology of out-of-school children. Primary. Never in school. Female|HH_DHS_OOST_X_F
+DHS: Typology of out-of-school children. Primary. Never in school. Male|HH_DHS_OOST_X_M
+DHS: Typology of out-of-school children. Primary. Never in school. Quintile 1|HH_DHS_OOST_X_Q1
+DHS: Typology of out-of-school children. Primary. Never in school. Quintile 2|HH_DHS_OOST_X_Q2
+DHS: Typology of out-of-school children. Primary. Never in school. Quintile 3|HH_DHS_OOST_X_Q3
+DHS: Typology of out-of-school children. Primary. Never in school. Quintile 4|HH_DHS_OOST_X_Q4
+DHS: Typology of out-of-school children. Primary. Never in school. Quintile 5|HH_DHS_OOST_X_Q5
+DHS: Typology of out-of-school children. Primary. Never in school. Rural|HH_DHS_OOST_X_R
+DHS: Typology of out-of-school children. Primary. Never in school. Urban|HH_DHS_OOST_X_U
+Distribution of students (%).   ISCED Level 5B|UIS_TEP_5_B
+Distribution of students (%).   ISCED Level 6|UIS_TEP_6
+Distribution of students (%).  ISCED Level 5A|UIS_TEP_5_A
+Drop-out rate (%), primary|SE_PRM_DROP_ZS
+Drop-out rate (%), primary, female|SE_PRM_DROP_FE_ZS
+Drop-out rate (%), primary, male|SE_PRM_DROP_MA_ZS
+Drop-out rate. Primary. Grade 1. Female|UIS_DR_1_G1_F
+Drop-out rate. Primary. Grade 1. Male|UIS_DR_1_G1_M
+Drop-out rate. Primary. Grade 1. Total|UIS_DR_1_G1
+Drop-out rate. Primary. Grade 2. Female|UIS_DR_1_G2_F
+Drop-out rate. Primary. Grade 2. Male|UIS_DR_1_G2_M
+Drop-out rate. Primary. Grade 2. Total|UIS_DR_1_G2
+Drop-out rate. Primary. Grade 3. Female|UIS_DR_1_G3_F
+Drop-out rate. Primary. Grade 3. Male|UIS_DR_1_G3_M
+Drop-out rate. Primary. Grade 3. Total|UIS_DR_1_G3
+Drop-out rate. Primary. Grade 4. Female|UIS_DR_1_G4_F
+Drop-out rate. Primary. Grade 4. Male|UIS_DR_1_G4_M
+Drop-out rate. Primary. Grade 4. Total|UIS_DR_1_G4
+Drop-out rate. Primary. Grade 5. Female|UIS_DR_1_G5_F
+Drop-out rate. Primary. Grade 5. Male|UIS_DR_1_G5_M
+Drop-out rate. Primary. Grade 5. Total|UIS_DR_1_G5
+Drop-out rate. Primary. Grade 6. Female|UIS_DR_1_G6_F
+Drop-out rate. Primary. Grade 6. Male|UIS_DR_1_G6_M
+Drop-out rate. Primary. Grade 6. Total|UIS_DR_1_G6
+Drop-out rate. Primary. Grade 7. Female|UIS_DR_1_G7_F
+Drop-out rate. Primary. Grade 7. Male|UIS_DR_1_G7_M
+Drop-out rate. Primary. Grade 7. Total|UIS_DR_1_G7
+Duration of 2A lower secondary|SE_SEC_DURS_LO
+Duration of 2A lower secondary|UIS_THDUR_2_A_GPV
+Duration of 3A upper secondary|UIS_THDUR_3_A_GPV
+Duration of 4A post-secondary|UIS_THDUR_4_A_GPV
+Duration of education, compulsory|SE_COM_DURS
+Duration of education, upper secondary|SE_SEC_DURS_UP
+Duration of pre-primary|UIS_THDUR_0
+Educational expenditure in lower secondary as % of total educational expenditure|UIS_XPUBP_2
+Educational expenditure in post secondary as % of total educational expenditure|UIS_XPUBP_4
+Educational expenditure in pre-primary as % of total educational expenditure|UIS_XPUBP_0
+Educational expenditure in upper secondary as % of total educational expenditure|UIS_XPUBP_3
+Educational expenditure not allocated by level as % of total educational expenditure|UIS_XPUBP_UK
+Educational expenditure on capital as a % of total educational expenditure on public institutions. ISCED 1,2,3,4.|UIS_XSPENDP_1234_FDPUB_FNCAP
+Educational expenditure on capital as a % of total educational expenditure on public institutions. Tertiary.|UIS_XSPENDP_56_FDPUB_FNCAP
+Educational expenditure on other current expenditures as a % of total educational expenditure on public institutions. ISCED 1,2,3,4.|UIS_XSPENDP_1234_FDPUB_FNNONS
+Educational expenditure on other current expenditures as a % of total educational expenditure on public institutions. Tertiary.|UIS_XSPENDP_56_FDPUB_FNNONS
+Educational expenditure on salaries as a % of total educational expenditure on public institutions. ISCED 1,2,3,4.|UIS_XSPENDP_1234_FDPUB_FNS
+Educational expenditure on salaries as a % of total educational expenditure on public institutions. Tertiary.|UIS_XSPENDP_56_FDPUB_FNS
+Educational expenditure on total current expenditures as a % of total educational expenditure on public institutions. ISCED 1,2,3,4.|UIS_XSPENDP_1234_FDPUB_FNCUR
+Educational expenditure on total current expenditures as a % of total educational expenditure on public institutions. Tertiary.|UIS_XSPENDP_56_FDPUB_FNCUR
+Effective transition rate from primary (ISCED 1) to secondary (ISCED 2). General programmes (%). Female|UIS_TRANRA_23_GPV_F
+Effective transition rate from primary (ISCED 1) to secondary (ISCED 2). General programmes (%). Male|UIS_TRANRA_23_GPV_M
+Effective transition rate from primary (ISCED 1) to secondary (ISCED 2). General programmes (%). Total|UIS_TRANRA_23_GPV
+Elderly (65+) literacy rate (%). Female|UIS_LR_AG65_F
+Elderly (65+) literacy rate (%). Male|UIS_LR_AG65_M
+Elderly (65+) literacy rate (%). Total|UIS_LR_AG65
+Elderly illiterate population. % female|UIS_LPP_AG65
+Elderly illiterate population. Female|UIS_LP_AG65_F
+Elderly illiterate population. Male|UIS_LP_AG65_M
+Elderly illiterate population. Total|UIS_LP_AG65
+Ending age of compulsory education|UIS_CEAGEE_1
+Ending month of the academic year (Questionnaire A)|UIS_AY_EM
+Ending year of the academic year (Questionnaire A)|UIS_AY_EY
+Enrolment in 5A tertiary. Public and private. Full and part time. Female|UIS_E_5_A_F
+Enrolment in 5A tertiary. Public and private. Full and part time. Total|UIS_E_5_A
+Enrolment in 5B tertiary. Public and private. Full and part time. Female|UIS_E_5_B_F
+Enrolment in 5B tertiary. Public and private. Full and part time. Total|UIS_E_5_B
+Enrolment in 6 tertiary. Public and private. Full and part time. Female|UIS_E_6_F
+Enrolment in 6 tertiary. Public and private. Full and part time. Total|UIS_E_6
+Enrolment in agriculture. Tertiary. Female|UIS_E_56_F600_F
+Enrolment in agriculture. Tertiary. Total|UIS_E_56_F600
+Enrolment in education. Tertiary.  Female|UIS_E_56_F140_F
+Enrolment in education. Tertiary. Total|UIS_E_56_F140
+Enrolment in engineering, manufacturing and construction. Tertiary.  Female|UIS_E_56_F500_F
+Enrolment in engineering, manufacturing and construction. Tertiary. Total|UIS_E_56_F500
+Enrolment in general programmes. Tertiary.  Female|UIS_E_56_FUK2_F
+Enrolment in general programmes. Tertiary. Total|UIS_E_56_FUK2
+Enrolment in health and welfare. Tertiary.  Female|UIS_E_56_F700_F
+Enrolment in health and welfare. Tertiary. Total|UIS_E_56_F700
+Enrolment in humanities and arts. Tertiary.  Female|UIS_E_56_F200_F
+Enrolment in humanities and arts. Tertiary. Total|UIS_E_56_F200
+Enrolment in lower secondary. Public and private. All programmes. Female|UIS_E_2_F
+Enrolment in lower secondary. Public and private. All programmes. Total|UIS_E_2
+Enrolment in lower secondary. Public and private. General programmes. Female|UIS_E_2_GPV_F
+Enrolment in lower secondary. Public and private. General programmes. Total|UIS_E_2_GPV
+Enrolment in lower secondary. Public and private. Technical/vocational programmes. Female|UIS_E_2_V_F
+Enrolment in lower secondary. Public and private. Technical/vocational programmes. Total|UIS_E_2_V
+Enrolment in lower secondary. Public. All programmes. Female|UIS_E_2_PU_F
+Enrolment in lower secondary. Public. All programmes. Total|UIS_E_2_PU
+Enrolment in lower secondary. Public. General programmes. Female|UIS_E_2_GPV_PU_F
+Enrolment in lower secondary. Public. General programmes. Total|UIS_E_2_GPV_PU
+Enrolment in lower secondary. Public. Technical/vocational programmes. Female|UIS_E_2_V_PU_F
+Enrolment in lower secondary. Public. Technical/vocational programmes. Total|UIS_E_2_V_PU
+Enrolment in post-secondary non tertiary. Public and private. All programmes. Female|UIS_E_4_F
+Enrolment in post-secondary non tertiary. Public and private. All programmes. Total|UIS_E_4
+Enrolment in post-secondary non tertiary. Public. All programmes. Female|UIS_E_4_PU_F
+Enrolment in post-secondary non tertiary. Public. All programmes. Total|UIS_E_4_PU
+Enrolment in pre-primary. Private|UIS_E_0_PR
+Enrolment in pre-primary. Public and private. All programmes. Female|SE_PRE_ENRL_FE
+Enrolment in pre-primary. Public and private. All programmes. Male|SE_PRE_ENRL_MA
+Enrolment in pre-primary. Public and private. All programmes. Total|SE_PRE_ENRL
+Enrolment in pre-primary. Public. All programmes. Female|UIS_E_0_PU_F
+Enrolment in pre-primary. Public. All programmes. Total|UIS_E_0_PU
+Enrolment in primary. Grade 1.  Female|UIS_E_1_G1_F
+Enrolment in primary. Grade 1.  Total|UIS_E_1_G1
+Enrolment in primary. Grade 2.  Female|UIS_E_1_G2_F
+Enrolment in primary. Grade 2.  Total|UIS_E_1_G2
+Enrolment in primary. Grade 3.  Female|UIS_E_1_G3_F
+Enrolment in primary. Grade 3.  Total|UIS_E_1_G3
+Enrolment in primary. Grade 4.  Female|UIS_E_1_G4_F
+Enrolment in primary. Grade 4.  Total|UIS_E_1_G4
+Enrolment in primary. Grade 5.  Female|UIS_E_1_G5_F
+Enrolment in primary. Grade 5.  Total|UIS_E_1_G5
+Enrolment in primary. Grade 6.  Female|UIS_E_1_G6_F
+Enrolment in primary. Grade 6.  Total|UIS_E_1_G6
+Enrolment in primary. Grade 7.  Female|UIS_E_1_G7_F
+Enrolment in primary. Grade 7.  Total|UIS_E_1_G7
+Enrolment in primary. Grade unspecified.  Female|UIS_E_1_GUK_F
+Enrolment in primary. Grade unspecified.  Total|UIS_E_1_GUK
+Enrolment in primary. Private|UIS_E_1_PR
+Enrolment in primary. Public. All programmes. Female|UIS_E_1_PU_F
+Enrolment in primary. Public. All programmes. Total|UIS_E_1_PU
+Enrolment in science. Tertiary.  Female|UIS_E_56_F400_F
+Enrolment in science. Tertiary. Total|UIS_E_56_F400
+Enrolment in secondary. Grade 1. Female|UIS_E_23_GPV_G1_F
+Enrolment in secondary. Grade 1. Total|UIS_E_23_GPV_G1
+Enrolment in secondary. Grade 10. Female|UIS_E_23_GPV_G10_F
+Enrolment in secondary. Grade 10. Total|UIS_E_23_GPV_G10
+Enrolment in secondary. Grade 2. Female|UIS_E_23_GPV_G2_F
+Enrolment in secondary. Grade 2. Total|UIS_E_23_GPV_G2
+Enrolment in secondary. Grade 3. Female|UIS_E_23_GPV_G3_F
+Enrolment in secondary. Grade 3. Total|UIS_E_23_GPV_G3
+Enrolment in secondary. Grade 4. Female|UIS_E_23_GPV_G4_F
+Enrolment in secondary. Grade 4. Total|UIS_E_23_GPV_G4
+Enrolment in secondary. Grade 5. Female|UIS_E_23_GPV_G5_F
+Enrolment in secondary. Grade 5. Total|UIS_E_23_GPV_G5
+Enrolment in secondary. Grade 6. Female|UIS_E_23_GPV_G6_F
+Enrolment in secondary. Grade 6. Total|UIS_E_23_GPV_G6
+Enrolment in secondary. Grade 7. Female|UIS_E_23_GPV_G7_F
+Enrolment in secondary. Grade 7. Total|UIS_E_23_GPV_G7
+Enrolment in secondary. Grade 8. Female|UIS_E_23_GPV_G8_F
+Enrolment in secondary. Grade 8. Total|UIS_E_23_GPV_G8
+Enrolment in secondary. Grade 9. Female|UIS_E_23_GPV_G9_F
+Enrolment in secondary. Grade 9. Total|UIS_E_23_GPV_G9
+Enrolment in services. Tertiary.  Female|UIS_E_56_F800_F
+Enrolment in services. Tertiary. Total|UIS_E_56_F800
+Enrolment in social sciences, business and law. Tertiary.  Female|UIS_E_56_F300_F
+Enrolment in social sciences, business and law. Tertiary. Total|UIS_E_56_F300
+Enrolment in total secondary. Private|UIS_E_23_PR
+Enrolment in total secondary. Public. All programmes. Female|UIS_E_23_PU_F
+Enrolment in total secondary. Public. All programmes. Total|UIS_E_23_PU
+Enrolment in total secondary. Public. General programmes. Female|UIS_E_23_GPV_PU_F
+Enrolment in total secondary. Public. General programmes. Total|UIS_E_23_GPV_PU
+Enrolment in total secondary. Public. Technical/vocational programmes. Female|UIS_E_23_V_PU_F
+Enrolment in total secondary. Public. Technical/vocational programmes. Total|UIS_E_23_V_PU
+Enrolment in unspecified programmes. Tertiary.  Female|UIS_E_56_FUK_F
+Enrolment in unspecified programmes. Tertiary. Total|UIS_E_56_FUK
+Enrolment in upper secondary. Public and private. All programmes. Female|UIS_E_3_F
+Enrolment in upper secondary. Public and private. All programmes. Total|UIS_E_3
+Enrolment in upper secondary. Public and private. General programmes. Female|UIS_E_3_GPV_F
+Enrolment in upper secondary. Public and private. General programmes. Total|UIS_E_3_GPV
+Enrolment in upper secondary. Public and private. Technical/vocational programmes. Female|UIS_E_3_V_F
+Enrolment in upper secondary. Public and private. Technical/vocational programmes. Total|UIS_E_3_V
+Enrolment in upper secondary. Public. All programmes. Female|UIS_E_3_PU_F
+Enrolment in upper secondary. Public. All programmes. Total|UIS_E_3_PU
+Enrolment in upper secondary. Public. General programmes. Female|UIS_E_3_GPV_PU_F
+Enrolment in upper secondary. Public. General programmes. Total|UIS_E_3_GPV_PU
+Enrolment in upper secondary. Public. Technical/vocational programmes. Female|UIS_E_3_V_PU_F
+Enrolment in upper secondary. Public. Technical/vocational programmes. Total|UIS_E_3_V_PU
+Entrance age of 3A upper secondary|UIS_THAGE_3_A_GPV
+Entrance age of 4A post-secondary|UIS_THAGE_4_A_GPV
+Entrance age of pre-primary|UIS_THAGE_0
+Expected gross primary graduation ratio. Female|UIS_EGGR_1_F
+Expected gross primary graduation ratio. Male|UIS_EGGR_1_M
+Expected gross primary graduation ratio. Total|UIS_EGGR_1
+Expected primary completion rate  (% of population at theoretical entrance age)|SE_PRM_EPCR_ZS
+Expected primary completion rate, female (% of population at theoretical entrance age)|SE_PRM_EPCR_FE_ZS
+Expected primary completion rate, male (% of population at theoretical entrance age)|SE_PRM_EPCR_MA_ZS
+Female share of graduates in agriculture (%, tertiary)|SE_TER_GRAD_FE_AG_ZS
+Female share of graduates in education (%, tertiary)|SE_TER_GRAD_FE_ED_ZS
+Female share of graduates in engineering, manufacturing and construction (%, tertiary)|SE_TER_GRAD_FE_EN_ZS
+Female share of graduates in health (%, tertiary)|SE_TER_GRAD_FE_HL_ZS
+Female share of graduates in humanities and arts (%, tertiary)|SE_TER_GRAD_FE_HU_ZS
+Female share of graduates in science (%, tertiary)|SE_TER_GRAD_FE_SC_ZS
+Female share of graduates in services (%, tertiary)|SE_TER_GRAD_FE_SV_ZS
+Female share of graduates in social science, business and law (%, tertiary)|SE_TER_GRAD_FE_SS_ZS
+Female share of graduates in unknown or unspecified fields (%, tertiary)|SE_TER_GRAD_FE_OT_ZS
+Gender parity index for % of trained teachers.  Lower secondary|UIS_TRTP_2_GPI
+Gender parity index for % of trained teachers.  Pre-primary|UIS_TRTP_0_GPI
+Gender parity index for % of trained teachers.  Primary|UIS_TRTP_1_GPI
+Gender parity index for % of trained teachers.  Secondary|UIS_TRTP_23_GPI
+Gender parity index for % of trained teachers.  Upper secondary|UIS_TRTP_3_GPI
+Gender parity index for % repeaters. All grades. Primary|UIS_REPP_1_GPI
+Gender parity index for adjusted net enrolment rate.  Primary|UIS_NERT_1_GPI
+Gender parity index for adjusted net intake rate. Primary|UIS_NIRA_1_GPI
+Gender parity index for adult literacy rate|UIS_LR_AG15T99_GPI
+Gender parity index for effective transition rate. Primary (ISCED 1) to secondary (ISCED 2). General programmes|UIS_TRANRA_23_GPV_GPI
+Gender parity index for elderly literacy rate|UIS_LR_AG65_GPI
+Gender parity index for expected gross primary graduation ratio|UIS_EGGR_1_GPI
+Gender parity index for expected primary completion rate|UIS_AIRE_1_GLAST_GPI
+Gender parity index for gross enrolment ratio.  All levels combined (except pre-primary)|UIS_GER_1T6_GPI
+Gender parity index for gross enrolment ratio.  Lower secondary.  All programmes|UIS_GER_2_GPI
+Gender parity index for gross enrolment ratio.  Pre-primary|UIS_GER_0_GPI
+Gender parity index for gross enrolment ratio.  Upper secondary.  All programmes|UIS_GER_3_GPI
+Gender parity index for gross graduation ratio. Tertiary (ISCED 5A) first degree|UIS_GGR_5_A_GPI
+Gender parity index for gross intake ratio to the last grade of primary|UIS_AIR_1_GLAST_GPI
+Gender parity index for gross intake ratio. Primary|UIS_AIR_1_GPI
+Gender parity index for gross primary graduation ratio|UIS_GGR_1_GPI
+Gender parity index for net enrolment rate.   Primary|UIS_NER_1_GPI
+Gender parity index for net enrolment rate.   Secondary|UIS_NER_23_GPI
+Gender parity index for net enrolment rate.  Pre-primary|UIS_NER_0_GPI
+Gender parity index for net intake rate.  Primary.|UIS_NIR_1_GPI
+Gender parity index for new entrants to primary education with ECCE experience|UIS_ECDP_1_GPI
+Gender parity index for school life expectancy.  Primary to tertiary.|UIS_SLE_1T6_GPI
+Gender parity index for school life expectancy.  Tertiary.|UIS_SLE_56_GPI
+Gender parity index for school life expectancy. Primary to secondary.|UIS_SLE_123_GPI
+Gender parity index for survival rate to grade 4|UIS_SR_1_G4_GPI
+Gender parity index for survival rate to grade 5|UIS_SR_1_G5_GPI
+Gender parity index for survival rate to last grade of primary|UIS_SR_1_GLAST_GPI
+Gender parity index for transition rate, primary to secondary, general programmes|UIS_TRANR_23_GPV_GPI
+Girls enrollment share (%), tertiary|SE_TER_ENRL_FE_ZS
+Girls graduates share (%), tertiary|SE_TER_GRAD_FE_ZS
+GPI for gross enrollment rate, primary|GER_PRI_GPI_GENR_ZS
+GPI for gross enrollment rate,secondary|GER_SEC_GPI_GENR_ZS
+GPI for net enrollment rate, primary|GER_PRI_GPI_NENR_ZS
+GPI for net enrollment rate, secondary|GER_SEC_GPI_NENR_ZS
+Graduates in agriculture (% of total graduates, tertiary)|SE_TER_GRAD_AG_ZS
+Graduates in agriculture, female (% of total female graduates, tertiary)|SE_TER_GRAD_AG_FE_ZS
+Graduates in agriculture. Tertiary. Female|UIS_G_56_F600_DCOUNT_F
+Graduates in agriculture. Tertiary. Total|UIS_G_56_F600_DCOUNT
+Graduates in education (% of total graduates, tertiary)|SE_TER_GRAD_ED_ZS
+Graduates in education, female (% of total female graduates, tertiary)|SE_TER_GRAD_ED_FE_ZS
+Graduates in education. Tertiary. Female|UIS_G_56_F140_DCOUNT_F
+Graduates in education. Tertiary. Total|UIS_G_56_F140_DCOUNT
+Graduates in engineering, manufacturing and construction (% of total graduates, tertiary)|SE_TER_GRAD_EN_ZS
+Graduates in engineering, manufacturing and construction, female (% of total female graduates, tertiary)|SE_TER_GRAD_EN_FE_ZS
+Graduates in engineering, manufacturing and construction. Tertiary. Female|UIS_G_56_F500_DCOUNT_F
+Graduates in engineering, manufacturing and construction. Tertiary. Total|UIS_G_56_F500_DCOUNT
+Graduates in general programmes. Tertiary. Female|UIS_G_56_FUK2_DCOUNT_F
+Graduates in general programmes. Tertiary. Total|UIS_G_56_FUK2_DCOUNT
+Graduates in health (% of total graduates, tertiary)|SE_TER_GRAD_HL_ZS
+Graduates in health and welfare. Tertiary. Female|UIS_G_56_F700_DCOUNT_F
+Graduates in health and welfare. Tertiary. Total|UIS_G_56_F700_DCOUNT
+Graduates in health, female (% of total female graduates, tertiary)|SE_TER_GRAD_HL_FE_ZS
+Graduates in humanities and arts (% of total graduates, tertiary)|SE_TER_GRAD_HU_ZS
+Graduates in humanities and arts, female (% of total female graduates, tertiary)|SE_TER_GRAD_HU_FE_ZS
+Graduates in humanities and arts. Tertiary. Female|UIS_G_56_F200_DCOUNT_F
+Graduates in humanities and arts. Tertiary. Total|UIS_G_56_F200_DCOUNT
+Graduates in science (% of total graduates, tertiary)|SE_TER_GRAD_SC_ZS
+Graduates in science, female (% of total female graduates, tertiary)|SE_TER_GRAD_SC_FE_ZS
+Graduates in science. Tertiary. Female|UIS_G_56_F400_DCOUNT_F
+Graduates in science. Tertiary. Total|UIS_G_56_F400_DCOUNT
+Graduates in services (% of total graduates, tertiary)|SE_TER_GRAD_SV_ZS
+Graduates in services, female (% of total female graduates, tertiary)|SE_TER_GRAD_SV_FE_ZS
+Graduates in services. Tertiary. Female|UIS_G_56_F800_DCOUNT_F
+Graduates in services. Tertiary. Total|UIS_G_56_F800_DCOUNT
+Graduates in social science, business, law (% of total graduates, tertiary)|SE_TER_GRAD_SS_ZS
+Graduates in social science, business, law, female (% of total female graduates, tertiary)|SE_TER_GRAD_SS_FE_ZS
+Graduates in social sciences, business and law. Tertiary. Female|UIS_G_56_F300_DCOUNT_F
+Graduates in social sciences, business and law. Tertiary. Total|UIS_G_56_F300_DCOUNT
+Graduates in unknown or unspecified fields (% of total graduates, tertiary)|SE_TER_GRAD_OT_ZS
+Graduates in unknown or unspecified fields, female (% of total female graduates, tertiary)|SE_TER_GRAD_OT_FE_ZS
+Graduates in unspecified programmes. Tertiary. Female|UIS_G_56_FUK_DCOUNT_F
+Graduates in unspecified programmes. Tertiary. Total|UIS_G_56_FUK_DCOUNT
+Graduates, tertiary, female|SE_TER_GRAD_FE
+Graduates, tertiary, total|SE_TER_GRAD
+Graduation age population. Primary. Female|UIS_GAP_1_F
+Graduation age population. Primary. Male|UIS_GAP_1_M
+Graduation age population. Primary. Total|UIS_GAP_1
+Gross enrollment rate (%), lower secondary, female|SE_SEC_ENRR_LO_FE
+Gross enrollment rate (%), lower secondary, male|SE_SEC_ENRR_LO_MA
+Gross enrollment rate (%), lower secondary, total|SE_SEC_ENRR_LO
+Gross enrollment rate (%), upper secondary, total|SE_SEC_ENRR_UP
+Gross enrollment rate, primary, female|GER_PRI_GENR_FE_ZS
+Gross enrollment rate, primary, male|GER_PRI_GENR_MA_ZS
+Gross enrollment rate, primary, total|GER_PRI_GENR_ZS
+Gross enrollment rate, secondary, female|GER_SEC_GENR_FE_ZS
+Gross enrollment rate, secondary, male|GER_SEC_GENR_MA_ZS
+Gross enrollment rate, secondary, total|GER_SEC_GENR_ZS
+Gross enrolment ratio.  All levels combined (except pre-primary).  Female|UIS_GER_1T6_F
+Gross enrolment ratio.  All levels combined (except pre-primary).  Male|UIS_GER_1T6_M
+Gross enrolment ratio.  All levels combined (except pre-primary).  Total|SE_TOT_ENRR
+Gross enrolment ratio.  Primary & Secondary combined.  Female|UIS_GER_123_F
+Gross enrolment ratio.  Primary & Secondary combined.  Male|UIS_GER_123_M
+Gross enrolment ratio. Primary & Secondary combined. Total|UIS_GER_123
+Gross enrolment ratio. Upper secondary. All programmes. Female|SE_SEC_ENRR_UP_FE
+Gross enrolment ratio. Upper secondary. All programmes. Male|SE_SEC_ENRR_UP_MA
+Gross entry ratio to lower secondary. General programmes. Female|UIS_AIR_2_GPV_F
+Gross entry ratio to lower secondary. General programmes. Male|UIS_AIR_2_GPV_M
+Gross entry ratio to lower secondary. General programmes. Total|UIS_AIR_2_GPV
+Gross lower secondary graduation ratio. All programmes. Female|UIS_GGR_2_F
+Gross lower secondary graduation ratio. All programmes. Male|UIS_GGR_2_M
+Gross lower secondary graduation ratio. All programmes. Total|UIS_GGR_2
+Gross lower secondary graduation ratio. General programmes. Female|UIS_GGR_2_GPV_F
+Gross lower secondary graduation ratio. General programmes. Male|UIS_GGR_2_GPV_M
+Gross lower secondary graduation ratio. General programmes. Total|UIS_GGR_2_GPV
+Gross outbound enrolment ratio. Tertiary|UIS_GOER_56
+Gross primary graduation ratio, female|SE_PRM_CMPL_FE_ZS
+Gross primary graduation ratio, male|SE_PRM_CMPL_MA_ZS
+Gross primary graduation ratio, total|SE_PRM_CMPL_ZS
+Gross tertiary graduation ratio (first degree), female|SE_TER_CMPL_FE_ZS
+Gross tertiary graduation ratio (first degree), male|SE_TER_CMPL_MA_ZS
+Gross tertiary graduation ratio (first degree), total|SE_TER_CMPL_ZS
+Inbound mobility rate.  Total|UIS_MSEP_56
+International (or internationally mobile) students. Tertiary. % Female|UIS_FEP_56_FOREIGN
+International (or internationally mobile) students. Tertiary. Total|UIS_E_56_FOREIGN
+LLECE: 3rd grade students at the highest level of proficiency on the mathematics scale (%), female|LO_LLECE_MAT3_HIG_FE
+LLECE: 3rd grade students at the highest level of proficiency on the mathematics scale (%), male|LO_LLECE_MAT3_HIG_MA
+LLECE: 3rd grade students at the highest level of proficiency on the mathematics scale (%), total|LO_LLECE_MAT3_HIG
+LLECE: 3rd grade students at the highest level of proficiency on the reading scale (%), female|LO_LLECE_REA3_HIG_FE
+LLECE: 3rd grade students at the highest level of proficiency on the reading scale (%), male|LO_LLECE_REA3_HIG_MA
+LLECE: 3rd grade students at the highest level of proficiency on the reading scale (%), total|LO_LLECE_REA3_HIG
+LLECE: 3rd grade students at the lowest level of proficiency on the mathematics scale (%), female|LO_LLECE_MAT3_LOW_FE
+LLECE: 3rd grade students at the lowest level of proficiency on the mathematics scale (%), male|LO_LLECE_MAT3_LOW_MA
+LLECE: 3rd grade students at the lowest level of proficiency on the mathematics scale (%), total|LO_LLECE_MAT3_LOW
+LLECE: 3rd grade students at the lowest level of proficiency on the reading scale (%), female|LO_LLECE_REA3_LOW_FE
+LLECE: 3rd grade students at the lowest level of proficiency on the reading scale (%), male|LO_LLECE_REA3_LOW_MA
+LLECE: 3rd grade students at the lowest level of proficiency on the reading scale (%), total|LO_LLECE_REA3_LOW
+LLECE: 6th grade students at the highest level of proficiency on the mathematics scale (%), female|LO_LLECE_MAT6_HIG_FE
+LLECE: 6th grade students at the highest level of proficiency on the mathematics scale (%), male|LO_LLECE_MAT6_HIG_MA
+LLECE: 6th grade students at the highest level of proficiency on the mathematics scale (%), total|LO_LLECE_MAT6_HIG
+LLECE: 6th grade students at the highest level of proficiency on the reading scale (%), female|LO_LLECE_REA6_HIG_FE
+LLECE: 6th grade students at the highest level of proficiency on the reading scale (%), male|LO_LLECE_REA6_HIG_MA
+LLECE: 6th grade students at the highest level of proficiency on the reading scale (%), total|LO_LLECE_REA6_HIG
+LLECE: 6th grade students at the highest level of proficiency on the science scale (%), female|LO_LLECE_SCI6_HIG_FE
+LLECE: 6th grade students at the highest level of proficiency on the science scale (%), male|LO_LLECE_SCI6_HIG_MA
+LLECE: 6th grade students at the highest level of proficiency on the science scale (%), total|LO_LLECE_SCI6_HIG
+LLECE: 6th grade students at the lowest level of proficiency on the mathematics scale (%), female|LO_LLECE_MAT6_LOW_FE
+LLECE: 6th grade students at the lowest level of proficiency on the mathematics scale (%), male|LO_LLECE_MAT6_LOW_MA
+LLECE: 6th grade students at the lowest level of proficiency on the mathematics scale (%), total|LO_LLECE_MAT6_LOW
+LLECE: 6th grade students at the lowest level of proficiency on the reading scale (%), female|LO_LLECE_REA6_LOW_FE
+LLECE: 6th grade students at the lowest level of proficiency on the reading scale (%), male|LO_LLECE_REA6_LOW_MA
+LLECE: 6th grade students at the lowest level of proficiency on the reading scale (%), total|LO_LLECE_REA6_LOW
+LLECE: 6th grade students at the lowest level of proficiency on the science scale (%), female|LO_LLECE_SCI6_LOW_FE
+LLECE: 6th grade students at the lowest level of proficiency on the science scale (%), male|LO_LLECE_SCI6_LOW_MA
+LLECE: 6th grade students at the lowest level of proficiency on the science scale (%), total|LO_LLECE_SCI6_LOW
+LLECE:Mean performance on the mathematics scale for 3rd grade students, female|LO_LLECE_MAT3_FE
+LLECE:Mean performance on the mathematics scale for 3rd grade students, male|LO_LLECE_MAT3_MA
+LLECE:Mean performance on the mathematics scale for 3rd grade students, total|LO_LLECE_MAT3
+LLECE:Mean performance on the mathematics scale for 4th grade students, total|LO_LLECE_MAT4
+LLECE:Mean performance on the mathematics scale for 6th grade students, female|LO_LLECE_MAT6_FE
+LLECE:Mean performance on the mathematics scale for 6th grade students, male|LO_LLECE_MAT6_MA
+LLECE:Mean performance on the mathematics scale for 6th grade students, total|LO_LLECE_MAT6
+LLECE:Mean performance on the reading scale for 3rd grade students, female|LO_LLECE_REA3_FE
+LLECE:Mean performance on the reading scale for 3rd grade students, male|LO_LLECE_REA3_MA
+LLECE:Mean performance on the reading scale for 3rd grade students, total|LO_LLECE_REA3
+LLECE:Mean performance on the reading scale for 4th grade students, total|LO_LLECE_REA4
+LLECE:Mean performance on the reading scale for 6th grade students, female|LO_LLECE_REA6_FE
+LLECE:Mean performance on the reading scale for 6th grade students, male|LO_LLECE_REA6_MA
+LLECE:Mean performance on the reading scale for 6th grade students, total|LO_LLECE_REA6
+LLECE:Mean performance on the science scale for 6th grade students, female|LO_LLECE_SCI6_FE
+LLECE:Mean performance on the science scale for 6th grade students, male|LO_LLECE_SCI6_MA
+LLECE:Mean performance on the science scale for 6th grade students, total|LO_LLECE_SCI6
+mean years of schooling, 15-19, female|MYS_MEA_YSCH_1519_FE
+mean years of schooling, 15-19, male|MYS_MEA_YSCH_1519_MA
+mean years of schooling, 15-19, total|MYS_MEA_YSCH_1519_MF
+mean years of schooling, 15-44, female|MYS_MEA_YSCH_1544_FE
+mean years of schooling, 15-44, male|MYS_MEA_YSCH_1544_MA
+mean years of schooling, 15-44, total|MYS_MEA_YSCH_1544_MF
+mean years of schooling, 15-64, female|MYS_MEA_YSCH_1564_FE
+mean years of schooling, 15-64, male|MYS_MEA_YSCH_1564_MA
+mean years of schooling, 15-64, total|MYS_MEA_YSCH_1564_MF
+mean years of schooling, 15+, female|MYS_MEA_YSCH_15UP_FE
+mean years of schooling, 15+, male|MYS_MEA_YSCH_15UP_MA
+mean years of schooling, 15+, total|MYS_MEA_YSCH_15UP_MF
+mean years of schooling, 20 - 24, female|MYS_MEA_YSCH_2024_FE
+mean years of schooling, 20 - 24, male|MYS_MEA_YSCH_2024_MA
+mean years of schooling, 20 - 24, total|MYS_MEA_YSCH_2024_MF
+mean years of schooling, 25 - 29, female|MYS_MEA_YSCH_2529_FE
+mean years of schooling, 25 - 29, male|MYS_MEA_YSCH_2529_MA
+mean years of schooling, 25 - 29, total|MYS_MEA_YSCH_2529_MF
+mean years of schooling, 25+, female|MYS_MEA_YSCH_25UP_FE
+mean years of schooling, 25+, male|MYS_MEA_YSCH_25UP_MA
+mean years of schooling, 25+, total|MYS_MEA_YSCH_25UP_MF
+mean years of schooling, 30 - 34, female|MYS_MEA_YSCH_3034_FE
+mean years of schooling, 30 - 34, male|MYS_MEA_YSCH_3034_MA
+mean years of schooling, 30 - 34, total|MYS_MEA_YSCH_3034_MF
+mean years of schooling, 35-39, female|MYS_MEA_YSCH_3539_FE
+mean years of schooling, 35-39, male|MYS_MEA_YSCH_3539_MA
+mean years of schooling, 35-39, total|MYS_MEA_YSCH_3539_MF
+mean years of schooling, 40-44, female|MYS_MEA_YSCH_4044_FE
+mean years of schooling, 40-44, male|MYS_MEA_YSCH_4044_MA
+mean years of schooling, 40-44, total|MYS_MEA_YSCH_4044_MF
+mean years of schooling, 45-49, female|MYS_MEA_YSCH_4549_FE
+mean years of schooling, 45-49, male|MYS_MEA_YSCH_4549_MA
+mean years of schooling, 45-49, total|MYS_MEA_YSCH_4549_MF
+mean years of schooling, 45-64, female|MYS_MEA_YSCH_4564_FE
+mean years of schooling, 45-64, male|MYS_MEA_YSCH_4564_MA
+mean years of schooling, 45-64, total|MYS_MEA_YSCH_4564_MF
+mean years of schooling, 50-54, female|MYS_MEA_YSCH_5054_FE
+mean years of schooling, 50-54, male|MYS_MEA_YSCH_5054_MA
+mean years of schooling, 50-54, total|MYS_MEA_YSCH_5054_MF
+mean years of schooling, 55-59, female|MYS_MEA_YSCH_5559_FE
+mean years of schooling, 55-59, male|MYS_MEA_YSCH_5559_MA
+mean years of schooling, 55-59, total|MYS_MEA_YSCH_5559_MF
+mean years of schooling, 60-64, female|MYS_MEA_YSCH_6064_FE
+mean years of schooling, 60-64, male|MYS_MEA_YSCH_6064_MA
+mean years of schooling, 60-64, total|MYS_MEA_YSCH_6064_MF
+mean years of schooling, 65-69, female|MYS_MEA_YSCH_6569_FE
+mean years of schooling, 65-69, male|MYS_MEA_YSCH_6569_MA
+mean years of schooling, 65-69, total|MYS_MEA_YSCH_6569_MF
+mean years of schooling, 65+, female|MYS_MEA_YSCH_65UP_FE
+mean years of schooling, 65+, male|MYS_MEA_YSCH_65UP_MA
+mean years of schooling, 65+, total|MYS_MEA_YSCH_65UP_MF
+mean years of schooling, 70-74, female|MYS_MEA_YSCH_7074_FE
+mean years of schooling, 70-74, male|MYS_MEA_YSCH_7074_MA
+mean years of schooling, 70-74, total|MYS_MEA_YSCH_7074_MF
+mean years of schooling, 75-79, female|MYS_MEA_YSCH_7579_FE
+mean years of schooling, 75-79, male|MYS_MEA_YSCH_7579_MA
+mean years of schooling, 75-79, total|MYS_MEA_YSCH_7579_MF
+mean years of schooling, 80+, female|MYS_MEA_YSCH_80UP_FE
+mean years of schooling, 80+, male|MYS_MEA_YSCH_80UP_MA
+mean years of schooling, 80+, total|MYS_MEA_YSCH_80UP_MF
+MICS: Average years of schooling by age group. Age 15-19|HH_MICS_YRS_1519
+MICS: Average years of schooling by age group. Age 15-19. Female|HH_MICS_YRS_1519_F
+MICS: Average years of schooling by age group. Age 15-19. Male|HH_MICS_YRS_1519_M
+MICS: Average years of schooling by age group. Age 15-19. Quintile 1|HH_MICS_YRS_1519_Q1
+MICS: Average years of schooling by age group. Age 15-19. Quintile 2|HH_MICS_YRS_1519_Q2
+MICS: Average years of schooling by age group. Age 15-19. Quintile 3|HH_MICS_YRS_1519_Q3
+MICS: Average years of schooling by age group. Age 15-19. Quintile 4|HH_MICS_YRS_1519_Q4
+MICS: Average years of schooling by age group. Age 15-19. Quintile 5|HH_MICS_YRS_1519_Q5
+MICS: Average years of schooling by age group. Age 15-19. Rural|HH_MICS_YRS_1519_R
+MICS: Average years of schooling by age group. Age 15-19. Urban|HH_MICS_YRS_1519_U
+MICS: Gini coefficient of average years of schooling. Age 15+|HH_MICS_YRS_15UP_GIN
+MICS: Gini coefficient of average years of schooling. Age 15+. Female|HH_MICS_YRS_15UP_GIN_F
+MICS: Gini coefficient of average years of schooling. Age 15+. Male|HH_MICS_YRS_15UP_GIN_M
+MICS: Gini coefficient of average years of schooling. Age 15+. Quintile 1|HH_MICS_YRS_15UP_GIN_Q1
+MICS: Gini coefficient of average years of schooling. Age 15+. Quintile 2|HH_MICS_YRS_15UP_GIN_Q2
+MICS: Gini coefficient of average years of schooling. Age 15+. Quintile 3|HH_MICS_YRS_15UP_GIN_Q3
+MICS: Gini coefficient of average years of schooling. Age 15+. Quintile 4|HH_MICS_YRS_15UP_GIN_Q4
+MICS: Gini coefficient of average years of schooling. Age 15+. Quintile 5|HH_MICS_YRS_15UP_GIN_Q5
+MICS: Gini coefficient of average years of schooling. Age 15+. Rural|HH_MICS_YRS_15UP_GIN_R
+MICS: Gini coefficient of average years of schooling. Age 15+. Urban|HH_MICS_YRS_15UP_GIN_U
+MICS: Gross attendance rate. Post Secondary|HH_MICS_GAR_456
+MICS: Gross attendance rate. Post Secondary. Female|HH_MICS_GAR_456_F
+MICS: Gross attendance rate. Post Secondary. Male|HH_MICS_GAR_456_M
+MICS: Gross attendance rate. Post Secondary. Quintile 1|HH_MICS_GAR_456_Q1
+MICS: Gross attendance rate. Post Secondary. Quintile 2|HH_MICS_GAR_456_Q2
+MICS: Gross attendance rate. Post Secondary. Quintile 3|HH_MICS_GAR_456_Q3
+MICS: Gross attendance rate. Post Secondary. Quintile 4|HH_MICS_GAR_456_Q4
+MICS: Gross attendance rate. Post Secondary. Quintile 5|HH_MICS_GAR_456_Q5
+MICS: Gross attendance rate. Post Secondary. Rural|HH_MICS_GAR_456_R
+MICS: Gross attendance rate. Post Secondary. Urban|HH_MICS_GAR_456_U
+MICS: Net attendance rate. Primary|HH_MICS_NAR_1
+MICS: Net attendance rate. Primary. Female|HH_MICS_NAR_1_F
+MICS: Net attendance rate. Primary. Male|HH_MICS_NAR_1_M
+MICS: Net attendance rate. Primary. Quintile 1|HH_MICS_NAR_1_Q1
+MICS: Net attendance rate. Primary. Quintile 2|HH_MICS_NAR_1_Q2
+MICS: Net attendance rate. Primary. Quintile 3|HH_MICS_NAR_1_Q3
+MICS: Net attendance rate. Primary. Quintile 4|HH_MICS_NAR_1_Q4
+MICS: Net attendance rate. Primary. Quintile 5|HH_MICS_NAR_1_Q5
+MICS: Net attendance rate. Primary. Rural|HH_MICS_NAR_1_R
+MICS: Net attendance rate. Primary. Urban|HH_MICS_NAR_1_U
+MICS: Net attendance rate. Secondary|HH_MICS_NAR_23
+MICS: Net attendance rate. Secondary. Female|HH_MICS_NAR_23_F
+MICS: Net attendance rate. Secondary. Male|HH_MICS_NAR_23_M
+MICS: Net attendance rate. Secondary. Quintile 1|HH_MICS_NAR_23_Q1
+MICS: Net attendance rate. Secondary. Quintile 2|HH_MICS_NAR_23_Q2
+MICS: Net attendance rate. Secondary. Quintile 3|HH_MICS_NAR_23_Q3
+MICS: Net attendance rate. Secondary. Quintile 4|HH_MICS_NAR_23_Q4
+MICS: Net attendance rate. Secondary. Quintile 5|HH_MICS_NAR_23_Q5
+MICS: Net attendance rate. Secondary. Rural|HH_MICS_NAR_23_R
+MICS: Net attendance rate. Secondary. Urban|HH_MICS_NAR_23_U
+MICS: Net intake rate for the first grade of primary education|HH_MICS_NIR_1
+MICS: Net intake rate for the first grade of primary education. Female|HH_MICS_NIR_1_F
+MICS: Net intake rate for the first grade of primary education. Male|HH_MICS_NIR_1_M
+MICS: Net intake rate for the first grade of primary education. Quintile 1|HH_MICS_NIR_1_Q1
+MICS: Net intake rate for the first grade of primary education. Quintile 2|HH_MICS_NIR_1_Q2
+MICS: Net intake rate for the first grade of primary education. Quintile 3|HH_MICS_NIR_1_Q3
+MICS: Net intake rate for the first grade of primary education. Quintile 4|HH_MICS_NIR_1_Q4
+MICS: Net intake rate for the first grade of primary education. Quintile 5|HH_MICS_NIR_1_Q5
+MICS: Net intake rate for the first grade of primary education. Rural|HH_MICS_NIR_1_R
+MICS: Net intake rate for the first grade of primary education. Urban|HH_MICS_NIR_1_U
+MICS: Primary completion rate|HH_MICS_PCR
+MICS: Primary completion rate. Female|HH_MICS_PCR_F
+MICS: Primary completion rate. Male|HH_MICS_PCR_M
+MICS: Primary completion rate. Quintile 1|HH_MICS_PCR_Q1
+MICS: Primary completion rate. Quintile 2|HH_MICS_PCR_Q2
+MICS: Primary completion rate. Quintile 3|HH_MICS_PCR_Q3
+MICS: Primary completion rate. Quintile 4|HH_MICS_PCR_Q4
+MICS: Primary completion rate. Quintile 5|HH_MICS_PCR_Q5
+MICS: Primary completion rate. Rural|HH_MICS_PCR_R
+MICS: Primary completion rate. Urban|HH_MICS_PCR_U
+MICS: Proportion of out-of-school. Primary|HH_MICS_OOS_1
+MICS: Proportion of out-of-school. Primary. Female|HH_MICS_OOS_1_F
+MICS: Proportion of out-of-school. Primary. Male|HH_MICS_OOS_1_M
+MICS: Proportion of out-of-school. Primary. Quintile 1|HH_MICS_OOS_1_Q1
+MICS: Proportion of out-of-school. Primary. Quintile 2|HH_MICS_OOS_1_Q2
+MICS: Proportion of out-of-school. Primary. Quintile 3|HH_MICS_OOS_1_Q3
+MICS: Proportion of out-of-school. Primary. Quintile 4|HH_MICS_OOS_1_Q4
+MICS: Proportion of out-of-school. Primary. Quintile 5|HH_MICS_OOS_1_Q5
+MICS: Proportion of out-of-school. Primary. Rural|HH_MICS_OOS_1_R
+MICS: Proportion of out-of-school. Primary. Urban|HH_MICS_OOS_1_U
+MICS: Secondary completion rate|HH_MICS_SCR
+MICS: Secondary completion rate. Female|HH_MICS_SCR_F
+MICS: Secondary completion rate. Male|HH_MICS_SCR_M
+MICS: Secondary completion rate. Quintile 1|HH_MICS_SCR_Q1
+MICS: Secondary completion rate. Quintile 2|HH_MICS_SCR_Q2
+MICS: Secondary completion rate. Quintile 3|HH_MICS_SCR_Q3
+MICS: Secondary completion rate. Quintile 4|HH_MICS_SCR_Q4
+MICS: Secondary completion rate. Quintile 5|HH_MICS_SCR_Q5
+MICS: Secondary completion rate. Rural|HH_MICS_SCR_R
+MICS: Secondary completion rate. Urban|HH_MICS_SCR_U
+MICS: Transition rate. Primary to Secondary|HH_MICS_TR_12
+MICS: Transition rate. Primary to Secondary. Female|HH_MICS_TR_12_F
+MICS: Transition rate. Primary to Secondary. Male|HH_MICS_TR_12_M
+MICS: Transition rate. Primary to Secondary. Quintile 1|HH_MICS_TR_12_Q1
+MICS: Transition rate. Primary to Secondary. Quintile 2|HH_MICS_TR_12_Q2
+MICS: Transition rate. Primary to Secondary. Quintile 3|HH_MICS_TR_12_Q3
+MICS: Transition rate. Primary to Secondary. Quintile 4|HH_MICS_TR_12_Q4
+MICS: Transition rate. Primary to Secondary. Quintile 5|HH_MICS_TR_12_Q5
+MICS: Transition rate. Primary to Secondary. Rural|HH_MICS_TR_12_R
+MICS: Transition rate. Primary to Secondary. Urban|HH_MICS_TR_12_U
+MICS: Typology of out-of-school children. Primary. Dropped out|HH_MICS_OOST_DO
+MICS: Typology of out-of-school children. Primary. Dropped out. Female|HH_MICS_OOST_DO_F
+MICS: Typology of out-of-school children. Primary. Dropped out. Male|HH_MICS_OOST_DO_M
+MICS: Typology of out-of-school children. Primary. Dropped out. Quintile 1|HH_MICS_OOST_DO_Q1
+MICS: Typology of out-of-school children. Primary. Dropped out. Quintile 2|HH_MICS_OOST_DO_Q2
+MICS: Typology of out-of-school children. Primary. Dropped out. Quintile 3|HH_MICS_OOST_DO_Q3
+MICS: Typology of out-of-school children. Primary. Dropped out. Quintile 4|HH_MICS_OOST_DO_Q4
+MICS: Typology of out-of-school children. Primary. Dropped out. Quintile 5|HH_MICS_OOST_DO_Q5
+MICS: Typology of out-of-school children. Primary. Dropped out. Rural|HH_MICS_OOST_DO_R
+MICS: Typology of out-of-school children. Primary. Dropped out. Urban|HH_MICS_OOST_DO_U
+MICS: Typology of out-of-school children. Primary. Late entry|HH_MICS_OOST_L
+MICS: Typology of out-of-school children. Primary. Late entry. Female|HH_MICS_OOST_L_F
+MICS: Typology of out-of-school children. Primary. Late entry. Male|HH_MICS_OOST_L_M
+MICS: Typology of out-of-school children. Primary. Late entry. Quintile 1|HH_MICS_OOST_L_Q1
+MICS: Typology of out-of-school children. Primary. Late entry. Quintile 2|HH_MICS_OOST_L_Q2
+MICS: Typology of out-of-school children. Primary. Late entry. Quintile 3|HH_MICS_OOST_L_Q3
+MICS: Typology of out-of-school children. Primary. Late entry. Quintile 4|HH_MICS_OOST_L_Q4
+MICS: Typology of out-of-school children. Primary. Late entry. Quintile 5|HH_MICS_OOST_L_Q5
+MICS: Typology of out-of-school children. Primary. Late entry. Rural|HH_MICS_OOST_L_R
+MICS: Typology of out-of-school children. Primary. Late entry. Urban|HH_MICS_OOST_L_U
+MICS: Typology of out-of-school children. Primary. Never in school|HH_MICS_OOST_X
+MICS: Typology of out-of-school children. Primary. Never in school. Female|HH_MICS_OOST_X_F
+MICS: Typology of out-of-school children. Primary. Never in school. Male|HH_MICS_OOST_X_M
+MICS: Typology of out-of-school children. Primary. Never in school. Quintile 1|HH_MICS_OOST_X_Q1
+MICS: Typology of out-of-school children. Primary. Never in school. Quintile 2|HH_MICS_OOST_X_Q2
+MICS: Typology of out-of-school children. Primary. Never in school. Quintile 3|HH_MICS_OOST_X_Q3
+MICS: Typology of out-of-school children. Primary. Never in school. Quintile 4|HH_MICS_OOST_X_Q4
+MICS: Typology of out-of-school children. Primary. Never in school. Quintile 5|HH_MICS_OOST_X_Q5
+MICS: Typology of out-of-school children. Primary. Never in school. Rural|HH_MICS_OOST_X_R
+MICS: Typology of out-of-school children. Primary. Never in school. Urban|HH_MICS_OOST_X_U
+Net enrollment rate, primary, female|GER_PRI_NENR_FE_ZS
+Net enrollment rate, primary, male|GER_PRI_NENR_MA_ZS
+Net enrollment rate, primary, total|GER_PRI_NENR_ZS
+Net enrollment rate, secondary, female|GER_SEC_NENR_FE_ZS
+Net enrollment rate, secondary, male|GER_SEC_NENR_MA_ZS
+Net enrollment rate, secondary, total|GER_SEC_NENR_ZS
+Net enrolment rate.  Pre-primary.  Female|SE_PRE_NENR_FE
+Net enrolment rate.  Pre-primary.  Male|SE_PRE_NENR_MA
+Net enrolment rate.  Pre-primary.  Total|SE_PRE_NENR
+Net intake rate. Primary. Over age (+1). Female|UIS_NIR_1_AGP1_F
+Net intake rate. Primary. Over age (+1). Male|UIS_NIR_1_AGP1_M
+Net intake rate. Primary. Over age (+1). Total|UIS_NIR_1_AGP1
+Net intake rate. Primary. Under age (-1). Female|UIS_NIR_1_AGM1_F
+Net intake rate. Primary. Under age (-1). Male|UIS_NIR_1_AGM1_M
+Net intake rate. Primary. Under age (-1). Total|UIS_NIR_1_AGM1
+New entrants to Grade 1 of primary education.  Female|UIS_NE_1_G1_F
+New entrants to Grade 1 of primary education.  Total|UIS_NE_1_G1
+New entrants who have attended some ECCE programme. Female|UIS_NE_1_ECD_F
+New entrants who have attended some ECCE programme. Total|UIS_NE_1_ECD
+Number of students in tertiary education per 100,000 inhabitants. Female|UIS_TE_100000_56_F
+Number of students in tertiary education per 100,000 inhabitants. Male|UIS_TE_100000_56_M
+Number of students in tertiary education per 100,000 inhabitants. Total|UIS_TE_100000_56
+Out-of-school children of lower secondary school age. Female|UIS_OFST_2_F
+Out-of-school children of lower secondary school age. Male|UIS_OFST_2_M
+Out-of-school children of lower secondary school age. Total|UIS_OFST_2
+Out-of-school children of primary school age enrolled in pre-primary education. Female|UIS_OFSPPT_1_F
+Out-of-school children of primary school age enrolled in pre-primary education. Male|UIS_OFSPPT_1_M
+Out-of-school children of primary school age enrolled in pre-primary education. Total|UIS_OFSPPT_1
+Out-of-school rate for children of lower secondary school age (%). Female|UIS_ROFST_2_F
+Out-of-school rate for children of lower secondary school age (%). Male|UIS_ROFST_2_M
+Out-of-school rate for children of lower secondary school age (%). Total|UIS_ROFST_2
+Out-of-school rate for children of primary school age (%). Female|UIS_ROFST_1_F
+Out-of-school rate for children of primary school age (%). Male|UIS_ROFST_1_M
+Out-of-school rate for children of primary school age (%). Total|UIS_ROFST_1
+Outbound mobile students (students from a given country studying abroad). Tertiary|UIS_OE_56_40510
+Outbound mobility ratio (%). Tertiary|UIS_OMR_56
+Over-age enrolment ratio.  Female|UIS_OAPP_1_F
+Over-age enrolment ratio.  Male|UIS_OAPP_1_M
+Over-age enrolment ratio. Total|UIS_OAPP_1
+PASEC: 5th grade students above the Knowledge Base Rate on the French language scale (above 40% of answers correct) (%), female|LO_PASEC_FRE5_HIG_FE
+PASEC: 5th grade students above the Knowledge Base Rate on the French language scale (above 40% of answers correct) (%), male|LO_PASEC_FRE5_HIG_MA
+PASEC: 5th grade students above the Knowledge Base Rate on the French language scale (above 40% of answers correct) (%), total|LO_PASEC_FRE5_HIG
+PASEC: 5th grade students above the Knowledge Base Rate on the mathematics scale (above 40% of answers correct) (%), female|LO_PASEC_MAT5_HIG_FE
+PASEC: 5th grade students above the Knowledge Base Rate on the mathematics scale (above 40% of answers correct) (%), male|LO_PASEC_MAT5_HIG_MA
+PASEC: 5th grade students above the Knowledge Base Rate on the mathematics scale (above 40% of answers correct) (%), total|LO_PASEC_MAT5_HIG
+PASEC: 5th grade students at the lowest level of proficiency on the French language scale (less than 25% of answers correct) (%), female|LO_PASEC_FRE5_LO_FE
+PASEC: 5th grade students at the lowest level of proficiency on the French language scale (less than 25% of answers correct) (%), male|LO_PASEC_FRE5_LO_MA
+PASEC: 5th grade students at the lowest level of proficiency on the French language scale (less than 25% of answers correct) (%), total|LO_PASEC_FRE5_LO
+PASEC: 5th grade students at the lowest level of proficiency on the mathematics scale (less than 25% of answers correct) (%), female|LO_PASEC_MAT5_LO_FE
+PASEC: 5th grade students at the lowest level of proficiency on the mathematics scale (less than 25% of answers correct) (%), male|LO_PASEC_MAT5_LO_MA
+PASEC: 5th grade students at the lowest level of proficiency on the mathematics scale (less than 25% of answers correct) (%), total|LO_PASEC_MAT5_LO
+PASEC: Mean performance on the French language scale (100 points) for 5th grade students, female|LO_PASEC_FRE5_FE
+PASEC: Mean performance on the French language scale (100 points) for 5th grade students, male|LO_PASEC_FRE5_MA
+PASEC: Mean performance on the French language scale (100 points) for 5th grade students, total|LO_PASEC_FRE5
+PASEC: Mean performance on the mathematics scale (100 points) for 5th grade students, female|LO_PASEC_MAT5_FE
+PASEC: Mean performance on the mathematics scale (100 points) for 5th grade students, male|LO_PASEC_MAT5_MA
+PASEC: Mean performance on the mathematics scale (100 points) for 5th grade students, total|LO_PASEC_MAT5
+Percentage distribution of public current expenditure by purpose in primary education. All personnel salaries|UIS_XNATURCP_1_FDPUB_FNS
+Percentage distribution of public current expenditure by purpose in primary education. Teachers salaries|UIS_XNATURCP_1_FDPUB_FNTS
+Percentage distribution of public current expenditure by purpose in secondary education. All personnel salaries|UIS_XNATURCP_23_FDPUB_FNS
+Percentage distribution of public current expenditure by purpose in secondary education. Teacher salaries|UIS_XNATURCP_23_FDPUB_FNTS
+Percentage distribution of public current expenditure on education by level. Lower secondary|UIS_XCURP_2
+Percentage distribution of public current expenditure on education by level. Post secondary|UIS_XCURP_4
+Percentage distribution of public current expenditure on education by level. Pre-primary|UIS_XCURP_0
+Percentage distribution of public current expenditure on education by level. Upper secondary|UIS_XCURP_3
+Percentage distribution of public current expenditure on education not allocated by level|UIS_XCURP_UK
+Percentage female teachers.  Lower secondary|UIS_FTP_2
+Percentage female teachers.  Pre-primary|SE_PRE_TCHR_FE_ZS
+Percentage female teachers.  Upper secondary|UIS_FTP_3
+Percentage female teachers. Post-secondary/non-tertiary|UIS_FTP_4
+Percentage of female graduates in tertiary education ISCED 5|UIS_FGP_56
+Percentage of female students.  Post-secondary non-tertiary education|UIS_FEP_4
+Percentage of female students.  Pre-primary|SE_PRE_ENRL_FE_ZS
+Percentage of female students.  Tertiary ISCED 5A|UIS_FEP_5_A
+Percentage of female students.  Tertiary ISCED 5B|UIS_FEP_5_B
+Percentage of female students.  Tertiary ISCED 6|UIS_FEP_6
+Percentage of female students.  Total secondary.  General programmes|UIS_FEP_23_GPV
+Percentage of female tertiary enrolments (ISCED 5 and 6) in agriculture|UIS_FOSEP_56_F600_F
+Percentage of female tertiary enrolments (ISCED 5 and 6) in education|UIS_FOSEP_56_F140_F
+Percentage of female tertiary enrolments (ISCED 5 and 6) in engineering, manufacturing and construction|UIS_FOSEP_56_F500_F
+Percentage of female tertiary enrolments (ISCED 5 and 6) in general and unspecified programmes|UIS_FOSEP_56_FUK_F
+Percentage of female tertiary enrolments (ISCED 5 and 6) in health and welfare|UIS_FOSEP_56_F700_F
+Percentage of female tertiary enrolments (ISCED 5 and 6) in humanities and arts|UIS_FOSEP_56_F200_F
+Percentage of female tertiary enrolments (ISCED 5 and 6) in science|UIS_FOSEP_56_F400_F
+Percentage of female tertiary enrolments (ISCED 5 and 6) in services|UIS_FOSEP_56_F800_F
+Percentage of female tertiary enrolments (ISCED 5 and 6) in social sciences, business and law|UIS_FOSEP_56_F300_F
+Percentage of new entrants to primary education with ECCE experience.  Female|UIS_ECDP_1_F
+Percentage of new entrants to primary education with ECCE experience.  Male|UIS_ECDP_1_M
+Percentage of new entrants to primary education with ECCE experience.  Total|UIS_ECDP_1
+percentage of population (15+), 15-19, female, completed primary|BAR_PRM_CMPT_1519_FE_ZS
+percentage of population (15+), 15-19, female, completed secondary|BAR_SEC_CMPT_1519_FE_ZS
+percentage of population (15+), 15-19, female, completed tertiary|BAR_TER_CMPT_1519_FE_ZS
+percentage of population (15+), 15-19, female, incomplete primary|BAR_PRM_ICMP_1519_FE_ZS
+percentage of population (15+), 15-19, female, incomplete secondary|BAR_SEC_ICMP_1519_FE_ZS
+percentage of population (15+), 15-19, female, incomplete tertiary|BAR_TER_ICMP_1519_FE_ZS
+percentage of population (15+), 15-19, female, no education|BAR_NOED_1519_FE_ZS
+percentage of population (15+), 15-19, total, completed primary|BAR_PRM_CMPT_1519_ZS
+percentage of population (15+), 15-19, total, completed secondary|BAR_SEC_CMPT_1519_ZS
+percentage of population (15+), 15-19, total, completed tertiary|BAR_TER_CMPT_1519_ZS
+percentage of population (15+), 15-19, total, incomplete primary|BAR_PRM_ICMP_1519_ZS
+percentage of population (15+), 15-19, total, incomplete secondary|BAR_SEC_ICMP_1519_ZS
+percentage of population (15+), 15-19, total, incomplete tertiary|BAR_TER_ICMP_1519_ZS
+percentage of population (15+), 15-19, total, no education|BAR_NOED_1519_ZS
+percentage of population (15+), 15+, female, completed primary|BAR_PRM_CMPT_15UP_FE_ZS
+percentage of population (15+), 15+, female, completed secondary|BAR_SEC_CMPT_15UP_FE_ZS
+percentage of population (15+), 15+, female, completed tertiary|BAR_TER_CMPT_15UP_FE_ZS
+percentage of population (15+), 15+, female, incomplete primary|BAR_PRM_ICMP_15UP_FE_ZS
+percentage of population (15+), 15+, female, incomplete secondary|BAR_SEC_ICMP_15UP_FE_ZS
+percentage of population (15+), 15+, female, incomplete tertiary|BAR_TER_ICMP_15UP_FE_ZS
+percentage of population (15+), 15+, female, no education|BAR_NOED_15UP_FE_ZS
+percentage of population (15+), 15+, total, completed primary|BAR_PRM_CMPT_15UP_ZS
+percentage of population (15+), 15+, total, completed secondary|BAR_SEC_CMPT_15UP_ZS
+percentage of population (15+), 15+, total, completed tertiary|BAR_TER_CMPT_15UP_ZS
+percentage of population (15+), 15+, total, incomplete primary|BAR_PRM_ICMP_15UP_ZS
+percentage of population (15+), 15+, total, incomplete secondary|BAR_SEC_ICMP_15UP_ZS
+percentage of population (15+), 15+, total, incomplete tertiary|BAR_TER_ICMP_15UP_ZS
+percentage of population (15+), 15+, total, no education|BAR_NOED_15UP_ZS
+percentage of population (15+), 20-24, female, completed primary|BAR_PRM_CMPT_2024_FE_ZS
+percentage of population (15+), 20-24, female, completed secondary|BAR_SEC_CMPT_2024_FE_ZS
+percentage of population (15+), 20-24, female, completed tertiary|BAR_TER_CMPT_2024_FE_ZS
+percentage of population (15+), 20-24, female, incomplete primary|BAR_PRM_ICMP_2024_FE_ZS
+percentage of population (15+), 20-24, female, incomplete secondary|BAR_SEC_ICMP_2024_FE_ZS
+percentage of population (15+), 20-24, female, incomplete tertiary|BAR_TER_ICMP_2024_FE_ZS
+percentage of population (15+), 20-24, female, no education|BAR_NOED_2024_FE_ZS
+percentage of population (15+), 20-24, total, completed primary|BAR_PRM_CMPT_2024_ZS
+percentage of population (15+), 20-24, total, completed secondary|BAR_SEC_CMPT_2024_ZS
+percentage of population (15+), 20-24, total, completed tertiary|BAR_TER_CMPT_2024_ZS
+percentage of population (15+), 20-24, total, incomplete primary|BAR_PRM_ICMP_2024_ZS
+percentage of population (15+), 20-24, total, incomplete secondary|BAR_SEC_ICMP_2024_ZS
+percentage of population (15+), 20-24, total, incomplete tertiary|BAR_TER_ICMP_2024_ZS
+percentage of population (15+), 20-24, total, no education|BAR_NOED_2024_ZS
+percentage of population (15+), 25-29, female, completed primary|BAR_PRM_CMPT_2529_FE_ZS
+percentage of population (15+), 25-29, female, completed secondary|BAR_SEC_CMPT_2529_FE_ZS
+percentage of population (15+), 25-29, female, completed tertiary|BAR_TER_CMPT_2529_FE_ZS
+percentage of population (15+), 25-29, female, incomplete primary|BAR_PRM_ICMP_2529_FE_ZS
+percentage of population (15+), 25-29, female, incomplete secondary|BAR_SEC_ICMP_2529_FE_ZS
+percentage of population (15+), 25-29, female, incomplete tertiary|BAR_TER_ICMP_2529_FE_ZS
+percentage of population (15+), 25-29, female, no education|BAR_NOED_2529_FE_ZS
+percentage of population (15+), 25-29, total, completed primary|BAR_PRM_CMPT_2529_ZS
+percentage of population (15+), 25-29, total, completed secondary|BAR_SEC_CMPT_2529_ZS
+percentage of population (15+), 25-29, total, completed tertiary|BAR_TER_CMPT_2529_ZS
+percentage of population (15+), 25-29, total, incomplete primary|BAR_PRM_ICMP_2529_ZS
+percentage of population (15+), 25-29, total, incomplete secondary|BAR_SEC_ICMP_2529_ZS
+percentage of population (15+), 25-29, total, incomplete tertiary|BAR_TER_ICMP_2529_ZS
+percentage of population (15+), 25-29, total, no education|BAR_NOED_2529_ZS
+percentage of population (15+), 25+, female, completed primary|BAR_PRM_CMPT_25UP_FE_ZS
+percentage of population (15+), 25+, female, completed secondary|BAR_SEC_CMPT_25UP_FE_ZS
+percentage of population (15+), 25+, female, completed tertiary|BAR_TER_CMPT_25UP_FE_ZS
+percentage of population (15+), 25+, female, incomplete primary|BAR_PRM_ICMP_25UP_FE_ZS
+percentage of population (15+), 25+, female, incomplete secondary|BAR_SEC_ICMP_25UP_FE_ZS
+percentage of population (15+), 25+, female, incomplete tertiary|BAR_TER_ICMP_25UP_FE_ZS
+percentage of population (15+), 25+, female, no education|BAR_NOED_25UP_FE_ZS
+percentage of population (15+), 25+, total, completed primary|BAR_PRM_CMPT_25UP_ZS
+percentage of population (15+), 25+, total, completed secondary|BAR_SEC_CMPT_25UP_ZS
+percentage of population (15+), 25+, total, completed tertiary|BAR_TER_CMPT_25UP_ZS
+percentage of population (15+), 25+, total, incomplete primary|BAR_PRM_ICMP_25UP_ZS
+percentage of population (15+), 25+, total, incomplete secondary|BAR_SEC_ICMP_25UP_ZS
+percentage of population (15+), 25+, total, incomplete tertiary|BAR_TER_ICMP_25UP_ZS
+percentage of population (15+), 25+, total, no education|BAR_NOED_25UP_ZS
+percentage of population (15+), 30-34, female, completed primary|BAR_PRM_CMPT_3034_FE_ZS
+percentage of population (15+), 30-34, female, completed secondary|BAR_SEC_CMPT_3034_FE_ZS
+percentage of population (15+), 30-34, female, completed tertiary|BAR_TER_CMPT_3034_FE_ZS
+percentage of population (15+), 30-34, female, incomplete primary|BAR_PRM_ICMP_3034_FE_ZS
+percentage of population (15+), 30-34, female, incomplete secondary|BAR_SEC_ICMP_3034_FE_ZS
+percentage of population (15+), 30-34, female, incomplete tertiary|BAR_TER_ICMP_3034_FE_ZS
+percentage of population (15+), 30-34, female, no education|BAR_NOED_3034_FE_ZS
+percentage of population (15+), 30-34, total, completed primary|BAR_PRM_CMPT_3034_ZS
+percentage of population (15+), 30-34, total, completed secondary|BAR_SEC_CMPT_3034_ZS
+percentage of population (15+), 30-34, total, completed tertiary|BAR_TER_CMPT_3034_ZS
+percentage of population (15+), 30-34, total, incomplete primary|BAR_PRM_ICMP_3034_ZS
+percentage of population (15+), 30-34, total, incomplete secondary|BAR_SEC_ICMP_3034_ZS
+percentage of population (15+), 30-34, total, incomplete tertiary|BAR_TER_ICMP_3034_ZS
+percentage of population (15+), 30-34, total, no education|BAR_NOED_3034_ZS
+percentage of population (15+), 35-39, female, completed primary|BAR_PRM_CMPT_3539_FE_ZS
+percentage of population (15+), 35-39, female, completed secondary|BAR_SEC_CMPT_3539_FE_ZS
+percentage of population (15+), 35-39, female, completed tertiary|BAR_TER_CMPT_3539_FE_ZS
+percentage of population (15+), 35-39, female, incomplete primary|BAR_PRM_ICMP_3539_FE_ZS
+percentage of population (15+), 35-39, female, incomplete secondary|BAR_SEC_ICMP_3539_FE_ZS
+percentage of population (15+), 35-39, female, incomplete tertiary|BAR_TER_ICMP_3539_FE_ZS
+percentage of population (15+), 35-39, female, no education|BAR_NOED_3539_FE_ZS
+percentage of population (15+), 35-39, total, completed primary|BAR_PRM_CMPT_3539_ZS
+percentage of population (15+), 35-39, total, completed secondary|BAR_SEC_CMPT_3539_ZS
+percentage of population (15+), 35-39, total, completed tertiary|BAR_TER_CMPT_3539_ZS
+percentage of population (15+), 35-39, total, incomplete primary|BAR_PRM_ICMP_3539_ZS
+percentage of population (15+), 35-39, total, incomplete secondary|BAR_SEC_ICMP_3539_ZS
+percentage of population (15+), 35-39, total, incomplete tertiary|BAR_TER_ICMP_3539_ZS
+percentage of population (15+), 35-39, total, no education|BAR_NOED_3539_ZS
+percentage of population (15+), 40-44, female, completed primary|BAR_PRM_CMPT_4044_FE_ZS
+percentage of population (15+), 40-44, female, completed secondary|BAR_SEC_CMPT_4044_FE_ZS
+percentage of population (15+), 40-44, female, completed tertiary|BAR_TER_CMPT_4044_FE_ZS
+percentage of population (15+), 40-44, female, incomplete primary|BAR_PRM_ICMP_4044_FE_ZS
+percentage of population (15+), 40-44, female, incomplete secondary|BAR_SEC_ICMP_4044_FE_ZS
+percentage of population (15+), 40-44, female, incomplete tertiary|BAR_TER_ICMP_4044_FE_ZS
+percentage of population (15+), 40-44, female, no education|BAR_NOED_4044_FE_ZS
+percentage of population (15+), 40-44, total, completed primary|BAR_PRM_CMPT_4044_ZS
+percentage of population (15+), 40-44, total, completed secondary|BAR_SEC_CMPT_4044_ZS
+percentage of population (15+), 40-44, total, completed tertiary|BAR_TER_CMPT_4044_ZS
+percentage of population (15+), 40-44, total, incomplete primary|BAR_PRM_ICMP_4044_ZS
+percentage of population (15+), 40-44, total, incomplete secondary|BAR_SEC_ICMP_4044_ZS
+percentage of population (15+), 40-44, total, incomplete tertiary|BAR_TER_ICMP_4044_ZS
+percentage of population (15+), 40-44, total, no education|BAR_NOED_4044_ZS
+percentage of population (15+), 45-49, female, completed primary|BAR_PRM_CMPT_4549_FE_ZS
+percentage of population (15+), 45-49, female, completed secondary|BAR_SEC_CMPT_4549_FE_ZS
+percentage of population (15+), 45-49, female, completed tertiary|BAR_TER_CMPT_4549_FE_ZS
+percentage of population (15+), 45-49, female, incomplete primary|BAR_PRM_ICMP_4549_FE_ZS
+percentage of population (15+), 45-49, female, incomplete secondary|BAR_SEC_ICMP_4549_FE_ZS
+percentage of population (15+), 45-49, female, incomplete tertiary|BAR_TER_ICMP_4549_FE_ZS
+percentage of population (15+), 45-49, female, no education|BAR_NOED_4549_FE_ZS
+percentage of population (15+), 45-49, total, completed primary|BAR_PRM_CMPT_4549_ZS
+percentage of population (15+), 45-49, total, completed secondary|BAR_SEC_CMPT_4549_ZS
+percentage of population (15+), 45-49, total, completed tertiary|BAR_TER_CMPT_4549_ZS
+percentage of population (15+), 45-49, total, incomplete primary|BAR_PRM_ICMP_4549_ZS
+percentage of population (15+), 45-49, total, incomplete secondary|BAR_SEC_ICMP_4549_ZS
+percentage of population (15+), 45-49, total, incomplete tertiary|BAR_TER_ICMP_4549_ZS
+percentage of population (15+), 45-49, total, no education|BAR_NOED_4549_ZS
+percentage of population (15+), 50-54, female, completed primary|BAR_PRM_CMPT_5054_FE_ZS
+percentage of population (15+), 50-54, female, completed secondary|BAR_SEC_CMPT_5054_FE_ZS
+percentage of population (15+), 50-54, female, completed tertiary|BAR_TER_CMPT_5054_FE_ZS
+percentage of population (15+), 50-54, female, incomplete primary|BAR_PRM_ICMP_5054_FE_ZS
+percentage of population (15+), 50-54, female, incomplete secondary|BAR_SEC_ICMP_5054_FE_ZS
+percentage of population (15+), 50-54, female, incomplete tertiary|BAR_TER_ICMP_5054_FE_ZS
+percentage of population (15+), 50-54, female, no education|BAR_NOED_5054_FE_ZS
+percentage of population (15+), 50-54, total, completed primary|BAR_PRM_CMPT_5054_ZS
+percentage of population (15+), 50-54, total, completed secondary|BAR_SEC_CMPT_5054_ZS
+percentage of population (15+), 50-54, total, completed tertiary|BAR_TER_CMPT_5054_ZS
+percentage of population (15+), 50-54, total, incomplete primary|BAR_PRM_ICMP_5054_ZS
+percentage of population (15+), 50-54, total, incomplete secondary|BAR_SEC_ICMP_5054_ZS
+percentage of population (15+), 50-54, total, incomplete tertiary|BAR_TER_ICMP_5054_ZS
+percentage of population (15+), 50-54, total, no education|BAR_NOED_5054_ZS
+percentage of population (15+), 55-59, female, completed primary|BAR_PRM_CMPT_5559_FE_ZS
+percentage of population (15+), 55-59, female, completed secondary|BAR_SEC_CMPT_5559_FE_ZS
+percentage of population (15+), 55-59, female, completed tertiary|BAR_TER_CMPT_5559_FE_ZS
+percentage of population (15+), 55-59, female, incomplete primary|BAR_PRM_ICMP_5559_FE_ZS
+percentage of population (15+), 55-59, female, incomplete secondary|BAR_SEC_ICMP_5559_FE_ZS
+percentage of population (15+), 55-59, female, incomplete tertiary|BAR_TER_ICMP_5559_FE_ZS
+percentage of population (15+), 55-59, female, no education|BAR_NOED_5559_FE_ZS
+percentage of population (15+), 55-59, total, completed primary|BAR_PRM_CMPT_5559_ZS
+percentage of population (15+), 55-59, total, completed secondary|BAR_SEC_CMPT_5559_ZS
+percentage of population (15+), 55-59, total, completed tertiary|BAR_TER_CMPT_5559_ZS
+percentage of population (15+), 55-59, total, incomplete primary|BAR_PRM_ICMP_5559_ZS
+percentage of population (15+), 55-59, total, incomplete secondary|BAR_SEC_ICMP_5559_ZS
+percentage of population (15+), 55-59, total, incomplete tertiary|BAR_TER_ICMP_5559_ZS
+percentage of population (15+), 55-59, total, no education|BAR_NOED_5559_ZS
+percentage of population (15+), 60-64, female, completed primary|BAR_PRM_CMPT_6064_FE_ZS
+percentage of population (15+), 60-64, female, completed secondary|BAR_SEC_CMPT_6064_FE_ZS
+percentage of population (15+), 60-64, female, completed tertiary|BAR_TER_CMPT_6064_FE_ZS
+percentage of population (15+), 60-64, female, incomplete primary|BAR_PRM_ICMP_6064_FE_ZS
+percentage of population (15+), 60-64, female, incomplete secondary|BAR_SEC_ICMP_6064_FE_ZS
+percentage of population (15+), 60-64, female, incomplete tertiary|BAR_TER_ICMP_6064_FE_ZS
+percentage of population (15+), 60-64, female, no education|BAR_NOED_6064_FE_ZS
+percentage of population (15+), 60-64, total, completed primary|BAR_PRM_CMPT_6064_ZS
+percentage of population (15+), 60-64, total, completed secondary|BAR_SEC_CMPT_6064_ZS
+percentage of population (15+), 60-64, total, completed tertiary|BAR_TER_CMPT_6064_ZS
+percentage of population (15+), 60-64, total, incomplete primary|BAR_PRM_ICMP_6064_ZS
+percentage of population (15+), 60-64, total, incomplete secondary|BAR_SEC_ICMP_6064_ZS
+percentage of population (15+), 60-64, total, incomplete tertiary|BAR_TER_ICMP_6064_ZS
+percentage of population (15+), 60-64, total, no education|BAR_NOED_6064_ZS
+percentage of population (15+), 65-69, female, completed primary|BAR_PRM_CMPT_6569_FE_ZS
+percentage of population (15+), 65-69, female, completed secondary|BAR_SEC_CMPT_6569_FE_ZS
+percentage of population (15+), 65-69, female, completed tertiary|BAR_TER_CMPT_6569_FE_ZS
+percentage of population (15+), 65-69, female, incomplete primary|BAR_PRM_ICMP_6569_FE_ZS
+percentage of population (15+), 65-69, female, incomplete secondary|BAR_SEC_ICMP_6569_FE_ZS
+percentage of population (15+), 65-69, female, incomplete tertiary|BAR_TER_ICMP_6569_FE_ZS
+percentage of population (15+), 65-69, female, no education|BAR_NOED_6569_FE_ZS
+percentage of population (15+), 65-69, total, completed primary|BAR_PRM_CMPT_6569_ZS
+percentage of population (15+), 65-69, total, completed secondary|BAR_SEC_CMPT_6569_ZS
+percentage of population (15+), 65-69, total, completed tertiary|BAR_TER_CMPT_6569_ZS
+percentage of population (15+), 65-69, total, incomplete primary|BAR_PRM_ICMP_6569_ZS
+percentage of population (15+), 65-69, total, incomplete secondary|BAR_SEC_ICMP_6569_ZS
+percentage of population (15+), 65-69, total, incomplete tertiary|BAR_TER_ICMP_6569_ZS
+percentage of population (15+), 65-69, total, no education|BAR_NOED_6569_ZS
+percentage of population (15+), 70-74, female, completed primary|BAR_PRM_CMPT_7074_FE_ZS
+percentage of population (15+), 70-74, female, completed secondary|BAR_SEC_CMPT_7074_FE_ZS
+percentage of population (15+), 70-74, female, completed tertiary|BAR_TER_CMPT_7074_FE_ZS
+percentage of population (15+), 70-74, female, incomplete primary|BAR_PRM_ICMP_7074_FE_ZS
+percentage of population (15+), 70-74, female, incomplete secondary|BAR_SEC_ICMP_7074_FE_ZS
+percentage of population (15+), 70-74, female, incomplete tertiary|BAR_TER_ICMP_7074_FE_ZS
+percentage of population (15+), 70-74, female, no education|BAR_NOED_7074_FE_ZS
+percentage of population (15+), 70-74, total, completed primary|BAR_PRM_CMPT_7074_ZS
+percentage of population (15+), 70-74, total, completed secondary|BAR_SEC_CMPT_7074_ZS
+percentage of population (15+), 70-74, total, completed tertiary|BAR_TER_CMPT_7074_ZS
+percentage of population (15+), 70-74, total, incomplete primary|BAR_PRM_ICMP_7074_ZS
+percentage of population (15+), 70-74, total, incomplete secondary|BAR_SEC_ICMP_7074_ZS
+percentage of population (15+), 70-74, total, incomplete tertiary|BAR_TER_ICMP_7074_ZS
+percentage of population (15+), 70-74, total, no education|BAR_NOED_7074_ZS
+percentage of population (15+), 75+, female, completed primary|BAR_PRM_CMPT_75UP_FE_ZS
+percentage of population (15+), 75+, female, completed secondary|BAR_SEC_CMPT_75UP_FE_ZS
+percentage of population (15+), 75+, female, completed tertiary|BAR_TER_CMPT_75UP_FE_ZS
+percentage of population (15+), 75+, female, incomplete primary|BAR_PRM_ICMP_75UP_FE_ZS
+percentage of population (15+), 75+, female, incomplete secondary|BAR_SEC_ICMP_75UP_FE_ZS
+percentage of population (15+), 75+, female, incomplete tertiary|BAR_TER_ICMP_75UP_FE_ZS
+percentage of population (15+), 75+, female, no education|BAR_NOED_75UP_FE_ZS
+percentage of population (15+), 75+, total, completed primary|BAR_PRM_CMPT_75UP_ZS
+percentage of population (15+), 75+, total, completed secondary|BAR_SEC_CMPT_75UP_ZS
+percentage of population (15+), 75+, total, completed tertiary|BAR_TER_CMPT_75UP_ZS
+percentage of population (15+), 75+, total, incomplete primary|BAR_PRM_ICMP_75UP_ZS
+percentage of population (15+), 75+, total, incomplete secondary|BAR_SEC_ICMP_75UP_ZS
+percentage of population (15+), 75+, total, incomplete tertiary|BAR_TER_ICMP_75UP_ZS
+percentage of population (15+), 75+, total, no education|BAR_NOED_75UP_ZS
+Percentage of private enrolment.  Lower secondary. General programmes|UIS_PRP_2_GPV
+Percentage of private enrolment.  Lower secondary. Technical/vocational programmes|UIS_PRP_2_V
+Percentage of private enrolment.  Pre-primary.|SE_PRE_PRIV_ZS
+Percentage of private enrolment.  Upper secondary. General programmes|UIS_PRP_3_GPV
+Percentage of private enrolment.  Upper secondary. Technical/vocational programmes|UIS_PRP_3_V
+Percentage of repeaters in lower secondary. All grades. Female|UIS_REPP_2_GPV_F
+Percentage of repeaters in lower secondary. All grades. Male|UIS_REPP_2_GPV_M
+Percentage of repeaters in lower secondary. All grades. Total|UIS_REPP_2_GPV
+Percentage of repeaters in primary. Grade 1. Male|UIS_REPP_1_G1_M
+Percentage of repeaters in primary. Grade 1. Total|UIS_REPP_1_G1
+Percentage of repeaters in primary. Grade 1.Female|UIS_REPP_1_G1_F
+Percentage of repeaters in primary. Grade 2. Female|UIS_REPP_1_G2_F
+Percentage of repeaters in primary. Grade 2. Male|UIS_REPP_1_G2_M
+Percentage of repeaters in primary. Grade 2. Total|UIS_REPP_1_G2
+Percentage of repeaters in primary. Grade 3. Female|UIS_REPP_1_G3_F
+Percentage of repeaters in primary. Grade 3. Male|UIS_REPP_1_G3_M
+Percentage of repeaters in primary. Grade 3. Total|UIS_REPP_1_G3
+Percentage of repeaters in primary. Grade 4. Female|UIS_REPP_1_G4_F
+Percentage of repeaters in primary. Grade 4. Male|UIS_REPP_1_G4_M
+Percentage of repeaters in primary. Grade 4. Total|UIS_REPP_1_G4
+Percentage of repeaters in primary. Grade 5. Female|UIS_REPP_1_G5_F
+Percentage of repeaters in primary. Grade 5. Male|UIS_REPP_1_G5_M
+Percentage of repeaters in primary. Grade 5. Total|UIS_REPP_1_G5
+Percentage of repeaters in primary. Grade 6. Female|UIS_REPP_1_G6_F
+Percentage of repeaters in primary. Grade 6. Male|UIS_REPP_1_G6_M
+Percentage of repeaters in primary. Grade 6. Total|UIS_REPP_1_G6
+Percentage of repeaters in primary. Grade 7. Female|UIS_REPP_1_G7_F
+Percentage of repeaters in primary. Grade 7. Male|UIS_REPP_1_G7_M
+Percentage of repeaters in primary. Grade 7. Total|UIS_REPP_1_G7
+Percentage of repeaters in secondary. Grade 1. Female|UIS_REPP_23_GPV_G1_F
+Percentage of repeaters in secondary. Grade 1. Male|UIS_REPP_23_GPV_G1_M
+Percentage of repeaters in secondary. Grade 1. Total|UIS_REPP_23_GPV_G1
+Percentage of repeaters in secondary. Grade 2. Female|UIS_REPP_23_GPV_G2_F
+Percentage of repeaters in secondary. Grade 2. Male|UIS_REPP_23_GPV_G2_M
+Percentage of repeaters in secondary. Grade 2. Total|UIS_REPP_23_GPV_G2
+Percentage of repeaters in secondary. Grade 3. Female|UIS_REPP_23_GPV_G3_F
+Percentage of repeaters in secondary. Grade 3. Male|UIS_REPP_23_GPV_G3_M
+Percentage of repeaters in secondary. Grade 3. Total|UIS_REPP_23_GPV_G3
+Percentage of repeaters in secondary. Grade 4. Female|UIS_REPP_23_GPV_G4_F
+Percentage of repeaters in secondary. Grade 4. Male|UIS_REPP_23_GPV_G4_M
+Percentage of repeaters in secondary. Grade 4. Total|UIS_REPP_23_GPV_G4
+Percentage of repeaters in secondary. Grade 5. Female|UIS_REPP_23_GPV_G5_F
+Percentage of repeaters in secondary. Grade 5. Male|UIS_REPP_23_GPV_G5_M
+Percentage of repeaters in secondary. Grade 5. Total|UIS_REPP_23_GPV_G5
+Percentage of repeaters in secondary. Grade 6. Female|UIS_REPP_23_GPV_G6_F
+Percentage of repeaters in secondary. Grade 6. Male|UIS_REPP_23_GPV_G6_M
+Percentage of repeaters in secondary. Grade 6. Total|UIS_REPP_23_GPV_G6
+Percentage of repeaters in secondary. Grade 7. Female|UIS_REPP_23_GPV_G7_F
+Percentage of repeaters in secondary. Grade 7. Male|UIS_REPP_23_GPV_G7_M
+Percentage of repeaters in secondary. Grade 7. Total|UIS_REPP_23_GPV_G7
+Percentage of repeaters in secondary. Grade 8. Female|UIS_REPP_23_GPV_G8_F
+Percentage of repeaters in secondary. Grade 8. Male|UIS_REPP_23_GPV_G8_M
+Percentage of repeaters in secondary. Grade 8. Total|UIS_REPP_23_GPV_G8
+Percentage of repeaters in upper secondary. All grades. Female|UIS_REPP_3_GPV_F
+Percentage of repeaters in upper secondary. All grades. Male|UIS_REPP_3_GPV_M
+Percentage of repeaters in upper secondary. All grades. Total|UIS_REPP_3_GPV
+Percentage of tertiary enrolments (ISCED 5 and 6) in agriculture|UIS_FOSEP_56_F600
+Percentage of tertiary enrolments (ISCED 5 and 6) in education|UIS_FOSEP_56_F140
+Percentage of tertiary enrolments (ISCED 5 and 6) in engineering, manufacturing and construction|UIS_FOSEP_56_F500
+Percentage of tertiary enrolments (ISCED 5 and 6) in health and welfare|UIS_FOSEP_56_F700
+Percentage of tertiary enrolments (ISCED 5 and 6) in humanities and arts|UIS_FOSEP_56_F200
+Percentage of tertiary enrolments (ISCED 5 and 6) in science|UIS_FOSEP_56_F400
+Percentage of tertiary enrolments (ISCED 5 and 6) in services|UIS_FOSEP_56_F800
+Percentage of tertiary enrolments (ISCED 5 and 6) in social sciences, business and law|UIS_FOSEP_56_F300
+Percentage of tertiary enrolments (ISCED 5 and 6) in unspecified and general programmes|UIS_FOSEP_56_FUK
+Percentage of trained teachers.  Lower secondary.  Female|UIS_TRTP_2_F
+Percentage of trained teachers.  Lower secondary.  Male|UIS_TRTP_2_M
+Percentage of trained teachers.  Lower secondary.  Total|UIS_TRTP_2
+Percentage of trained teachers.  Pre-primary.  Female|UIS_TRTP_0_F
+Percentage of trained teachers.  Pre-primary.  Male|UIS_TRTP_0_M
+Percentage of trained teachers.  Pre-primary.  Total|UIS_TRTP_0
+Percentage of trained teachers.  Upper secondary.  Female|UIS_TRTP_3_F
+Percentage of trained teachers.  Upper secondary.  Male|UIS_TRTP_3_M
+Percentage of trained teachers.  Upper secondary.  Total|UIS_TRTP_3
+PIRLS:Mean performance on the reading scale, female|LO_PIRLS_REA_FE
+PIRLS:Mean performance on the reading scale, male|LO_PIRLS_REA_MA
+PIRLS:Mean performance on the reading scale, total|LO_PIRLS_REA
+PIRLS:Students reaching the advanced international benchmark in reading achievement (%)|LO_PIRLS_REA_ADV
+PIRLS:Students reaching the low international benchmark in reading achievement (%)|LO_PIRLS_REA_LOW
+PISA:Mean performance on the mathematics scale|LO_PISA_MAT
+PISA:Mean performance on the mathematics scale, female|LO_PISA_MAT_FE
+PISA:Mean performance on the mathematics scale, male |LO_PISA_MAT_MA
+PISA:Mean performance on the reading scale|LO_PISA_REA
+PISA:Mean performance on the reading scale, female|LO_PISA_REA_FE
+PISA:Mean performance on the reading scale, male|LO_PISA_REA_MA
+PISA:Mean performance on the science scale|LO_PISA_SCI
+PISA:Mean performance on the science scale, female|LO_PISA_SCI_FE
+PISA:Mean performance on the science scale, male|LO_PISA_SCI_MA
+PISA:Students at the highest level of proficiency on the mathematics scale (%)|LO_PISA_MAT_HIG
+PISA:Students at the highest level of proficiency on the mathematics scale (%), female   |LO_PISA_MAT_HIG_FE
+PISA:Students at the highest level of proficiency on the mathematics scale (%), male  |LO_PISA_MAT_HIG_MA
+PISA:Students at the highest level of proficiency on the reading scale (%)|LO_PISA_REA_HIG
+PISA:Students at the highest level of proficiency on the reading scale (%), female |LO_PISA_REA_HIG_FE
+PISA:Students at the highest level of proficiency on the reading scale (%), male |LO_PISA_REA_HIG_MA
+PISA:Students at the highest level of proficiency on the science scale (%)|LO_PISA_SCI_HIG
+PISA:Students at the highest level of proficiency on the science scale (%), female |LO_PISA_SCI_HIG_FE
+PISA:Students at the highest level of proficiency on the science scale (%), male |LO_PISA_SCI_HIG_MA
+PISA:Students at the lowest level of proficiency on the mathematics scale (%)|LO_PISA_MAT_LOW
+PISA:Students at the lowest level of proficiency on the mathematics scale (%), female |LO_PISA_MAT_LOW_FE
+PISA:Students at the lowest level of proficiency on the mathematics scale (%), male |LO_PISA_MAT_LOW_MA
+PISA:Students at the lowest level of proficiency on the reading scale (%)|LO_PISA_REA_LOW
+PISA:Students at the lowest level of proficiency on the reading scale (%), female |LO_PISA_REA_LOW_FE
+PISA:Students at the lowest level of proficiency on the reading scale (%), male |LO_PISA_REA_LOW_MA
+PISA:Students at the lowest level of proficiency on the science scale (%)|LO_PISA_SCI_LOW
+PISA:Students at the lowest level of proficiency on the science scale (%), female |LO_PISA_SCI_LOW_FE
+PISA:Students at the lowest level of proficiency on the science scale (%), male |LO_PISA_SCI_LOW_MA
+Population by educational attainment, no-school, female (aged 0-4)|GER_PRE_POP_ATTN_0004_FE
+Population by educational attainment, no-school, female (aged 10-14)|GER_PRE_POP_ATTN_1014_FE
+Population by educational attainment, no-school, female (aged 15-19)|GER_PRE_POP_ATTN_1519_FE
+Population by educational attainment, no-school, female (aged 20-24)|GER_PRE_POP_ATTN_2024_FE
+Population by educational attainment, no-school, female (aged 25-29)|GER_PRE_POP_ATTN_2529_FE
+Population by educational attainment, no-school, female (aged 30-34)|GER_PRE_POP_ATTN_3034_FE
+Population by educational attainment, no-school, female (aged 35-39)|GER_PRE_POP_ATTN_3539_FE
+Population by educational attainment, no-school, female (aged 40-44)|GER_PRE_POP_ATTN_4044_FE
+Population by educational attainment, no-school, female (aged 45-49)|GER_PRE_POP_ATTN_4549_FE
+Population by educational attainment, no-school, female (aged 5-9)|GER_PRE_POP_ATTN_0509_FE
+Population by educational attainment, no-school, female (aged 50-54)|GER_PRE_POP_ATTN_5054_FE
+Population by educational attainment, no-school, female (aged 55-59)|GER_PRE_POP_ATTN_5559_FE
+Population by educational attainment, no-school, female (aged 60-64)|GER_PRE_POP_ATTN_6064_FE
+Population by educational attainment, no-school, female (aged 65-69)|GER_PRE_POP_ATTN_6569_FE
+Population by educational attainment, no-school, female (aged 70-74)|GER_PRE_POP_ATTN_7074_FE
+Population by educational attainment, no-school, female (aged 75+)|GER_PRE_POP_ATTN_75UP_FE
+Population by educational attainment, no-school, male (aged 0-4)|GER_PRE_POP_ATTN_0004_MA
+Population by educational attainment, no-school, male (aged 10-14)|GER_PRE_POP_ATTN_1014_MA
+Population by educational attainment, no-school, male (aged 15-19)|GER_PRE_POP_ATTN_1519_MA
+Population by educational attainment, no-school, male (aged 20-24)|GER_PRE_POP_ATTN_2024_MA
+Population by educational attainment, no-school, male (aged 25-29)|GER_PRE_POP_ATTN_2529_MA
+Population by educational attainment, no-school, male (aged 30-34)|GER_PRE_POP_ATTN_3034_MA
+Population by educational attainment, no-school, male (aged 35-39)|GER_PRE_POP_ATTN_3539_MA
+Population by educational attainment, no-school, male (aged 40-44)|GER_PRE_POP_ATTN_4044_MA
+Population by educational attainment, no-school, male (aged 45-49)|GER_PRE_POP_ATTN_4549_MA
+Population by educational attainment, no-school, male (aged 5-9)|GER_PRE_POP_ATTN_0509_MA
+Population by educational attainment, no-school, male (aged 50-54)|GER_PRE_POP_ATTN_5054_MA
+Population by educational attainment, no-school, male (aged 55-59)|GER_PRE_POP_ATTN_5559_MA
+Population by educational attainment, no-school, male (aged 60-64)|GER_PRE_POP_ATTN_6064_MA
+Population by educational attainment, no-school, male (aged 65-69)|GER_PRE_POP_ATTN_6569_MA
+Population by educational attainment, no-school, male (aged 70-74)|GER_PRE_POP_ATTN_7074_MA
+Population by educational attainment, no-school, male (aged 75+)|GER_PRE_POP_ATTN_75UP_MA
+Population by educational attainment, primary, female (aged 0-4)|GER_PRI_POP_ATTN_0004_FE
+Population by educational attainment, primary, female (aged 10-14)|GER_PRI_POP_ATTN_1014_FE
+Population by educational attainment, primary, female (aged 15-19)|GER_PRI_POP_ATTN_1519_FE
+Population by educational attainment, primary, female (aged 20-24)|GER_PRI_POP_ATTN_2024_FE
+Population by educational attainment, primary, female (aged 25-29)|GER_PRI_POP_ATTN_2529_FE
+Population by educational attainment, primary, female (aged 30-34)|GER_PRI_POP_ATTN_3034_FE
+Population by educational attainment, primary, female (aged 35-39)|GER_PRI_POP_ATTN_3539_FE
+Population by educational attainment, primary, female (aged 40-44)|GER_PRI_POP_ATTN_4044_FE
+Population by educational attainment, primary, female (aged 45-49)|GER_PRI_POP_ATTN_4549_FE
+Population by educational attainment, primary, female (aged 5-9)|GER_PRI_POP_ATTN_0509_FE
+Population by educational attainment, primary, female (aged 50-54)|GER_PRI_POP_ATTN_5054_FE
+Population by educational attainment, primary, female (aged 55-59)|GER_PRI_POP_ATTN_5559_FE
+Population by educational attainment, primary, female (aged 60-64)|GER_PRI_POP_ATTN_6064_FE
+Population by educational attainment, primary, female (aged 65-69)|GER_PRI_POP_ATTN_6569_FE
+Population by educational attainment, primary, female (aged 70-74)|GER_PRI_POP_ATTN_7074_FE
+Population by educational attainment, primary, female (aged 75+)|GER_PRI_POP_ATTN_75UP_FE
+Population by educational attainment, primary, male (aged 0-4)|GER_PRI_POP_ATTN_0004_MA
+Population by educational attainment, primary, male (aged 10-14)|GER_PRI_POP_ATTN_1014_MA
+Population by educational attainment, primary, male (aged 15-19)|GER_PRI_POP_ATTN_1519_MA
+Population by educational attainment, primary, male (aged 20-24)|GER_PRI_POP_ATTN_2024_MA
+Population by educational attainment, primary, male (aged 25-29)|GER_PRI_POP_ATTN_2529_MA
+Population by educational attainment, primary, male (aged 30-34)|GER_PRI_POP_ATTN_3034_MA
+Population by educational attainment, primary, male (aged 35-39)|GER_PRI_POP_ATTN_3539_MA
+Population by educational attainment, primary, male (aged 40-44)|GER_PRI_POP_ATTN_4044_MA
+Population by educational attainment, primary, male (aged 45-49)|GER_PRI_POP_ATTN_4549_MA
+Population by educational attainment, primary, male (aged 5-9)|GER_PRI_POP_ATTN_0509_MA
+Population by educational attainment, primary, male (aged 50-54)|GER_PRI_POP_ATTN_5054_MA
+Population by educational attainment, primary, male (aged 55-59)|GER_PRI_POP_ATTN_5559_MA
+Population by educational attainment, primary, male (aged 60-64)|GER_PRI_POP_ATTN_6064_MA
+Population by educational attainment, primary, male (aged 65-69)|GER_PRI_POP_ATTN_6569_MA
+Population by educational attainment, primary, male (aged 70-74)|GER_PRI_POP_ATTN_7074_MA
+Population by educational attainment, primary, male (aged 75+)|GER_PRI_POP_ATTN_75UP_MA
+Population by educational attainment, secondary, female (aged 0-4)|GER_SEC_POP_ATTN_0004_FE
+Population by educational attainment, secondary, female (aged 10-14)|GER_SEC_POP_ATTN_1014_FE
+Population by educational attainment, secondary, female (aged 15-19)|GER_SEC_POP_ATTN_1519_FE
+Population by educational attainment, secondary, female (aged 20-24)|GER_SEC_POP_ATTN_2024_FE
+Population by educational attainment, secondary, female (aged 25-29)|GER_SEC_POP_ATTN_2529_FE
+Population by educational attainment, secondary, female (aged 30-34)|GER_SEC_POP_ATTN_3034_FE
+Population by educational attainment, secondary, female (aged 35-39)|GER_SEC_POP_ATTN_3539_FE
+Population by educational attainment, secondary, female (aged 40-44)|GER_SEC_POP_ATTN_4044_FE
+Population by educational attainment, secondary, female (aged 45-49)|GER_SEC_POP_ATTN_4549_FE
+Population by educational attainment, secondary, female (aged 5-9)|GER_SEC_POP_ATTN_0509_FE
+Population by educational attainment, secondary, female (aged 50-54)|GER_SEC_POP_ATTN_5054_FE
+Population by educational attainment, secondary, female (aged 55-59)|GER_SEC_POP_ATTN_5559_FE
+Population by educational attainment, secondary, female (aged 60-64)|GER_SEC_POP_ATTN_6064_FE
+Population by educational attainment, secondary, female (aged 65-69)|GER_SEC_POP_ATTN_6569_FE
+Population by educational attainment, secondary, female (aged 70-74)|GER_SEC_POP_ATTN_7074_FE
+Population by educational attainment, secondary, female (aged 75+)|GER_SEC_POP_ATTN_75UP_FE
+Population by educational attainment, secondary, male (aged 0-4)|GER_SEC_POP_ATTN_0004_MA
+Population by educational attainment, secondary, male (aged 10-14)|GER_SEC_POP_ATTN_1014_MA
+Population by educational attainment, secondary, male (aged 15-19)|GER_SEC_POP_ATTN_1519_MA
+Population by educational attainment, secondary, male (aged 20-24)|GER_SEC_POP_ATTN_2024_MA
+Population by educational attainment, secondary, male (aged 25-29)|GER_SEC_POP_ATTN_2529_MA
+Population by educational attainment, secondary, male (aged 30-34)|GER_SEC_POP_ATTN_3034_MA
+Population by educational attainment, secondary, male (aged 35-39)|GER_SEC_POP_ATTN_3539_MA
+Population by educational attainment, secondary, male (aged 40-44)|GER_SEC_POP_ATTN_4044_MA
+Population by educational attainment, secondary, male (aged 45-49)|GER_SEC_POP_ATTN_4549_MA
+Population by educational attainment, secondary, male (aged 5-9)|GER_SEC_POP_ATTN_0509_MA
+Population by educational attainment, secondary, male (aged 50-54)|GER_SEC_POP_ATTN_5054_MA
+Population by educational attainment, secondary, male (aged 55-59)|GER_SEC_POP_ATTN_5559_MA
+Population by educational attainment, secondary, male (aged 60-64)|GER_SEC_POP_ATTN_6064_MA
+Population by educational attainment, secondary, male (aged 65-69)|GER_SEC_POP_ATTN_6569_MA
+Population by educational attainment, secondary, male (aged 70-74)|GER_SEC_POP_ATTN_7074_MA
+Population by educational attainment, secondary, male (aged 75+)|GER_SEC_POP_ATTN_75UP_MA
+population in thousand, 15-19, female, no education|MYS_POP_1519_NED_FE
+population in thousand, 15-19, female, primary|MYS_POP_1519_PRI_FE
+population in thousand, 15-19, female, secondary|MYS_POP_1519_SEC_FE
+population in thousand, 15-19, female, tertiary|MYS_POP_1519_TER_FE
+population in thousand, 15-19, male, no education|MYS_POP_1519_NED_MA
+population in thousand, 15-19, male, primary|MYS_POP_1519_PRI_MA
+population in thousand, 15-19, male, secondary|MYS_POP_1519_SEC_MA
+population in thousand, 15-19, male, tertiary|MYS_POP_1519_TER_MA
+population in thousand, 15-19, total, no education|MYS_POP_1519_NED_MF
+population in thousand, 15-19, total, primary|MYS_POP_1519_PRI_MF
+population in thousand, 15-19, total, secondary|MYS_POP_1519_SEC_MF
+population in thousand, 15-19, total, tertiary|MYS_POP_1519_TER_MF
+population in thousand, 15-44, female, no education|MYS_POP_1544_NED_FE
+population in thousand, 15-44, female, primary|MYS_POP_1544_PRI_FE
+population in thousand, 15-44, female, secondary|MYS_POP_1544_SEC_FE
+population in thousand, 15-44, female, tertiary|MYS_POP_1544_TER_FE
+population in thousand, 15-44, male, no education|MYS_POP_1544_NED_MA
+population in thousand, 15-44, male, primary|MYS_POP_1544_PRI_MA
+population in thousand, 15-44, male, secondary|MYS_POP_1544_SEC_MA
+population in thousand, 15-44, male, tertiary|MYS_POP_1544_TER_MA
+population in thousand, 15-44, total, no education|MYS_POP_1544_NED_MF
+population in thousand, 15-44, total, primary|MYS_POP_1544_PRI_MF
+population in thousand, 15-44, total, secondary|MYS_POP_1544_SEC_MF
+population in thousand, 15-44, total, tertiary|MYS_POP_1544_TER_MF
+population in thousand, 15-64, female, no education|MYS_POP_1564_NED_FE
+population in thousand, 15-64, female, primary|MYS_POP_1564_PRI_FE
+population in thousand, 15-64, female, secondary|MYS_POP_1564_SEC_FE
+population in thousand, 15-64, female, tertiary|MYS_POP_1564_TER_FE
+population in thousand, 15-64, male, no education|MYS_POP_1564_NED_MA
+population in thousand, 15-64, male, primary|MYS_POP_1564_PRI_MA
+population in thousand, 15-64, male, secondary|MYS_POP_1564_SEC_MA
+population in thousand, 15-64, male, tertiary|MYS_POP_1564_TER_MA
+population in thousand, 15-64, total, no education|MYS_POP_1564_NED_MF
+population in thousand, 15-64, total, primary|MYS_POP_1564_PRI_MF
+population in thousand, 15-64, total, secondary|MYS_POP_1564_SEC_MF
+population in thousand, 15-64, total, tertiary|MYS_POP_1564_TER_MF
+population in thousand, 15+, female, no education|MYS_POP_15UP_NED_FE
+population in thousand, 15+, female, primary|MYS_POP_15UP_PRI_FE
+population in thousand, 15+, female, secondary|MYS_POP_15UP_SEC_FE
+population in thousand, 15+, female, tertiary|MYS_POP_15UP_TER_FE
+population in thousand, 15+, male, no education|MYS_POP_15UP_NED_MA
+population in thousand, 15+, male, primary|MYS_POP_15UP_PRI_MA
+population in thousand, 15+, male, secondary|MYS_POP_15UP_SEC_MA
+population in thousand, 15+, male, tertiary|MYS_POP_15UP_TER_MA
+population in thousand, 15+, total, no education|MYS_POP_15UP_NED_MF
+population in thousand, 15+, total, primary|MYS_POP_15UP_PRI_MF
+population in thousand, 15+, total, secondary|MYS_POP_15UP_SEC_MF
+population in thousand, 15+, total, tertiary|MYS_POP_15UP_TER_MF
+population in thousand, 20 - 24, female, no education|MYS_POP_2024_NED_FE
+population in thousand, 20 - 24, female, primary|MYS_POP_2024_PRI_FE
+population in thousand, 20 - 24, female, secondary|MYS_POP_2024_SEC_FE
+population in thousand, 20 - 24, female, tertiary|MYS_POP_2024_TER_FE
+population in thousand, 20 - 24, male, noedu|MYS_POP_2024_NED_MA
+population in thousand, 20 - 24, male, primary|MYS_POP_2024_PRI_MA
+population in thousand, 20 - 24, male, secondary|MYS_POP_2024_SEC_MA
+population in thousand, 20 - 24, male, tertiary|MYS_POP_2024_TER_MA
+population in thousand, 20 - 24, total, primary|MYS_POP_2024_PRI_MF
+population in thousand, 20 - 24, total, secondary|MYS_POP_2024_SEC_MF
+population in thousand, 20 - 24, total, tertiary|MYS_POP_2024_TER_MF
+population in thousand, 20 - 24,total, no education|MYS_POP_2024_NED_MF
+population in thousand, 25 - 29, female, no education|MYS_POP_2529_NED_FE
+population in thousand, 25 - 29, female, primary|MYS_POP_2529_PRI_FE
+population in thousand, 25 - 29, female, secondary|MYS_POP_2529_SEC_FE
+population in thousand, 25 - 29, female, tertiary|MYS_POP_2529_TER_FE
+population in thousand, 25 - 29, male, no education|MYS_POP_2529_NED_MA
+population in thousand, 25 - 29, male, primary|MYS_POP_2529_PRI_MA
+population in thousand, 25 - 29, male, secondary|MYS_POP_2529_SEC_MA
+population in thousand, 25 - 29, male, tertiary|MYS_POP_2529_TER_MA
+population in thousand, 25 - 29, total, no education|MYS_POP_2529_NED_MF
+population in thousand, 25 - 29, total, primary|MYS_POP_2529_PRI_MF
+population in thousand, 25 - 29, total, secondary|MYS_POP_2529_SEC_MF
+population in thousand, 25 - 29, total, tertiary|MYS_POP_2529_TER_MF
+population in thousand, 25+, female, no education|MYS_POP_25UP_NED_FE
+population in thousand, 25+, female, primary|MYS_POP_25UP_PRI_FE
+population in thousand, 25+, female, secondary|MYS_POP_25UP_SEC_FE
+population in thousand, 25+, female, tertiary|MYS_POP_25UP_TER_FE
+population in thousand, 25+, male, no education|MYS_POP_25UP_NED_MA
+population in thousand, 25+, male, primary|MYS_POP_25UP_PRI_MA
+population in thousand, 25+, male, secondary|MYS_POP_25UP_SEC_MA
+population in thousand, 25+, male, tertiary|MYS_POP_25UP_TER_MA
+population in thousand, 25+, total, no education|MYS_POP_25UP_NED_MF
+population in thousand, 25+, total, primary|MYS_POP_25UP_PRI_MF
+population in thousand, 25+, total, secondary|MYS_POP_25UP_SEC_MF
+population in thousand, 25+, total, tertiary|MYS_POP_25UP_TER_MF
+population in thousand, 30 - 34, female, no education|MYS_POP_3034_NED_FE
+population in thousand, 30 - 34, female, primary|MYS_POP_3034_PRI_FE
+population in thousand, 30 - 34, female, secondary|MYS_POP_3034_SEC_FE
+population in thousand, 30 - 34, female, tertiary|MYS_POP_3034_TER_FE
+population in thousand, 30 - 34, male, no education|MYS_POP_3034_NED_MA
+population in thousand, 30 - 34, male, primary|MYS_POP_3034_PRI_MA
+population in thousand, 30 - 34, male, secondary|MYS_POP_3034_SEC_MA
+population in thousand, 30 - 34, male, tertiary|MYS_POP_3034_TER_MA
+population in thousand, 30 - 34, total, no education|MYS_POP_3034_NED_MF
+population in thousand, 30 - 34, total, primary|MYS_POP_3034_PRI_MF
+population in thousand, 30 - 34, total, secondary|MYS_POP_3034_SEC_MF
+population in thousand, 30 - 34, total, tertiary|MYS_POP_3034_TER_MF
+population in thousand, 35-39, female, no education|MYS_POP_3539_NED_FE
+population in thousand, 35-39, female, primary|MYS_POP_3539_PRI_FE
+population in thousand, 35-39, female, secondary|MYS_POP_3539_SEC_FE
+population in thousand, 35-39, female, tertiary|MYS_POP_3539_TER_FE
+population in thousand, 35-39, male, no education|MYS_POP_3539_NED_MA
+population in thousand, 35-39, male, primary|MYS_POP_3539_PRI_MA
+population in thousand, 35-39, male, secondary|MYS_POP_3539_SEC_MA
+population in thousand, 35-39, male, tertiary|MYS_POP_3539_TER_MA
+population in thousand, 35-39, total, no education|MYS_POP_3539_NED_MF
+population in thousand, 35-39, total, primary|MYS_POP_3539_PRI_MF
+population in thousand, 35-39, total, secondary|MYS_POP_3539_SEC_MF
+population in thousand, 35-39, total, tertiary|MYS_POP_3539_TER_MF
+population in thousand, 40-44, female, no education|MYS_POP_4044_NED_FE
+population in thousand, 40-44, female, primary|MYS_POP_4044_PRI_FE
+population in thousand, 40-44, female, secondary|MYS_POP_4044_SEC_FE
+population in thousand, 40-44, female, tertiary|MYS_POP_4044_TER_FE
+population in thousand, 40-44, male, no education|MYS_POP_4044_NED_MA
+population in thousand, 40-44, male, primary|MYS_POP_4044_PRI_MA
+population in thousand, 40-44, male, secondary|MYS_POP_4044_SEC_MA
+population in thousand, 40-44, male, tertiary|MYS_POP_4044_TER_MA
+population in thousand, 40-44, total, no education|MYS_POP_4044_NED_MF
+population in thousand, 40-44, total, primary|MYS_POP_4044_PRI_MF
+population in thousand, 40-44, total, secondary|MYS_POP_4044_SEC_MF
+population in thousand, 40-44, total, tertiary|MYS_POP_4044_TER_MF
+population in thousand, 45-49, female, no education|MYS_POP_4549_NED_FE
+population in thousand, 45-49, female, primary|MYS_POP_4549_PRI_FE
+population in thousand, 45-49, female, secondary|MYS_POP_4549_SEC_FE
+population in thousand, 45-49, female, tertiary|MYS_POP_4549_TER_FE
+population in thousand, 45-49, male, no education|MYS_POP_4549_NED_MA
+population in thousand, 45-49, male, primary|MYS_POP_4549_PRI_MA
+population in thousand, 45-49, male, secondary|MYS_POP_4549_SEC_MA
+population in thousand, 45-49, male, tertiary|MYS_POP_4549_TER_MA
+population in thousand, 45-49, total, no education|MYS_POP_4549_NED_MF
+population in thousand, 45-49, total, primary|MYS_POP_4549_PRI_MF
+population in thousand, 45-49, total, secondary|MYS_POP_4549_SEC_MF
+population in thousand, 45-49, total, tertiary|MYS_POP_4549_TER_MF
+population in thousand, 45-64, female, no education|MYS_POP_4564_NED_FE
+population in thousand, 45-64, female, primary|MYS_POP_4564_PRI_FE
+population in thousand, 45-64, female, secondary|MYS_POP_4564_SEC_FE
+population in thousand, 45-64, female, tertiary|MYS_POP_4564_TER_FE
+population in thousand, 45-64, male, no education|MYS_POP_4564_NED_MA
+population in thousand, 45-64, male, primary|MYS_POP_4564_PRI_MA
+population in thousand, 45-64, male, secondary|MYS_POP_4564_SEC_MA
+population in thousand, 45-64, male, tertiary|MYS_POP_4564_TER_MA
+population in thousand, 45-64, total, no education|MYS_POP_4564_NED_MF
+population in thousand, 45-64, total, primary|MYS_POP_4564_PRI_MF
+population in thousand, 45-64, total, secondary|MYS_POP_4564_SEC_MF
+population in thousand, 45-64, total, tertiary|MYS_POP_4564_TER_MF
+population in thousand, 50-54, female, no education|MYS_POP_5054_NED_FE
+population in thousand, 50-54, female, primary|MYS_POP_5054_PRI_FE
+population in thousand, 50-54, female, secondary|MYS_POP_5054_SEC_FE
+population in thousand, 50-54, female, tertiary|MYS_POP_5054_TER_FE
+population in thousand, 50-54, male, no education|MYS_POP_5054_NED_MA
+population in thousand, 50-54, male, primary|MYS_POP_5054_PRI_MA
+population in thousand, 50-54, male, secondary|MYS_POP_5054_SEC_MA
+population in thousand, 50-54, male, tertiary|MYS_POP_5054_TER_MA
+population in thousand, 50-54, total, no education|MYS_POP_5054_NED_MF
+population in thousand, 50-54, total, primary|MYS_POP_5054_PRI_MF
+population in thousand, 50-54, total, secondary|MYS_POP_5054_SEC_MF
+population in thousand, 50-54, total, tertiary|MYS_POP_5054_TER_MF
+population in thousand, 55-59, female, no education|MYS_POP_5559_NED_FE
+population in thousand, 55-59, female, primary|MYS_POP_5559_PRI_FE
+population in thousand, 55-59, female, secondary|MYS_POP_5559_SEC_FE
+population in thousand, 55-59, female, tertiary|MYS_POP_5559_TER_FE
+population in thousand, 55-59, male, no education|MYS_POP_5559_NED_MA
+population in thousand, 55-59, male, primary|MYS_POP_5559_PRI_MA
+population in thousand, 55-59, male, secondary|MYS_POP_5559_SEC_MA
+population in thousand, 55-59, male, tertiary|MYS_POP_5559_TER_MA
+population in thousand, 55-59, total, no education|MYS_POP_5559_NED_MF
+population in thousand, 55-59, total, primary|MYS_POP_5559_PRI_MF
+population in thousand, 55-59, total, secondary|MYS_POP_5559_SEC_MF
+population in thousand, 55-59, total, tertiary|MYS_POP_5559_TER_MF
+population in thousand, 60-64, female, no education|MYS_POP_6064_NED_FE
+population in thousand, 60-64, female, primary|MYS_POP_6064_PRI_FE
+population in thousand, 60-64, female, secondary|MYS_POP_6064_SEC_FE
+population in thousand, 60-64, female, tertiary|MYS_POP_6064_TER_FE
+population in thousand, 60-64, male, no education|MYS_POP_6064_NED_MA
+population in thousand, 60-64, male, primary|MYS_POP_6064_PRI_MA
+population in thousand, 60-64, male, secondary|MYS_POP_6064_SEC_MA
+population in thousand, 60-64, male, tertiary|MYS_POP_6064_TER_MA
+population in thousand, 60-64, total, no education|MYS_POP_6064_NED_MF
+population in thousand, 60-64, total, primary|MYS_POP_6064_PRI_MF
+population in thousand, 60-64, total, secondary|MYS_POP_6064_SEC_MF
+population in thousand, 60-64, total, tertiary|MYS_POP_6064_TER_MF
+population in thousand, 65-69, female, no education|MYS_POP_6569_NED_FE
+population in thousand, 65-69, female, primary|MYS_POP_6569_PRI_FE
+population in thousand, 65-69, female, secondary|MYS_POP_6569_SEC_FE
+population in thousand, 65-69, female, tertiary|MYS_POP_6569_TER_FE
+population in thousand, 65-69, male, no education|MYS_POP_6569_NED_MA
+population in thousand, 65-69, male, primary|MYS_POP_6569_PRI_MA
+population in thousand, 65-69, male, secondary|MYS_POP_6569_SEC_MA
+population in thousand, 65-69, male, tertiary|MYS_POP_6569_TER_MA
+population in thousand, 65-69, total, no education|MYS_POP_6569_NED_MF
+population in thousand, 65-69, total, primary|MYS_POP_6569_PRI_MF
+population in thousand, 65-69, total, secondary|MYS_POP_6569_SEC_MF
+population in thousand, 65-69, total, tertiary|MYS_POP_6569_TER_MF
+population in thousand, 65+, female, no education|MYS_POP_65UP_NED_FE
+population in thousand, 65+, female, primary|MYS_POP_65UP_PRI_FE
+population in thousand, 65+, female, secondary|MYS_POP_65UP_SEC_FE
+population in thousand, 65+, female, tertiary|MYS_POP_65UP_TER_FE
+population in thousand, 65+, male, no education|MYS_POP_65UP_NED_MA
+population in thousand, 65+, male, primary|MYS_POP_65UP_PRI_MA
+population in thousand, 65+, male, secondary|MYS_POP_65UP_SEC_MA
+population in thousand, 65+, male, tertiary|MYS_POP_65UP_TER_MA
+population in thousand, 65+, total, no education|MYS_POP_65UP_NED_MF
+population in thousand, 65+, total, primary|MYS_POP_65UP_PRI_MF
+population in thousand, 65+, total, secondary|MYS_POP_65UP_SEC_MF
+population in thousand, 65+, total, tertiary|MYS_POP_65UP_TER_MF
+population in thousand, 70-74, female, no education|MYS_POP_7074_NED_FE
+population in thousand, 70-74, female, primary|MYS_POP_7074_PRI_FE
+population in thousand, 70-74, female, secondary|MYS_POP_7074_SEC_FE
+population in thousand, 70-74, female, tertiary|MYS_POP_7074_TER_FE
+population in thousand, 70-74, male, no education|MYS_POP_7074_NED_MA
+population in thousand, 70-74, male, primary|MYS_POP_7074_PRI_MA
+population in thousand, 70-74, male, secondary|MYS_POP_7074_SEC_MA
+population in thousand, 70-74, male, tertiary|MYS_POP_7074_TER_MA
+population in thousand, 70-74, total, no education|MYS_POP_7074_NED_MF
+population in thousand, 70-74, total, primary|MYS_POP_7074_PRI_MF
+population in thousand, 70-74, total, secondary|MYS_POP_7074_SEC_MF
+population in thousand, 70-74, total, tertiary|MYS_POP_7074_TER_MF
+population in thousand, 75-79, female, no education|MYS_POP_7579_NED_FE
+population in thousand, 75-79, female, primary|MYS_POP_7579_PRI_FE
+population in thousand, 75-79, female, secondary|MYS_POP_7579_SEC_FE
+population in thousand, 75-79, female, tertiary|MYS_POP_7579_TER_FE
+population in thousand, 75-79, male, no education|MYS_POP_7579_NED_MA
+population in thousand, 75-79, male, primary|MYS_POP_7579_PRI_MA
+population in thousand, 75-79, male, secondary|MYS_POP_7579_SEC_MA
+population in thousand, 75-79, male, tertiary|MYS_POP_7579_TER_MA
+population in thousand, 75-79, total, no education|MYS_POP_7579_NED_MF
+population in thousand, 75-79, total, primary|MYS_POP_7579_PRI_MF
+population in thousand, 75-79, total, secondary|MYS_POP_7579_SEC_MF
+population in thousand, 75-79, total, tertiary|MYS_POP_7579_TER_MF
+population in thousand, 80+, female, no education|MYS_POP_80UP_NED_FE
+population in thousand, 80+, female, primary|MYS_POP_80UP_PRI_FE
+population in thousand, 80+, female, secondary|MYS_POP_80UP_SEC_FE
+population in thousand, 80+, female, tertiary|MYS_POP_80UP_TER_FE
+population in thousand, 80+, male, no education|MYS_POP_80UP_NED_MA
+population in thousand, 80+, male, primary|MYS_POP_80UP_PRI_MA
+population in thousand, 80+, male, secondary|MYS_POP_80UP_SEC_MA
+population in thousand, 80+, male, tertiary|MYS_POP_80UP_TER_MA
+population in thousand, 80+, total, no education|MYS_POP_80UP_NED_MF
+population in thousand, 80+, total, primary|MYS_POP_80UP_PRI_MF
+population in thousand, 80+, total, secondary|MYS_POP_80UP_SEC_MF
+population in thousand, 80+, total, tertiary|MYS_POP_80UP_TER_MF
+population in thousands (age 15+), 15-19, female|BAR_POP_1519_FE
+population in thousands (age 15+), 15-19, total|BAR_POP_1519
+population in thousands (age 15+), 15+, female|BAR_POP_15UP_FE
+population in thousands (age 15+), 15+, total|BAR_POP_15UP
+population in thousands (age 15+), 20-24, female|BAR_POP_2024_FE
+population in thousands (age 15+), 20-24, total|BAR_POP_2024
+population in thousands (age 15+), 25-29, female|BAR_POP_2529_FE
+population in thousands (age 15+), 25-29, total|BAR_POP_2529
+population in thousands (age 15+), 25+, female|BAR_POP_25UP_FE
+population in thousands (age 15+), 25+, total|BAR_POP_25UP
+population in thousands (age 15+), 30-34, female|BAR_POP_3034_FE
+population in thousands (age 15+), 30-34, total|BAR_POP_3034
+population in thousands (age 15+), 35-39, female|BAR_POP_3539_FE
+population in thousands (age 15+), 35-39, total|BAR_POP_3539
+population in thousands (age 15+), 40-44, female|BAR_POP_4044_FE
+population in thousands (age 15+), 40-44, total|BAR_POP_4044
+population in thousands (age 15+), 45-49, female|BAR_POP_4549_FE
+population in thousands (age 15+), 45-49, total|BAR_POP_4549
+population in thousands (age 15+), 50-54, female|BAR_POP_5054_FE
+population in thousands (age 15+), 50-54, total|BAR_POP_5054
+population in thousands (age 15+), 55-59, female|BAR_POP_5559_FE
+population in thousands (age 15+), 55-59, total|BAR_POP_5559
+population in thousands (age 15+), 60-64, female|BAR_POP_6064_FE
+population in thousands (age 15+), 60-64, total|BAR_POP_6064
+population in thousands (age 15+), 65-69, female|BAR_POP_6569_FE
+population in thousands (age 15+), 65-69, total|BAR_POP_6569
+population in thousands (age 15+), 70-74, female|BAR_POP_7074_FE
+population in thousands (age 15+), 70-74, total|BAR_POP_7074
+population in thousands (age 15+), 75+, female|BAR_POP_75UP_FE
+population in thousands (age 15+), 75+, total|BAR_POP_75UP
+Population, aged  0, female|SP_POP_AG00_FE_UN
+Population, aged  0, male|SP_POP_AG00_MA_UN
+Population, aged  0, total|SP_POP_AG00_TO_UN
+Population, aged  1, female|SP_POP_AG01_FE_UN
+Population, aged  1, male|SP_POP_AG01_MA_UN
+Population, aged  1, total|SP_POP_AG01_TO_UN
+Population, aged  2, female|SP_POP_AG02_FE_UN
+Population, aged  2, male|SP_POP_AG02_MA_UN
+Population, aged  2, total|SP_POP_AG02_TO_UN
+Population, aged  3, female|SP_POP_AG03_FE_UN
+Population, aged  3, male|SP_POP_AG03_MA_UN
+Population, aged  3, total|SP_POP_AG03_TO_UN
+Population, aged  4, female|SP_POP_AG04_FE_UN
+Population, aged  4, male|SP_POP_AG04_MA_UN
+Population, aged  4, total|SP_POP_AG04_TO_UN
+Population, aged  5, female|SP_POP_AG05_FE_UN
+Population, aged  5, male|SP_POP_AG05_MA_UN
+Population, aged  5, total|SP_POP_AG05_TO_UN
+Population, aged  6, female|SP_POP_AG06_FE_UN
+Population, aged  6, male|SP_POP_AG06_MA_UN
+Population, aged  6, total|SP_POP_AG06_TO_UN
+Population, aged  7, female|SP_POP_AG07_FE_UN
+Population, aged  7, male|SP_POP_AG07_MA_UN
+Population, aged  7, total|SP_POP_AG07_TO_UN
+Population, aged  8, female|SP_POP_AG08_FE_UN
+Population, aged  8, male|SP_POP_AG08_MA_UN
+Population, aged  8, total|SP_POP_AG08_TO_UN
+Population, aged  9, female|SP_POP_AG09_FE_UN
+Population, aged  9, male|SP_POP_AG09_MA_UN
+Population, aged  9, total|SP_POP_AG09_TO_UN
+Population, aged 10-14, female|SP_POP_1014_FE_UN
+Population, aged 10-14, male|SP_POP_1014_MA_UN
+Population, aged 10-14, total|SP_POP_1014_TO_UN
+Population, aged 10-15, female|SP_POP_1015_FE_UN
+Population, aged 10-15, male|SP_POP_1015_MA_UN
+Population, aged 10-15, total|SP_POP_1015_TO_UN
+Population, aged 10-16, female|SP_POP_1016_FE_UN
+Population, aged 10-16, male|SP_POP_1016_MA_UN
+Population, aged 10-16, total|SP_POP_1016_TO_UN
+Population, aged 10-17, female|SP_POP_1017_FE_UN
+Population, aged 10-17, male|SP_POP_1017_MA_UN
+Population, aged 10-17, total|SP_POP_1017_TO_UN
+Population, aged 10-18, female|SP_POP_1018_FE_UN
+Population, aged 10-18, male|SP_POP_1018_MA_UN
+Population, aged 10-18, total|SP_POP_1018_TO_UN
+Population, aged 10, female|SP_POP_AG10_FE_UN
+Population, aged 10, male|SP_POP_AG10_MA_UN
+Population, aged 10, total|SP_POP_AG10_TO_UN
+Population, aged 11-15, female|SP_POP_1115_FE_UN
+Population, aged 11-15, male|SP_POP_1115_MA_UN
+Population, aged 11-15, total|SP_POP_1115_TO_UN
+Population, aged 11-16, female|SP_POP_1116_FE_UN
+Population, aged 11-16, male|SP_POP_1116_MA_UN
+Population, aged 11-16, total|SP_POP_1116_TO_UN
+Population, aged 11-17, female|SP_POP_1117_FE_UN
+Population, aged 11-17, male|SP_POP_1117_MA_UN
+Population, aged 11-17, total|SP_POP_1117_TO_UN
+Population, aged 11-18, female|SP_POP_1118_FE_UN
+Population, aged 11-18, male|SP_POP_1118_MA_UN
+Population, aged 11-18, total|SP_POP_1118_TO_UN
+Population, aged 11, female|SP_POP_AG11_FE_UN
+Population, aged 11, male|SP_POP_AG11_MA_UN
+Population, aged 11, total|SP_POP_AG11_TO_UN
+Population, aged 12-15, female|SP_POP_1215_FE_UN
+Population, aged 12-15, male|SP_POP_1215_MA_UN
+Population, aged 12-15, total|SP_POP_1215_TO_UN
+Population, aged 12-16, female|SP_POP_1216_FE_UN
+Population, aged 12-16, male|SP_POP_1216_MA_UN
+Population, aged 12-16, total|SP_POP_1216_TO_UN
+Population, aged 12-17, female|SP_POP_1217_FE_UN
+Population, aged 12-17, male|SP_POP_1217_MA_UN
+Population, aged 12-17, total|SP_POP_1217_TO_UN
+Population, aged 12-18, female|SP_POP_1218_FE_UN
+Population, aged 12-18, male|SP_POP_1218_MA_UN
+Population, aged 12-18, total|SP_POP_1218_TO_UN
+Population, aged 12, female|SP_POP_AG12_FE_UN
+Population, aged 12, male|SP_POP_AG12_MA_UN
+Population, aged 12, total|SP_POP_AG12_TO_UN
+Population, aged 13-16, female|SP_POP_1316_FE_UN
+Population, aged 13-16, male|SP_POP_1316_MA_UN
+Population, aged 13-16, total|SP_POP_1316_TO_UN
+Population, aged 13-17, female|SP_POP_1317_FE_UN
+Population, aged 13-17, male|SP_POP_1317_MA_UN
+Population, aged 13-17, total|SP_POP_1317_TO_UN
+Population, aged 13-18, female|SP_POP_1318_FE_UN
+Population, aged 13-18, male|SP_POP_1318_MA_UN
+Population, aged 13-18, total|SP_POP_1318_TO_UN
+Population, aged 13-19, female|SP_POP_1319_FE_UN
+Population, aged 13-19, male|SP_POP_1319_MA_UN
+Population, aged 13-19, total|SP_POP_1319_TO_UN
+Population, aged 13, female|SP_POP_AG13_FE_UN
+Population, aged 13, male|SP_POP_AG13_MA_UN
+Population, aged 13, total|SP_POP_AG13_TO_UN
+Population, aged 14-18, female|SP_POP_1418_FE_UN
+Population, aged 14-18, male|SP_POP_1418_MA_UN
+Population, aged 14-18, total|SP_POP_1418_TO_UN
+Population, aged 14-19, female|SP_POP_1419_FE_UN
+Population, aged 14-19, male|SP_POP_1419_MA_UN
+Population, aged 14-19, total|SP_POP_1419_TO_UN
+Population, aged 14, female|SP_POP_AG14_FE_UN
+Population, aged 14, male|SP_POP_AG14_MA_UN
+Population, aged 14, total|SP_POP_AG14_TO_UN
+Population, aged 15-24, female|SP_POP_1524_FE_UN
+Population, aged 15-24, male|SP_POP_1524_MA_UN
+Population, aged 15-24, total|SP_POP_1524_TO_UN
+Population, aged 15, female|SP_POP_AG15_FE_UN
+Population, aged 15, male|SP_POP_AG15_MA_UN
+Population, aged 15, total|SP_POP_AG15_TO_UN
+Population, aged 16, female|SP_POP_AG16_FE_UN
+Population, aged 16, male|SP_POP_AG16_MA_UN
+Population, aged 16, total|SP_POP_AG16_TO_UN
+Population, aged 17, female|SP_POP_AG17_FE_UN
+Population, aged 17, male|SP_POP_AG17_MA_UN
+Population, aged 17, total|SP_POP_AG17_TO_UN
+Population, aged 18, female|SP_POP_AG18_FE_UN
+Population, aged 18, male|SP_POP_AG18_MA_UN
+Population, aged 18, total|SP_POP_AG18_TO_UN
+Population, aged 19, female|SP_POP_AG19_FE_UN
+Population, aged 19, male|SP_POP_AG19_MA_UN
+Population, aged 19, total|SP_POP_AG19_TO_UN
+Population, aged 20, female|SP_POP_AG20_FE_UN
+Population, aged 20, male|SP_POP_AG20_MA_UN
+Population, aged 20, total|SP_POP_AG20_TO_UN
+Population, aged 21, female|SP_POP_AG21_FE_UN
+Population, aged 21, male|SP_POP_AG21_MA_UN
+Population, aged 21, total|SP_POP_AG21_TO_UN
+Population, aged 22, female|SP_POP_AG22_FE_UN
+Population, aged 22, male|SP_POP_AG22_MA_UN
+Population, aged 22, total|SP_POP_AG22_TO_UN
+Population, aged 23, female|SP_POP_AG23_FE_UN
+Population, aged 23, male|SP_POP_AG23_MA_UN
+Population, aged 23, total|SP_POP_AG23_TO_UN
+Population, aged 24, female|SP_POP_AG24_FE_UN
+Population, aged 24, male|SP_POP_AG24_MA_UN
+Population, aged 24, total|SP_POP_AG24_TO_UN
+Population, aged 25, female|SP_POP_AG25_FE_UN
+Population, aged 25, male|SP_POP_AG25_MA_UN
+Population, aged 25, total|SP_POP_AG25_TO_UN
+Population, aged 3- 5, female|SP_POP_0305_FE_UN
+Population, aged 3- 5, male|SP_POP_0305_MA_UN
+Population, aged 3- 5, total|SP_POP_0305_TO_UN
+Population, aged 4- 6, female|SP_POP_0406_FE_UN
+Population, aged 4- 6, male|SP_POP_0406_MA_UN
+Population, aged 4- 6, total|SP_POP_0406_TO_UN
+Population, aged 5- 9, female|SP_POP_0509_FE_UN
+Population, aged 5- 9, male|SP_POP_0509_MA_UN
+Population, aged 5- 9, total|SP_POP_0509_TO_UN
+Population, aged 5-10, female|SP_POP_0510_FE_UN
+Population, aged 5-10, male|SP_POP_0510_MA_UN
+Population, aged 5-10, total|SP_POP_0510_TO_UN
+Population, aged 5-11, female|SP_POP_0511_FE_UN
+Population, aged 5-11, male|SP_POP_0511_MA_UN
+Population, aged 5-11, total|SP_POP_0511_TO_UN
+Population, aged 6- 9, male|SP_POP_0609_MA_UN
+Population, aged 6- 9, total|SP_POP_0609_TO_UN
+Population, aged 6- 9,female|SP_POP_0609_FE_UN
+Population, aged 6-10, female|SP_POP_0610_FE_UN
+Population, aged 6-10, male|SP_POP_0610_MA_UN
+Population, aged 6-10, total|SP_POP_0610_TO_UN
+Population, aged 6-11, female|SP_POP_0611_FE_UN
+Population, aged 6-11, male|SP_POP_0611_MA_UN
+Population, aged 6-11, total|SP_POP_0611_TO_UN
+Population, aged 6-12, female|SP_POP_0612_FE_UN
+Population, aged 6-12, male|SP_POP_0612_MA_UN
+Population, aged 6-12, total|SP_POP_0612_TO_UN
+Population, aged 7- 9, female|SP_POP_0709_FE_UN
+Population, aged 7- 9, male|SP_POP_0709_MA_UN
+Population, aged 7- 9, total|SP_POP_0709_TO_UN
+Population, aged 7-10, female|SP_POP_0710_FE_UN
+Population, aged 7-10, male|SP_POP_0710_MA_UN
+Population, aged 7-10, total|SP_POP_0710_TO_UN
+Population, aged 7-11, female|SP_POP_0711_FE_UN
+Population, aged 7-11, male|SP_POP_0711_MA_UN
+Population, aged 7-11, total|SP_POP_0711_TO_UN
+Population, aged 7-12, female|SP_POP_0712_FE_UN
+Population, aged 7-12, male|SP_POP_0712_MA_UN
+Population, aged 7-12, total|SP_POP_0712_TO_UN
+Population, aged 7-13, female|SP_POP_0713_FE_UN
+Population, aged 7-13, male|SP_POP_0713_MA_UN
+Population, aged 7-13, total|SP_POP_0713_TO_UN
+Population, low secondary, female|SP_SEC_LTOT_FE_IN
+Population, low secondary, male|SP_SEC_LTOT_MA_IN
+Population, low secondary, total|SP_SEC_LTOT_IN
+Population, pre-primary, female|SP_PRE_TOTL_FE_IN
+Population, pre-primary, male|SP_PRE_TOTL_MA_IN
+Population, pre-primary, total|SP_PRE_TOTL_IN
+Population, primary, female|SP_PRM_TOTL_FE_IN
+Population, primary, male|SP_PRM_TOTL_MA_IN
+Population, primary, total|SP_PRM_TOTL_IN
+Population, secondary, female|SP_SEC_TOTL_FE_IN
+Population, secondary, male|SP_SEC_TOTL_MA_IN
+Population, secondary, total|SP_SEC_TOTL_IN
+Population, tertiary, female|SP_TER_TOTL_FE_IN
+Population, tertiary, male|SP_TER_TOTL_MA_IN
+Population, tertiary, total|SP_TER_TOTL_IN
+Population, upper secondary, female|SP_SEC_UTOT_FE_IN
+Population, upper secondary, male|SP_SEC_UTOT_MA_IN
+Population, upper secondary, total|SP_SEC_UTOT_IN
+primary completion rate, female|GER_PRI_CMPT_FE
+primary completion rate, male|GER_PRI_CMPT_MA
+primary completion rate, total|GER_PRI_CMPT_TOT
+Private enrollment share (%), tertiary|SE_TER_PRIV_ZS
+proportion, 15-19, female, no education|MYS_PROP_1519_NED_FE
+proportion, 15-19, female, primary|MYS_PROP_1519_PRI_FE
+proportion, 15-19, female, secondary|MYS_PROP_1519_SEC_FE
+proportion, 15-19, female, tertiary|MYS_PROP_1519_TER_FE
+proportion, 15-19, male, no education|MYS_PROP_1519_NED_MA
+proportion, 15-19, male, primary|MYS_PROP_1519_PRI_MA
+proportion, 15-19, male, secondary|MYS_PROP_1519_SEC_MA
+proportion, 15-19, male, tertiary|MYS_PROP_1519_TER_MA
+proportion, 15-19, total, no education|MYS_PROP_1519_NED_MF
+proportion, 15-19, total, primary|MYS_PROP_1519_PRI_MF
+proportion, 15-19, total, secondary|MYS_PROP_1519_SEC_MF
+proportion, 15-19, total, tertiaryr|MYS_PROP_1519_TER_MF
+proportion, 15-44, female, no education|MYS_PROP_1544_NED_FE
+proportion, 15-44, female, primary|MYS_PROP_1544_PRI_FE
+proportion, 15-44, female, secondary|MYS_PROP_1544_SEC_FE
+proportion, 15-44, female, tertiary|MYS_PROP_1544_TER_FE
+proportion, 15-44, male, no education|MYS_PROP_1544_NED_MA
+proportion, 15-44, male, primary|MYS_PROP_1544_PRI_MA
+proportion, 15-44, male, secondary|MYS_PROP_1544_SEC_MA
+proportion, 15-44, male, tertiary|MYS_PROP_1544_TER_MA
+proportion, 15-44, total, no education|MYS_PROP_1544_NED_MF
+proportion, 15-44, total, primary|MYS_PROP_1544_PRI_MF
+proportion, 15-44, total, secondary|MYS_PROP_1544_SEC_MF
+proportion, 15-44, total, tertiary|MYS_PROP_1544_TER_MF
+proportion, 15-64, female, no education|MYS_PROP_1564_NED_FE
+proportion, 15-64, female, primary|MYS_PROP_1564_PRI_FE
+proportion, 15-64, female, secondary|MYS_PROP_1564_SEC_FE
+proportion, 15-64, female, tertiary|MYS_PROP_1564_TER_FE
+proportion, 15-64, male, no education|MYS_PROP_1564_NED_MA
+proportion, 15-64, male, primary|MYS_PROP_1564_PRI_MA
+proportion, 15-64, male, secondary|MYS_PROP_1564_SEC_MA
+proportion, 15-64, male, tertiary|MYS_PROP_1564_TER_MA
+proportion, 15-64, total, no education|MYS_PROP_1564_NED_MF
+proportion, 15-64, total, primary|MYS_PROP_1564_PRI_MF
+proportion, 15-64, total, secondary|MYS_PROP_1564_SEC_MF
+proportion, 15-64, total, tertiary|MYS_PROP_1564_TER_MF
+proportion, 15+, female, no education|MYS_PROP_15UP_NED_FE
+proportion, 15+, female, primary|MYS_PROP_15UP_PRI_FE
+proportion, 15+, female, secondary|MYS_PROP_15UP_SEC_FE
+proportion, 15+, female, tertiary|MYS_PROP_15UP_TER_FE
+proportion, 15+, male, no education|MYS_PROP_15UP_NED_MA
+proportion, 15+, male, primary|MYS_PROP_15UP_PRI_MA
+proportion, 15+, male, secondary|MYS_PROP_15UP_SEC_MA
+proportion, 15+, male, tertiary|MYS_PROP_15UP_TER_MA
+proportion, 15+, total, no education|MYS_PROP_15UP_NED_MF
+proportion, 15+, total, primary|MYS_PROP_15UP_PRI_MF
+proportion, 15+, total, secondary|MYS_PROP_15UP_SEC_MF
+proportion, 15+, total, tertiary|MYS_PROP_15UP_TER_MF
+proportion, 20 - 24, female, no education|MYS_PROP_2024_NED_FE
+proportion, 20 - 24, female, primary|MYS_PROP_2024_PRI_FE
+proportion, 20 - 24, female, secondary|MYS_PROP_2024_SEC_FE
+proportion, 20 - 24, female, tertiary|MYS_PROP_2024_TER_FE
+proportion, 20 - 24, male, no education|MYS_PROP_2024_NED_MA
+proportion, 20 - 24, male, primary|MYS_PROP_2024_PRI_MA
+proportion, 20 - 24, male, secondary|MYS_PROP_2024_SEC_MA
+proportion, 20 - 24, male, tertiary|MYS_PROP_2024_TER_MA
+proportion, 20 - 24, total, no education|MYS_PROP_2024_NED_MF
+proportion, 20 - 24, total, primary|MYS_PROP_2024_PRI_MF
+proportion, 20 - 24, total, secondary|MYS_PROP_2024_SEC_MF
+proportion, 20 - 24, total, tertiary|MYS_PROP_2024_TER_MF
+proportion, 25 - 29, female, no education|MYS_PROP_2529_NED_FE
+proportion, 25 - 29, female, primary|MYS_PROP_2529_PRI_FE
+proportion, 25 - 29, female, secondary|MYS_PROP_2529_SEC_FE
+proportion, 25 - 29, female, tertiary|MYS_PROP_2529_TER_FE
+proportion, 25 - 29, male, no education|MYS_PROP_2529_NED_MA
+proportion, 25 - 29, male, primary|MYS_PROP_2529_PRI_MA
+proportion, 25 - 29, male, secondary|MYS_PROP_2529_SEC_MA
+proportion, 25 - 29, male, tertiary|MYS_PROP_2529_TER_MA
+proportion, 25 - 29, total, no education|MYS_PROP_2529_NED_MF
+proportion, 25 - 29, total, primary|MYS_PROP_2529_PRI_MF
+proportion, 25 - 29, total, secondary|MYS_PROP_2529_SEC_MF
+proportion, 25 - 29, total, tertiary|MYS_PROP_2529_TER_MF
+proportion, 25+, female, no education|MYS_PROP_25UP_NED_FE
+proportion, 25+, female, primary|MYS_PROP_25UP_PRI_FE
+proportion, 25+, female, secondary|MYS_PROP_25UP_SEC_FE
+proportion, 25+, female, tertiary|MYS_PROP_25UP_TER_FE
+proportion, 25+, male, no education|MYS_PROP_25UP_NED_MA
+proportion, 25+, male, primary|MYS_PROP_25UP_PRI_MA
+proportion, 25+, male, secondary|MYS_PROP_25UP_SEC_MA
+proportion, 25+, male, tertiary|MYS_PROP_25UP_TER_MA
+proportion, 25+, total, no education|MYS_PROP_25UP_NED_MF
+proportion, 25+, total, primary|MYS_PROP_25UP_PRI_MF
+proportion, 25+, total, secondary|MYS_PROP_25UP_SEC_MF
+proportion, 25+, total, tertiary|MYS_PROP_25UP_TER_MF
+proportion, 30 - 34, female, no education|MYS_PROP_3034_NED_FE
+proportion, 30 - 34, female, primary|MYS_PROP_3034_PRI_FE
+proportion, 30 - 34, female, secondary|MYS_PROP_3034_SEC_FE
+proportion, 30 - 34, female, tertiary|MYS_PROP_3034_TER_FE
+proportion, 30 - 34, male, no education|MYS_PROP_3034_NED_MA
+proportion, 30 - 34, male, primary|MYS_PROP_3034_PRI_MA
+proportion, 30 - 34, male, secondary|MYS_PROP_3034_SEC_MA
+proportion, 30 - 34, male, tertiary|MYS_PROP_3034_TER_MA
+proportion, 30 - 34, total, no education|MYS_PROP_3034_NED_MF
+proportion, 30 - 34, total, primary|MYS_PROP_3034_PRI_MF
+proportion, 30 - 34, total, secondary|MYS_PROP_3034_SEC_MF
+proportion, 30 - 34, total, tertiary|MYS_PROP_3034_TER_MF
+proportion, 35-39, female, no education|MYS_PROP_3539_NED_FE
+proportion, 35-39, female, primary|MYS_PROP_3539_PRI_FE
+proportion, 35-39, female, secondary|MYS_PROP_3539_SEC_FE
+proportion, 35-39, female, tertiary|MYS_PROP_3539_TER_FE
+proportion, 35-39, male, no education|MYS_PROP_3539_NED_MA
+proportion, 35-39, male, primary|MYS_PROP_3539_PRI_MA
+proportion, 35-39, male, secondary|MYS_PROP_3539_SEC_MA
+proportion, 35-39, male, tertiary|MYS_PROP_3539_TER_MA
+proportion, 35-39, total, no education|MYS_PROP_3539_NED_MF
+proportion, 35-39, total, primary|MYS_PROP_3539_PRI_MF
+proportion, 35-39, total, secondary|MYS_PROP_3539_SEC_MF
+proportion, 35-39, total, tertiary|MYS_PROP_3539_TER_MF
+proportion, 40-44, female, no education|MYS_PROP_4044_NED_FE
+proportion, 40-44, female, primary|MYS_PROP_4044_PRI_FE
+proportion, 40-44, female, secondary|MYS_PROP_4044_SEC_FE
+proportion, 40-44, female, tertiary|MYS_PROP_4044_TER_FE
+proportion, 40-44, male, no education|MYS_PROP_4044_NED_MA
+proportion, 40-44, male, primary|MYS_PROP_4044_PRI_MA
+proportion, 40-44, male, secondary|MYS_PROP_4044_SEC_MA
+proportion, 40-44, male, tertiary|MYS_PROP_4044_TER_MA
+proportion, 40-44, total, no education|MYS_PROP_4044_NED_MF
+proportion, 40-44, total, primary|MYS_PROP_4044_PRI_MF
+proportion, 40-44, total, secondary|MYS_PROP_4044_SEC_MF
+proportion, 40-44, total, tertiary|MYS_PROP_4044_TER_MF
+proportion, 45-49, female, no education|MYS_PROP_4549_NED_FE
+proportion, 45-49, female, primary|MYS_PROP_4549_PRI_FE
+proportion, 45-49, female, secondary|MYS_PROP_4549_SEC_FE
+proportion, 45-49, female, tertiary|MYS_PROP_4549_TER_FE
+proportion, 45-49, male, no education|MYS_PROP_4549_NED_MA
+proportion, 45-49, male, primary|MYS_PROP_4549_PRI_MA
+proportion, 45-49, male, secondary|MYS_PROP_4549_SEC_MA
+proportion, 45-49, male, tertiary|MYS_PROP_4549_TER_MA
+proportion, 45-49, total, no education|MYS_PROP_4549_NED_MF
+proportion, 45-49, total, primary|MYS_PROP_4549_PRI_MF
+proportion, 45-49, total, secondary|MYS_PROP_4549_SEC_MF
+proportion, 45-49, total, tertiary|MYS_PROP_4549_TER_MF
+proportion, 45-64, female, no education|MYS_PROP_4564_NED_FE
+proportion, 45-64, female, primary|MYS_PROP_4564_PRI_FE
+proportion, 45-64, female, secondary|MYS_PROP_4564_SEC_FE
+proportion, 45-64, female, tertiary|MYS_PROP_4564_TER_FE
+proportion, 45-64, male, no education|MYS_PROP_4564_NED_MA
+proportion, 45-64, male, primary|MYS_PROP_4564_PRI_MA
+proportion, 45-64, male, secondary|MYS_PROP_4564_SEC_MA
+proportion, 45-64, male, tertiary|MYS_PROP_4564_TER_MA
+proportion, 45-64, total, no education|MYS_PROP_4564_NED_MF
+proportion, 45-64, total, primary|MYS_PROP_4564_PRI_MF
+proportion, 45-64, total, secondary|MYS_PROP_4564_SEC_MF
+proportion, 45-64, total, tertiary|MYS_PROP_4564_TER_MF
+proportion, 50-54, female, no education|MYS_PROP_5054_NED_FE
+proportion, 50-54, female, primary|MYS_PROP_5054_PRI_FE
+proportion, 50-54, female, secondary|MYS_PROP_5054_SEC_FE
+proportion, 50-54, female, tertiary|MYS_PROP_5054_TER_FE
+proportion, 50-54, male, no education|MYS_PROP_5054_NED_MA
+proportion, 50-54, male, primary|MYS_PROP_5054_PRI_MA
+proportion, 50-54, male, secondary|MYS_PROP_5054_SEC_MA
+proportion, 50-54, male, tertiary|MYS_PROP_5054_TER_MA
+proportion, 50-54, total, no education|MYS_PROP_5054_NED_MF
+proportion, 50-54, total, primary|MYS_PROP_5054_PRI_MF
+proportion, 50-54, total, secondary|MYS_PROP_5054_SEC_MF
+proportion, 50-54, total, tertiary|MYS_PROP_5054_TER_MF
+proportion, 55-59, female, no education|MYS_PROP_5559_NED_FE
+proportion, 55-59, female, primary|MYS_PROP_5559_PRI_FE
+proportion, 55-59, female, secondary|MYS_PROP_5559_SEC_FE
+proportion, 55-59, female, tertiary|MYS_PROP_5559_TER_FE
+proportion, 55-59, male, no education|MYS_PROP_5559_NED_MA
+proportion, 55-59, male, primary|MYS_PROP_5559_PRI_MA
+proportion, 55-59, male, secondary|MYS_PROP_5559_SEC_MA
+proportion, 55-59, male, tertiary|MYS_PROP_5559_TER_MA
+proportion, 55-59, total, no education|MYS_PROP_5559_NED_MF
+proportion, 55-59, total, primary|MYS_PROP_5559_PRI_MF
+proportion, 55-59, total, secondary|MYS_PROP_5559_SEC_MF
+proportion, 55-59, total, tertiary|MYS_PROP_5559_TER_MF
+proportion, 60-64, female, no education|MYS_PROP_6064_NED_FE
+proportion, 60-64, female, primary|MYS_PROP_6064_PRI_FE
+proportion, 60-64, female, secondary|MYS_PROP_6064_SEC_FE
+proportion, 60-64, female, tertiary|MYS_PROP_6064_TER_FE
+proportion, 60-64, male, no education|MYS_PROP_6064_NED_MA
+proportion, 60-64, male, primary|MYS_PROP_6064_PRI_MA
+proportion, 60-64, male, secondary|MYS_PROP_6064_SEC_MA
+proportion, 60-64, male, tertiary|MYS_PROP_6064_TER_MA
+proportion, 60-64, total, no education|MYS_PROP_6064_NED_MF
+proportion, 60-64, total, primary|MYS_PROP_6064_PRI_MF
+proportion, 60-64, total, secondary|MYS_PROP_6064_SEC_MF
+proportion, 60-64, total, tertiary|MYS_PROP_6064_TER_MF
+proportion, 65-69, female, no education|MYS_PROP_6569_NED_FE
+proportion, 65-69, female, primary|MYS_PROP_6569_PRI_FE
+proportion, 65-69, female, secondary|MYS_PROP_6569_SEC_FE
+proportion, 65-69, female, tertiary|MYS_PROP_6569_TER_FE
+proportion, 65-69, male, no education|MYS_PROP_6569_NED_MA
+proportion, 65-69, male, primary|MYS_PROP_6569_PRI_MA
+proportion, 65-69, male, secondary|MYS_PROP_6569_SEC_MA
+proportion, 65-69, male, tertiary|MYS_PROP_6569_TER_MA
+proportion, 65-69, total, no education|MYS_PROP_6569_NED_MF
+proportion, 65-69, total, primary|MYS_PROP_6569_PRI_MF
+proportion, 65-69, total, secondary|MYS_PROP_6569_SEC_MF
+proportion, 65-69, total, tertiary|MYS_PROP_6569_TER_MF
+proportion, 65+, female, no education|MYS_PROP_65UP_NED_FE
+proportion, 65+, female, primary|MYS_PROP_65UP_PRI_FE
+proportion, 65+, female, secondary|MYS_PROP_65UP_SEC_FE
+proportion, 65+, female, tertiary|MYS_PROP_65UP_TER_FE
+proportion, 65+, male, no education|MYS_PROP_65UP_NED_MA
+proportion, 65+, male, primary|MYS_PROP_65UP_PRI_MA
+proportion, 65+, male, secondary|MYS_PROP_65UP_SEC_MA
+proportion, 65+, male, tertiary|MYS_PROP_65UP_TER_MA
+proportion, 65+, total, no education|MYS_PROP_65UP_NED_MF
+proportion, 65+, total, primary|MYS_PROP_65UP_PRI_MF
+proportion, 65+, total, secondary|MYS_PROP_65UP_SEC_MF
+proportion, 65+, total, tertiary|MYS_PROP_65UP_TER_MF
+proportion, 70-74, female, no education|MYS_PROP_7074_NED_FE
+proportion, 70-74, female, primary|MYS_PROP_7074_PRI_FE
+proportion, 70-74, female, secondary|MYS_PROP_7074_SEC_FE
+proportion, 70-74, female, tertiary|MYS_PROP_7074_TER_FE
+proportion, 70-74, male, no education|MYS_PROP_7074_NED_MA
+proportion, 70-74, male, primary|MYS_PROP_7074_PRI_MA
+proportion, 70-74, male, secondary|MYS_PROP_7074_SEC_MA
+proportion, 70-74, male, tertiary|MYS_PROP_7074_TER_MA
+proportion, 70-74, total, no education|MYS_PROP_7074_NED_MF
+proportion, 70-74, total, primary|MYS_PROP_7074_PRI_MF
+proportion, 70-74, total, secondary|MYS_PROP_7074_SEC_MF
+proportion, 70-74, total, tertiary|MYS_PROP_7074_TER_MF
+proportion, 75-79, female, no education|MYS_PROP_7579_NED_FE
+proportion, 75-79, female, primary|MYS_PROP_7579_PRI_FE
+proportion, 75-79, female, secondary|MYS_PROP_7579_SEC_FE
+proportion, 75-79, female, tertiary|MYS_PROP_7579_TER_FE
+proportion, 75-79, male, no education|MYS_PROP_7579_NED_MA
+proportion, 75-79, male, primary|MYS_PROP_7579_PRI_MA
+proportion, 75-79, male, secondary|MYS_PROP_7579_SEC_MA
+proportion, 75-79, male, tertiary|MYS_PROP_7579_TER_MA
+proportion, 75-79, total, no education|MYS_PROP_7579_NED_MF
+proportion, 75-79, total, primary|MYS_PROP_7579_PRI_MF
+proportion, 75-79, total, secondary|MYS_PROP_7579_SEC_MF
+proportion, 75-79, total, tertiary|MYS_PROP_7579_TER_MF
+proportion, 80+, female, no education|MYS_PROP_80UP_NED_FE
+proportion, 80+, female, primary|MYS_PROP_80UP_PRI_FE
+proportion, 80+, female, secondary|MYS_PROP_80UP_SEC_FE
+proportion, 80+, female, tertiary|MYS_PROP_80UP_TER_FE
+proportion, 80+, male, no education|MYS_PROP_80UP_NED_MA
+proportion, 80+, male, primary|MYS_PROP_80UP_PRI_MA
+proportion, 80+, male, secondary|MYS_PROP_80UP_SEC_MA
+proportion, 80+, male, tertiary|MYS_PROP_80UP_TER_MA
+proportion, 80+, total, no education|MYS_PROP_80UP_NED_MF
+proportion, 80+, total, primary|MYS_PROP_80UP_PRI_MF
+proportion, 80+, total, secondary|MYS_PROP_80UP_SEC_MF
+proportion, 80+, total, tertiary|MYS_PROP_80UP_TER_MF
+Public current education expenditure (% of total education expenditure)|SE_XPD_CUR_TOTL_ZS
+Public current education expenditure, primary (% of current education expenditure)|SE_XPD_CUR_PRIM_ZS
+Public current education expenditure, secondary (% of current education expenditure)|SE_XPD_CUR_SECO_ZS
+Public current education expenditure, tertiary (% of current education expenditure)|SE_XPD_CUR_TERT_ZS
+Public current expenditure on education as % of total current government expenditure|UIS_XGOVEXP_FNCUR
+Public education expenditure per student (% of p.c. GDP), all levels|SE_XPD_TOTL_PC_ZS
+Public education expenditure, % of GNI|SE_XPD_TOTL_GN_ZS
+Pupil-teacher ratio.  Lower secondary|UIS_PTRHC_2
+Pupil-teacher ratio.  Pre-primary|SE_PRE_ENRL_TC_ZS
+Pupil-teacher ratio.  Upper secondary|UIS_PTRHC_3
+Pupils of the official school age.  Pre-primary.  Female|UIS_E_0_AGI0_F
+Pupils of the official school age.  Pre-primary.  Male|UIS_E_0_AGI0_M
+Pupils of the official school age.  Pre-primary.  Total|UIS_E_0_AGI0
+Pupils of the official school age.  Primary.  Female|UIS_E_1_AGI1_F
+Pupils of the official school age.  Primary.  Male|UIS_E_1_AGI1_M
+Pupils of the official school age.  Primary.  Total|UIS_E_1_AGI1
+Pupils of the official school age.  Secondary.  Female|UIS_E_23_AGI23_F
+Pupils of the official school age.  Secondary.  Male|UIS_E_23_AGI23_M
+Pupils of the official school age.  Secondary.  Total|UIS_E_23_AGI23
+Repeaters in primary. All grades.  Female|UIS_R_1_F
+Repeaters in primary. All grades.  Total|UIS_R_1
+Repeaters in primary. Grade 1.  Female|UIS_R_1_G1_F
+Repeaters in primary. Grade 1.  Total|UIS_R_1_G1
+Repeaters in primary. Grade 2.  Female|UIS_R_1_G2_F
+Repeaters in primary. Grade 2.  Total|UIS_R_1_G2
+Repeaters in primary. Grade 3.  Female|UIS_R_1_G3_F
+Repeaters in primary. Grade 3.  Total|UIS_R_1_G3
+Repeaters in primary. Grade 4.  Female|UIS_R_1_G4_F
+Repeaters in primary. Grade 4.  Total|UIS_R_1_G4
+Repeaters in primary. Grade 5.  Female|UIS_R_1_G5_F
+Repeaters in primary. Grade 5.  Total|UIS_R_1_G5
+Repeaters in primary. Grade 6.  Female|UIS_R_1_G6_F
+Repeaters in primary. Grade 6.  Total|UIS_R_1_G6
+Repeaters in primary. Grade 7.  Female|UIS_R_1_G7_F
+Repeaters in primary. Grade 7.  Total|UIS_R_1_G7
+Repeaters in primary. Grade unspecified.  Female|UIS_R_1_GUK_F
+Repeaters in primary. Grade unspecified.  Total|UIS_R_1_GUK
+Repeaters in secondary. All grades. Female|UIS_R_23_GPV_F
+Repeaters in secondary. All grades. Total|UIS_R_23_GPV
+Repeaters in secondary. Grade 1. Female|UIS_R_23_GPV_G1_F
+Repeaters in secondary. Grade 1. Total|UIS_R_23_GPV_G1
+Repeaters in secondary. Grade 10. Female|UIS_R_23_GPV_G10_F
+Repeaters in secondary. Grade 10. Total|UIS_R_23_GPV_G10
+Repeaters in secondary. Grade 2. Female|UIS_R_23_GPV_G2_F
+Repeaters in secondary. Grade 2. Total|UIS_R_23_GPV_G2
+Repeaters in secondary. Grade 3. Female|UIS_R_23_GPV_G3_F
+Repeaters in secondary. Grade 3. Total|UIS_R_23_GPV_G3
+Repeaters in secondary. Grade 4. Female|UIS_R_23_GPV_G4_F
+Repeaters in secondary. Grade 4. Total|UIS_R_23_GPV_G4
+Repeaters in secondary. Grade 5. Female|UIS_R_23_GPV_G5_F
+Repeaters in secondary. Grade 5. Total|UIS_R_23_GPV_G5
+Repeaters in secondary. Grade 6. Female|UIS_R_23_GPV_G6_F
+Repeaters in secondary. Grade 6. Total|UIS_R_23_GPV_G6
+Repeaters in secondary. Grade 7. Female|UIS_R_23_GPV_G7_F
+Repeaters in secondary. Grade 7. Total|UIS_R_23_GPV_G7
+Repeaters in secondary. Grade 8. Female|UIS_R_23_GPV_G8_F
+Repeaters in secondary. Grade 8. Total|UIS_R_23_GPV_G8
+Repeaters in secondary. Grade 9. Female|UIS_R_23_GPV_G9_F
+Repeaters in secondary. Grade 9. Total|UIS_R_23_GPV_G9
+Repetition rate in primary. Grade 1. Female|UIS_REPR_1_G1_F
+Repetition rate in primary. Grade 1. Male|UIS_REPR_1_G1_M
+Repetition rate in primary. Grade 1. Total|UIS_REPR_1_G1
+Repetition rate in primary. Grade 2. Female|UIS_REPR_1_G2_F
+Repetition rate in primary. Grade 2. Male|UIS_REPR_1_G2_M
+Repetition rate in primary. Grade 2. Total|UIS_REPR_1_G2
+Repetition rate in primary. Grade 3. Female|UIS_REPR_1_G3_F
+Repetition rate in primary. Grade 3. Male|UIS_REPR_1_G3_M
+Repetition rate in primary. Grade 3. Total|UIS_REPR_1_G3
+Repetition rate in primary. Grade 4. Female|UIS_REPR_1_G4_F
+Repetition rate in primary. Grade 4. Male|UIS_REPR_1_G4_M
+Repetition rate in primary. Grade 4. Total|UIS_REPR_1_G4
+Repetition rate in primary. Grade 5. Female|UIS_REPR_1_G5_F
+Repetition rate in primary. Grade 5. Male|UIS_REPR_1_G5_M
+Repetition rate in primary. Grade 5. Total|UIS_REPR_1_G5
+Repetition rate in primary. Grade 6. Female|UIS_REPR_1_G6_F
+Repetition rate in primary. Grade 6. Male|UIS_REPR_1_G6_M
+Repetition rate in primary. Grade 6. Total|UIS_REPR_1_G6
+Repetition rate in primary. Grade 7. Female|UIS_REPR_1_G7_F
+Repetition rate in primary. Grade 7. Male|UIS_REPR_1_G7_M
+Repetition rate in primary. Grade 7. Total|UIS_REPR_1_G7
+SACMEQ:Mean performance on the mathematics scale|LO_SACMEQ_MAT
+SACMEQ:Mean performance on the mathematics scale, female|LO_SACMEQ_MAT_FE
+SACMEQ:Mean performance on the mathematics scale, male|LO_SACMEQ_MAT_MA
+SACMEQ:Mean performance on the reading scale, female|LO_SACMEQ_REA_FE
+SACMEQ:Mean performance on the reading scale, male|LO_SACMEQ_REA_MA
+SACMEQ:Mean performance on the reading scale, total|LO_SACMEQ_REA
+SACMEQ:Students at the highest level of proficiency on the mathematics scale (%)|LO_SACMEQ_MAT_HIG
+SACMEQ:Students at the highest level of proficiency on the mathematics scale (%), female|LO_SACMEQ_MAT_HIG_FE
+SACMEQ:Students at the highest level of proficiency on the mathematics scale (%), male|LO_SACMEQ_MAT_HIG_MA
+SACMEQ:Students at the highest level of proficiency on the reading scale (%)|LO_SACMEQ_REA_HIG
+SACMEQ:Students at the highest level of proficiency on the reading scale (%), female|LO_SACMEQ_REA_HIG_FE
+SACMEQ:Students at the highest level of proficiency on the reading scale (%), male|LO_SACMEQ_REA_HIG_MA
+SACMEQ:Students at the lowest level of proficiency on the mathematics scale (%)|LO_SACMEQ_MAT_LOW
+SACMEQ:Students at the lowest level of proficiency on the mathematics scale (%), female|LO_SACMEQ_MAT_LOW_FE
+SACMEQ:Students at the lowest level of proficiency on the mathematics scale (%), male|LO_SACMEQ_MAT_LOW_MA
+SACMEQ:Students at the lowest level of proficiency on the reading scale (%)|LO_SACMEQ_REA_LOW
+SACMEQ:Students at the lowest level of proficiency on the reading scale (%), female|LO_SACMEQ_REA_LOW_FE
+SACMEQ:Students at the lowest level of proficiency on the reading scale (%), male|LO_SACMEQ_REA_LOW_MA
+School age population.  Official entrance age.  Female|UIS_SAP_1_G1_F
+School age population.  Official entrance age.  Male|UIS_SAP_1_G1_M
+School age population.  Official entrance age.  Total|UIS_SAP_1_G1
+School age population.  Post-secondary.  Female|UIS_SAP_4_F
+School age population.  Post-secondary.  Male|UIS_SAP_4_M
+School age population.  Post-secondary.  Total|UIS_SAP_4
+School age population. Primary. Last Grade. Female|SP_PRM_GRAD_FE
+School age population. Primary. Last Grade. Male|SP_PRM_GRAD_MA
+School age population. Primary. Last Grade. Total|SP_PRM_GRAD_TO
+School life expectancy (years).  Pre-primary.  Female|UIS_SLE_0_F
+School life expectancy (years).  Pre-primary.  Male|UIS_SLE_0_M
+School life expectancy (years).  Pre-primary.  Total|UIS_SLE_0
+School life expectancy (years).  Primary to secondary.  Female|UIS_SLE_123_F
+School life expectancy (years).  Primary to secondary.  Male|UIS_SLE_123_M
+School life expectancy (years).  Primary to secondary.  Total|UIS_SLE_123
+School life expectancy (years).  Tertiary.  Female|UIS_SLE_56_F
+School life expectancy (years).  Tertiary.  Male|UIS_SLE_56_M
+School life expectancy (years).  Tertiary.  Total|UIS_SLE_56
+Secondary education, general pupils, female|SE_SEC_ENRL_GC_FE
+Secondary education, teachers (% trained)|SE_SEC_TCAQ_ZS
+Secondary education, teachers (% trained), female|SE_SEC_TCAQ_FE_ZS
+Secondary education, teachers (% trained), male|SE_SEC_TCAQ_MA_ZS
+Secondary education, vocational pupils, female|SE_SEC_ENRL_VO_FE
+Share of expenditure for tertiary education (% of total education expenditure)|SE_XPD_TERT_ZS
+Share of primary school-age children enrolled in pre-primary education (%). Female|UIS_ROFSPPT_1_F
+Share of primary school-age children enrolled in pre-primary education (%). Male|UIS_ROFSPPT_1_M
+Share of primary school-age children enrolled in pre-primary education (%). Total|UIS_ROFSPPT_1
+Starting age of compulsory education|UIS_CEAGE_1
+Starting month of the academic year (Questionnaire A)|UIS_AY_SM
+Starting year of the academic year (Questionnaire A)|UIS_AY_SY
+Student enrollment, primary, female|SE_PRM_ENRL_FE
+Student enrollment, secondary, female|SE_SEC_ENRL_FE
+Student enrollment, tertiary, female|SE_TER_ENRL_FE
+Student enrollment, tertiary, male|SE_TER_ENRL_MA
+Student enrollment, tertiary, total|SE_TER_ENRL
+Survival rate to grade 4.  Female|UIS_SR_1_G4_F
+Survival rate to grade 4.  Male|UIS_SR_1_G4_M
+Survival rate to grade 4.  Total|UIS_SR_1_G4
+Teaching staff in 5A tertiary. Public and private. Full and part-time. All programmes. Female|UIS_T_5_A_F
+Teaching staff in 5A tertiary. Public and private. Full and part-time. All programmes. Total|UIS_T_5_A
+Teaching staff in 5B tertiary. Public and private. Full and part-time. All programmes. Female|UIS_T_5_B_F
+Teaching staff in 5B tertiary. Public and private. Full and part-time. All programmes. Total|UIS_T_5_B
+Teaching staff in lower secondary. Public and private. Full and part-time. All programmes. Female|UIS_T_2_F
+Teaching staff in lower secondary. Public and private. Full and part-time. All programmes. Total|UIS_T_2
+Teaching staff in lower secondary. Public and private. Full and part-time. General programmes. Female|UIS_T_2_GPV_F
+Teaching staff in lower secondary. Public and private. Full and part-time. General programmes. Total|UIS_T_2_GPV
+Teaching staff in lower secondary. Public and private. Full and part-time. Technical/vocational programmes. Female|UIS_T_2_V_F
+Teaching staff in lower secondary. Public and private. Full and part-time. Technical/vocational programmes. Total|UIS_T_2_V
+Teaching staff in post-secondary. Public and private. Full and part-time. All programmes. Female|UIS_T_4_F
+Teaching staff in post-secondary. Public and private. Full and part-time. All programmes. Total|UIS_T_4
+Teaching staff in post-secondary. Public and private. Full and part-time. General programmes. Female|UIS_T_4_GPV_F
+Teaching staff in post-secondary. Public and private. Full and part-time. General programmes. Total|UIS_T_4_GPV
+Teaching staff in post-secondary. Public and private. Full and part-time. Technical/vocational programmes. Female|UIS_T_4_V_F
+Teaching staff in post-secondary. Public and private. Full and part-time. Technical/vocational programmes. Total|UIS_T_4_V
+Teaching staff in pre-primary. Public and private. Full and part-time. All programmes. Female|SE_PRE_TCHR_FE
+Teaching staff in pre-primary. Public and private. Full and part-time. All programmes. Total|SE_PRE_TCHR
+Teaching staff in primary. Public and private. Full and part-time. All programmes. Female|SE_PRM_TCHR_FE
+Teaching staff in total secondary. Public and private. Full and part-time. All programmes. Male|SE_SEC_TCHR_MA
+Teaching staff in total secondary. Public and private. Full and part-time. General programmes. Female|UIS_T_23_GPV_F
+Teaching staff in total secondary. Public and private. Full and part-time. General programmes. Total|UIS_T_23_GPV
+Teaching staff in total secondary. Public and private. Full and part-time. Technical/vocational programmes. Female|UIS_T_23_V_F
+Teaching staff in total secondary. Public and private. Full and part-time. Technical/vocational programmes. Total|UIS_T_23_V
+Teaching staff in total tertiary. Public and private. Full and part-time. All programmes. Female|SE_TER_TCHR_FE
+Teaching staff in upper secondary. Public and private. Full and part-time. All programmes. Female|UIS_T_3_F
+Teaching staff in upper secondary. Public and private. Full and part-time. All programmes. Total|UIS_T_3
+Teaching staff in upper secondary. Public and private. Full and part-time. General programmes. Female|UIS_T_3_GPV_F
+Teaching staff in upper secondary. Public and private. Full and part-time. General programmes. Total|UIS_T_3_GPV
+Teaching staff in upper secondary. Public and private. Full and part-time. Technical/vocational programmes. Female|UIS_T_3_V_F
+Teaching staff in upper secondary. Public and private. Full and part-time. Technical/vocational programmes. Total|UIS_T_3_V
+Technical/vocational enrolment in lower secondary (ISCED 2) as % of total enrolment in lower secondary (ISCED 2)|UIS_GTVP_2_V
+Technical/vocational enrolment in upper secondary (ISCED 3) as % of total enrolment in upper secondary (ISCED 3)|UIS_GTVP_3_V
+Tertiary education, teachers|SE_TER_TCHR
+TIMSS:Eighth grade students reaching the advanced international benchmark of mathematics achievement (%)|LO_TIMSS_MAT8_ADV
+TIMSS:Eighth grade students reaching the advanced international benchmark of science achievement (%)|LO_TIMSS_SCI8_ADV
+TIMSS:Eighth grade students reaching the low international benchmark of mathematics achievement (%)|LO_TIMSS_MAT8_LOW
+TIMSS:Eighth grade students reaching the low international benchmark of science achievement (%)|LO_TIMSS_SCI8_LOW
+TIMSS:Fourth  grade students reaching the advanced international benchmark of mathematics achievement (%)|LO_TIMSS_MAT4_ADV
+TIMSS:Fourth  grade students reaching the advanced international benchmark of science achievement (%)|LO_TIMSS_SCI4_ADV
+TIMSS:Fourth  grade students reaching the low international benchmark of mathematics achievement (%)|LO_TIMSS_MAT4_LOW
+TIMSS:Fourth  grade students reaching the low international benchmark of science achievement (%)|LO_TIMSS_SCI4_LOW
+TIMSS:Mean performance on the mathematics scale  for eighth grade students, female|LO_TIMSS_MAT8_FE
+TIMSS:Mean performance on the mathematics scale  for eighth grade students, male|LO_TIMSS_MAT8_MA
+TIMSS:Mean performance on the mathematics scale  for eighth grade students, total|LO_TIMSS_MAT8
+TIMSS:Mean performance on the mathematics scale  for fourth grade students, female|LO_TIMSS_MAT4_FE
+TIMSS:Mean performance on the mathematics scale  for fourth grade students, male|LO_TIMSS_MAT4_MA
+TIMSS:Mean performance on the mathematics scale  for fourth grade students, total|LO_TIMSS_MAT4
+TIMSS:Mean performance on the science scale  for eighth grade students, female|LO_TIMSS_SCI8_FE
+TIMSS:Mean performance on the science scale  for eighth grade students, male|LO_TIMSS_SCI8_MA
+TIMSS:Mean performance on the science scale  for eighth grade students, total|LO_TIMSS_SCI8
+TIMSS:Mean performance on the science scale  for fourth grade students, female|LO_TIMSS_SCI4_FE
+TIMSS:Mean performance on the science scale  for fourth grade students, male|LO_TIMSS_SCI4_MA
+TIMSS:Mean performance on the science scale  for fourth grade students, total|LO_TIMSS_SCI4
+Total expenditure on educational institutions and administration as a % of GDP. All sources. All levels|UIS_XGDP_FDINSTADM_FFD
+Total expenditure on educational institutions and administration as a % of GDP. All sources. Pre-primary|UIS_XGDP_0_FDINSTADM_FFD
+Total expenditure on educational institutions and administration as a % of GDP. All sources. Primary|UIS_XGDP_1_FDINSTADM_FFD
+Total expenditure on educational institutions and administration as a % of GDP. All sources. Secondary and post-secondary non-tertiary|UIS_XGDP_234_FDINSTADM_FFD
+Total expenditure on educational institutions and administration as a % of GDP. All sources. Tertiary|UIS_XGDP_56_FDINSTADM_FFD
+Total expenditure on educational institutions and administration as a % of GDP. International sources. All levels|UIS_XGDP_FSINT_FDINST_FFD
+Total expenditure on educational institutions and administration as a % of GDP. Private sources. All levels|UIS_XGDP_FSPR_FDINST_FFD
+Total expenditure on educational institutions and administration as a % of GDP. Private sources. Pre-primary|UIS_XGDP_0_FSPR_FDINST_FFD
+Total expenditure on educational institutions and administration as a % of GDP. Private sources. Primary|UIS_XGDP_1_FSPR_FDINST_FFD
+Total expenditure on educational institutions and administration as a % of GDP. Private sources. Secondary and post-secondary non-tertiary|UIS_XGDP_234_FSPR_FDINST_FFD
+Total expenditure on educational institutions and administration as a % of GDP. Private sources. Tertiary|UIS_XGDP_56_FSPR_FDINST_FFD
+Total expenditure on educational institutions and administration as a % of GDP. Public sources. All levels|UIS_XGDP_FSGOV_FDINSTADM_FFD
+Total expenditure on educational institutions and administration as a % of GDP. Public sources. Pre-primary|UIS_XGDP_0_FSGOV_FDINSTADM_FFD
+Total expenditure on educational institutions and administration as a % of GDP. Public sources. Primary|UIS_XGDP_1_FSGOV_FDINSTADM_FFD
+Total expenditure on educational institutions and administration as a % of GDP. Public sources. Secondary and post-secondary non-tertiary|XGDP_234_FSGOV_FDINSTADM_FFD
+Total expenditure on educational institutions and administration as a % of GDP. Public sources. Tertiary|XGDP_56_FSGOV_FDINSTADM_FFD
+Under-age enrolment ratio. Primary. Female|UIS_UAPP_1_F
+Under-age enrolment ratio. Primary. Male|UIS_UAPP_1_M
+Under-age enrolment ratio. Primary. Total|UIS_UAPP_1
+Vocational and Technical enrollment (% of total secondary enrollment), female|SE_SEC_ENRL_FE_VO_ZS
+Vocational and Technical enrollment (% of total secondary enrollment), male|SE_SEC_ENRL_MA_VO_ZS
+Vocational and Technical enrollment (% of total secondary enrollment), total|SE_SEC_ENRL_VO_ZS
+Youth illiterate population. % female|UIS_LPP_AG15T24
+Youth illiterate population. Female|UIS_LP_AG15T24_F
+Youth illiterate population. Male|UIS_LP_AG15T24_M
+Youth illiterate population. Total|UIS_LP_AG15T24
+
